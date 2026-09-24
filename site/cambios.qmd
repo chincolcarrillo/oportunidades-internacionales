@@ -1,0 +1,16 @@
+---
+title: Cambios recientes
+---
+
+Cambios aplicados a la base. Las propuestas pendientes de revisión no se publican aquí.
+
+```{r}
+setwd('..')
+source('scripts/load.R',encoding='UTF-8')
+db <- load_db()
+x <- db$changes[flag(db$changes$auto_applied),,drop=FALSE]
+x$convocatoria <- db$opportunities$convocatoria[match(x$opportunity_id,db$opportunities$opportunity_id)]
+x$fuente <- db$sources$url[match(x$source_id,db$sources$source_id)]
+x <- x[order(x$detected_at,decreasing=TRUE),c('convocatoria','field','old_value','new_value','detected_at','fuente'),drop=FALSE]
+site_table(head(x,200))
+```

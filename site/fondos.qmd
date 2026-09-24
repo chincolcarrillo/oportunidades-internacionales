@@ -1,0 +1,12 @@
+---
+title: Fondos de investigación
+---
+
+Busque por palabra clave o combine los filtros de cada columna. «Elegir columnas» permite consultar todos los campos, incluidos requisitos, región, disciplinas y montos. Las fechas con texto o `(check)` requieren verificación.
+
+```{r}
+setwd('..')
+source('scripts/load.R',encoding='UTF-8')
+x <- published_tables(load_db())$fondos_investigacion
+site_table(x,c('convocatoria','institucion_financiante','region','elegibilidad_uchile','estado_actual','fecha_cierre','enlaces'))
+```

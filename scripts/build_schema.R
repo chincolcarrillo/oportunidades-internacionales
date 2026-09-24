@@ -1,0 +1,7 @@
+source('scripts/load.R')
+nullable <- function() list(type=c('string','null'))
+object <- function(properties) list(type='object',additionalProperties=FALSE,properties=properties,required=names(properties))
+field <- object(list(field=list(type='string',enum=unique(c(editable_call,editable_opportunity))),value=nullable(),quote=nullable(),url=list(type='string')))
+s <- object(list(convocatoria=nullable(),institucion_financiante=nullable(),edicion=nullable(),tipo_oportunidad=list(type=c('string','null'),enum=c('fondo','estancia','ambos',list(NULL))),scope=list(type='string',enum=c('in','out','unknown')),eligibility=list(type='string',enum=c('yes','no','unknown')),high_confidence=list(type='boolean'),reason=list(type='string'),fields=list(type='array',items=field)))
+dir.create('config/schemas',recursive=TRUE,showWarnings=FALSE)
+jsonlite::write_json(s,'config/schemas/opportunity.schema.json',auto_unbox=TRUE,pretty=TRUE,null='null')

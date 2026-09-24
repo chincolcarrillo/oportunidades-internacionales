@@ -1,0 +1,62 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "convocatoria": {
+      "type": ["string", "null"]
+    },
+    "institucion_financiante": {
+      "type": ["string", "null"]
+    },
+    "edicion": {
+      "type": ["string", "null"]
+    },
+    "tipo_oportunidad": {
+      "type": ["string", "null"],
+      "enum": [
+        "fondo",
+        "estancia",
+        "ambos",
+        null
+      ]
+    },
+    "scope": {
+      "type": "string",
+      "enum": ["in", "out", "unknown"]
+    },
+    "eligibility": {
+      "type": "string",
+      "enum": ["yes", "no", "unknown"]
+    },
+    "high_confidence": {
+      "type": "boolean"
+    },
+    "reason": {
+      "type": "string"
+    },
+    "fields": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "field": {
+            "type": "string",
+            "enum": ["edicion", "fecha_apertura", "fecha_cierre", "fecha_apertura_texto", "fecha_cierre_texto", "monto_financiamiento_texto", "monto_min", "monto_max", "moneda", "requiere_cofinanciamiento", "gastos_financiables", "gastos_cubiertos", "duracion_proyecto", "duracion_estancia", "periodo_estancia", "elegibilidad_uchile", "estado_fuente", "observaciones_dudas", "tipo_oportunidad", "convocatoria", "programa", "institucion_financiante", "institucion_destino", "pais", "region", "idiomas_postulacion", "area_disciplinar", "objetivo", "alcance", "perfil_investigador_elegible", "etapa_carrera", "tipo_investigacion", "requisitos_contraparte", "rol_permitido_para_postulante", "frecuencia_apertura_llamado", "frecuencia_normalizada"]
+          },
+          "value": {
+            "type": ["string", "null"]
+          },
+          "quote": {
+            "type": ["string", "null"]
+          },
+          "url": {
+            "type": "string"
+          }
+        },
+        "required": ["field", "value", "quote", "url"]
+      }
+    }
+  },
+  "required": ["convocatoria", "institucion_financiante", "edicion", "tipo_oportunidad", "scope", "eligibility", "high_confidence", "reason", "fields"]
+}

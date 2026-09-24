@@ -1,0 +1,11 @@
+:root { --ink: #183e52; --paper: #f5f7f8; }
+body { color: #263e49; }
+h1, h2 { color: var(--ink); }
+.metrics { display: grid; grid-template-columns: repeat(auto-fit,minmax(170px,1fr)); gap: 16px; margin: 32px 0; }
+.metric { background: var(--paper); border-top: 4px solid #258577; border-radius: 4px; padding: 22px; }
+.metric strong { font-size: 2.3rem; color: var(--ink); }
+.metric p { margin: 0; }
+table.dataTable tbody td { vertical-align: top; min-width: 140px; max-width: 420px; white-space: normal !important; font-size: .9rem; }
+.dataTables_wrapper { margin-top: 24px; }
+.navbar-brand { font-weight: 600; }
+.btn { margin: 4px 8px 4px 0; }

@@ -1,0 +1,18 @@
+{
+  "convocatoria": "Research Futures",
+  "institucion_financiante": "Spencer Foundation",
+  "edicion": "2026",
+  "tipo_oportunidad": "fondo",
+  "scope": "in",
+  "eligibility": "yes",
+  "high_confidence": true,
+  "reason": "Simulated fixture only",
+  "fields": [
+    {"field":"convocatoria","value":"Research Futures","quote":"Research Futures","url":"https://www.spencer.org/fixture-only-program"},
+    {"field":"institucion_financiante","value":"Spencer Foundation","quote":"Spencer Foundation","url":"https://www.spencer.org/fixture-only-program"},
+    {"field":"tipo_oportunidad","value":"fondo","quote":"is a research project grant","url":"https://www.spencer.org/fixture-only-program"},
+    {"field":"elegibilidad_uchile","value":"Sí","quote":"Universities in Chile are eligible as principal applicants.","url":"https://www.spencer.org/fixture-only-program"},
+    {"field":"fecha_apertura","value":"2026-10-01","quote":"Applications open on 1 October 2026","url":"https://www.spencer.org/fixture-only-program"},
+    {"field":"fecha_cierre","value":"2026-12-15","quote":"close on 15 December 2026","url":"https://www.spencer.org/fixture-only-program"}
+  ]
+}

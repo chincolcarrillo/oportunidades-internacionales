@@ -1,0 +1,9 @@
+Package: facsomonitor
+Title: International Research Opportunities Monitor
+Version: 0.1.0
+Description: R-first deterministic research opportunity monitoring and static publication.
+License: MIT
+Encoding: UTF-8
+Imports: readxl, digest, jsonlite, yaml, httr2, xml2, rvest, robotstxt,
+    knitr, rmarkdown, DT, jsonvalidate, htmltools
+Suggests: testthat, withr, renv

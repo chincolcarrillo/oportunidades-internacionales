@@ -1,0 +1,12 @@
+---
+title: Estancias de investigación
+---
+
+Estancias y movilidad con componente de investigación. Consulte la institución de destino, duración, contraparte y gastos cubiertos mediante «Elegir columnas».
+
+```{r}
+setwd('..')
+source('scripts/load.R',encoding='UTF-8')
+x <- published_tables(load_db())$estancias_investigacion
+site_table(x,c('convocatoria','institucion_destino','pais','duracion_estancia','requisitos_contraparte','gastos_cubiertos','estado_actual','enlaces'))
+```

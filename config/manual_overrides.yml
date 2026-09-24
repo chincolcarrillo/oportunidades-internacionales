@@ -1,0 +1,8 @@
+overrides: []
+# - table: calls
+#   id: call_REEMPLAZAR
+#   field: fecha_cierre
+#   value: '2026-12-15'
+#   source_id: src_REEMPLAZAR
+#   quote: 'Applications close on 15 December 2026'
+#   reason: 'Fecha confirmada en bases oficiales'

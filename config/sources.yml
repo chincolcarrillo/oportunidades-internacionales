@@ -1,0 +1,18 @@
+user_agent: FACSOOpportunityMonitor/0.1
+request_delay_seconds: 2
+min_check_days: 3
+# Human-reviewed institution domains, never infer officiality from the model alone.
+official_domains:
+  - www.spencer.org
+  - www.wennergren.org
+  - wennergren.org
+  - www.gerda-henkel-stiftung.de
+  - leakeyfoundation.org
+  - www.fondationfyssen.fr
+  - jacobsfoundation.org
+  - www.unesco.org
+  - www.clacso.org
+  - calas.lat
+  - research-and-innovation.ec.europa.eu
+  - marie-sklodowska-curie-actions.ec.europa.eu
+blocked_domains: []

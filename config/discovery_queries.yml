@@ -1,0 +1,31 @@
+queries:
+  - family: agencias_nacionales
+    query: 'national research agency international social sciences research grants Chile eligible partner'
+  - family: ministerios
+    query: 'ministerio convocatoria cooperación investigación internacional ciencias sociales Chile'
+  - family: cooperacion
+    query: 'international development cooperation research funding Latin America Chile university'
+  - family: multilaterales
+    query: 'multilateral research grants education inequality democracy Latin America Chile'
+  - family: filantropicas
+    query: 'philanthropic foundation social sciences research grants international applicants Chile'
+  - family: cientificas_culturales
+    query: 'fondation appel projets recherche sciences humaines patrimoine Chili international'
+  - family: centros
+    query: 'research centre funded visiting scholar social sciences international applicants Chile'
+  - family: institutos_avanzados
+    query: 'institute advanced study residential fellowships humanities social sciences international'
+  - family: universidades
+    query: 'university international research fellowships funded visiting researchers Latin America'
+  - family: facultades
+    query: 'school department education archaeology psychology funded visiting fellowship international'
+  - family: programas_regionales
+    query: 'programa regional financiamento pesquisa ciências sociais Chile cooperação internacional'
+  - family: redes_academicas
+    query: 'academic network research grants gender childhood indigenous labour studies international'
+  - family: embajadas_binacionales
+    query: 'embajada fondo bilateral investigación Chile cooperación universidades'
+  - family: organizaciones_internacionales
+    query: 'international organization research call human rights mental health Chile eligible'
+  - family: programas_tematicos
+    query: 'international research funding environment territory heritage democracy gender education Chile'

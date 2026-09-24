@@ -1,3 +1,7 @@
+# Agent files
+AGENTS.md
+prompt_codex_monitor_oportunidades.md
+
 # History files
 .Rhistory
 .Rapp.history
@@ -39,8 +43,19 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# pkgdown site
-docs/
+# Project generated files and secrets
+.env
+.tools/
+renv/library/
+renv/staging/
+renv/cache/
+site/_site/
+site/.quarto/
+tmp/
+data/staging/evidence/
+data/.lock/
+data/.transaction/
+data/.previous/
 
 # translation temp files
 po/*~

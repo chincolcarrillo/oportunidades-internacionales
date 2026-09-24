@@ -1,0 +1,14 @@
+---
+title: Próximos cierres
+---
+
+Solo fechas completas con evidencia registrada. Orden ascendente por cierre; se excluyen fechas narrativas, parciales o sin verificar.
+
+```{r}
+setwd('..')
+source('scripts/load.R',encoding='UTF-8')
+db <- load_db()
+x <- upcoming_calls(db)
+x <- x[,c('fecha_cierre','convocatoria','institucion_financiante','elegibilidad_uchile','last_verified'),drop=FALSE]
+site_table(x)
+```

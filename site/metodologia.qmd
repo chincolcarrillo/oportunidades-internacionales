@@ -1,0 +1,19 @@
+---
+title: Metodología y alcance
+---
+
+Esta base reúne instrumentos internacionales que financian proyectos de investigación o estancias presenciales subvencionadas. Prioriza la participación de investigadores residentes en Chile y asociados a una universidad chilena, como responsables o socios.
+
+Se incluyen humanidades, ciencias sociales, estudios de género, infancias, pueblos indígenas, trabajo, América Latina, trabajo social, sociología, antropología, psicología, arqueología, paleobiología, educación y programas interdisciplinarios que admiten estas áreas.
+
+Las páginas específicas de convocatoria y sus bases oficiales tienen prioridad sobre las páginas generales de programas, instituciones socias y fuentes secundarias. No se considera plenamente verificado un dato crítico sustentado solo en un agregador.
+
+**Sí** en elegibilidad requiere evidencia oficial registrada. **No claro (check)** significa que falta evidencia o existen condiciones que revisar. Las oportunidades claramente inelegibles no se publican. Los premios, subsidios exclusivos de publicación y registros de alcance dudoso pasan a revisión.
+
+Los estados se calculan con fechas completas y la zona horaria America/Santiago. Los textos históricos «Abierta» o «Recurrente» se conservan como antecedente y no determinan por sí solos el estado actual. «Bianual» se considera ambiguo hasta conocer su periodicidad exacta.
+
+El sistema distingue un instrumento estable de cada edición y conserva cambios y fuentes. Las correcciones humanas prevalecen. Una página caída no elimina una oportunidad.
+
+La programación preparada contempla monitoreo dos veces por semana y descubrimiento semanal. **La actualización automática comenzará cuando se configure y active la ejecución en GitHub.** La fecha de la portada indica la última actualización efectiva.
+
+La base es una herramienta de orientación para equipos de gestión. **Las bases oficiales son siempre la referencia definitiva** sobre fechas, elegibilidad, financiamiento y documentación requerida.

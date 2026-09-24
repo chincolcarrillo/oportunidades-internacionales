@@ -1,0 +1,54 @@
+---
+title: 'Investigar y conectar desde Chile'
+---
+
+```{r}
+setwd('..')
+source('scripts/load.R',encoding='UTF-8')
+db <- load_db()
+p <- published_tables(db)
+calls <- merge(db$calls,db$opportunities,by='opportunity_id')
+eligible <- calls[flag(calls$active_record) & calls$elegibilidad_uchile!='No',]
+upcoming <- upcoming_calls(db)
+stamp <- if(nrow(db$runs)) tail(db$runs$finished_at,1) else max(db$opportunities$first_seen)
+```
+
+Fondos y estancias internacionales para investigadores e investigadoras de la Facultad de Ciencias Sociales de la Universidad de Chile.
+
+Última actualización de la base: **`r stamp`** (UTC). Estados calculados al **`r today()`**, zona America/Santiago.
+
+::: {.metrics}
+::: {.metric}
+**`r length(unique(eligible$opportunity_id))`**
+
+Oportunidades en catálogo
+:::
+::: {.metric}
+**`r length(unique(eligible$opportunity_id[eligible$tipo_oportunidad %in% c('fondo','ambos')]))`**
+
+Fondos de investigación
+:::
+::: {.metric}
+**`r length(unique(eligible$opportunity_id[eligible$tipo_oportunidad %in% c('estancia','ambos')]))`**
+
+Estancias
+:::
+::: {.metric}
+**`r sum(p$fondos_investigacion$estado_actual=='Abierta') + sum(p$estancias_investigacion$estado_actual=='Abierta' & !p$estancias_investigacion$id %in% p$fondos_investigacion$id)`**
+
+Convocatorias abiertas
+:::
+::: {.metric}
+**`r sum(upcoming$fecha_cierre<=as.character(today()+60))`**
+
+Cierres en próximos 60 días
+:::
+:::
+
+::: {.callout-note title="Cómo leer esta base"}
+La base inicial conserva información histórica pendiente de verificación. **No claro (check)** señala dudas de elegibilidad o vigencia. Una fecha narrativa no se considera un cierre confirmado. Los registros de instrumentos repetidos pueden conservar versiones pendientes de reconciliación.
+:::
+
+[Explorar fondos](fondos.qmd){.btn .btn-primary} [Explorar estancias](estancias.qmd){.btn .btn-outline-primary}
+
+La búsqueda incluye humanidades, ciencias sociales, educación, psicología, arqueología y convocatorias interdisciplinarias pertinentes. Las bases de cada institución son la referencia definitiva para postular.

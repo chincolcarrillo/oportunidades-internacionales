@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: _site
+  execute-dir: project
+  render:
+    - '*.qmd'
+website:
+  title: 'Oportunidades internacionales · FACSO'
+  navbar:
+    background: '#183e52'
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: fondos.qmd
+        text: Fondos
+      - href: estancias.qmd
+        text: Estancias
+      - href: proximos-cierres.qmd
+        text: Próximos cierres
+      - href: cambios.qmd
+        text: Cambios
+      - href: metodologia.qmd
+        text: Metodología
+  page-footer: 'Facultad de Ciencias Sociales · Universidad de Chile | Consulte siempre las bases oficiales.'
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    lang: es
+    toc: false
+    page-layout: full
+execute:
+  echo: false
+  warning: false
+  message: false
+  freeze: false
