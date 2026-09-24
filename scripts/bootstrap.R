@@ -1,0 +1,7 @@
+options(repos = c(CRAN = "https://cloud.r-project.org"))
+dir.create(".tools/R-library", recursive = TRUE, showWarnings = FALSE)
+.libPaths(c(normalizePath(".tools/R-library"), .libPaths()))
+packages <- c("renv", "readxl", "digest", "jsonlite", "yaml", "httr2", "xml2", "rvest", "robotstxt", "testthat", "knitr", "rmarkdown", "DT", "jsonvalidate")
+missing <- setdiff(packages, rownames(installed.packages()))
+if (length(missing)) install.packages(missing, lib = .libPaths()[1])
+cat("Dependencias instaladas.\n")
