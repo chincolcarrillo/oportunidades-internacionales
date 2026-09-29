@@ -1,0 +1,168 @@
+{
+  "convocatoria": "Leakey Foundation Research Grants",
+  "institucion_financiante": "The Leakey Foundation",
+  "edicion": null,
+  "tipo_oportunidad": "fondo",
+  "scope": "in",
+  "eligibility": "yes",
+  "high_confidence": true,
+  "reason": "El texto describe un programa de subvenciones de investigación para temas relacionados con human origins, con montos, fechas y requisitos explícitos de elegibilidad. No es una estancia sino un fondo; la elegibilidad incluye doctorandos avanzados y personas con PhD, con afiliación institucional, y no hay restricciones de nacionalidad.",
+  "fields": [
+    {
+      "field": "tipo_oportunidad",
+      "value": "fondo",
+      "quote": "Research Grants",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    },
+    {
+      "field": "convocatoria",
+      "value": "Leakey Foundation Research Grants",
+      "quote": "Leakey Foundation Research Grants",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    },
+    {
+      "field": "institucion_financiante",
+      "value": "The Leakey Foundation",
+      "quote": "The Leakey Foundation is the leading nonprofit funder of research",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    },
+    {
+      "field": "fecha_apertura_texto",
+      "value": "January 10 for the spring cycle",
+      "quote": "January 10 for the spring cycle",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    },
+    {
+      "field": "fecha_cierre_texto",
+      "value": "July 15 for the fall cycle",
+      "quote": "July 15 for the fall cycle",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    },
+    {
+      "field": "monto_financiamiento_texto",
+      "value": "Up to $20,000 for PhD candidates Up to $30,000 for post-PhD researchers",
+      "quote": "Up to $20,000 for PhD candidates Up to $30,000 for post-PhD researchers",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    },
+    {
+      "field": "moneda",
+      "value": "USD",
+      "quote": "$20,000",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    },
+    {
+      "field": "tipo_oportunidad",
+      "value": "fondo",
+      "quote": "grants and scholarships",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    },
+    {
+      "field": "area_disciplinar",
+      "value": "archeology, biological anthropology, paleoanthropology, primate behavioral ecology, genetics, geology, anatomy, morphology, paleobotany, and paleoclimatology",
+      "quote": "The disciplines supported include archaeology, biological anthropology, paleoanthropology, primate behavioral ecology, genetics, geology, anatomy, morphology, paleobotany, and paleoclimatology.",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    },
+    {
+      "field": "objetivo",
+      "value": "understanding human origins",
+      "quote": "research dedicated to understanding human origins",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    },
+    {
+      "field": "alcance",
+      "value": "research related to human origins, including dissertation research and exploratory studies",
+      "quote": "This program exclusively funds research related to human origins, including dissertation research and exploratory studies.",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    },
+    {
+      "field": "perfil_investigador_elegible",
+      "value": "advanced doctoral students or post-PhD researchers",
+      "quote": "Applications are open to advanced doctoral students or post-PhD researchers.",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    },
+    {
+      "field": "etapa_carrera",
+      "value": "PhD candidates",
+      "quote": "especially PhD candidates",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    },
+    {
+      "field": "requisitos_contraparte",
+      "value": "Applicants must be affiliated with an institution such as a university or museum.",
+      "quote": "Applicants must be affiliated with an institution such as a university or museum.",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    },
+    {
+      "field": "rol_permitido_para_postulante",
+      "value": "advanced doctoral students or post-PhD researchers",
+      "quote": "Applications are open to advanced doctoral students or post-PhD researchers.",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    },
+    {
+      "field": "gastos_financiables",
+      "value": "travel, living expenses during fieldwork, supplies, research assistance, and other relevant expenditures",
+      "quote": "Our grants cover expenses directly related and essential to the project (i.e., travel, living expenses during fieldwork, supplies, research assistance, and other relevant expenditures).",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    },
+    {
+      "field": "gastos_cubiertos",
+      "value": "expenses directly related and essential to the project",
+      "quote": "expenses directly related and essential to the project",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    },
+    {
+      "field": "requiere_cofinanciamiento",
+      "value": "No",
+      "quote": "Your institution may not deduct anything.",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    },
+    {
+      "field": "frecuencia_apertura_llamado",
+      "value": "two application cycles each year",
+      "quote": "Research Grants have two application cycles each year",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    },
+    {
+      "field": "frecuencia_normalizada",
+      "value": "dos_veces_al_ano",
+      "quote": "two application cycles each year",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    },
+    {
+      "field": "fecha_cierre",
+      "value": "2026-01-10",
+      "quote": "January 10",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    },
+    {
+      "field": "fecha_cierre_texto",
+      "value": "January 10",
+      "quote": "January 10th",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    },
+    {
+      "field": "fecha_cierre",
+      "value": "2026-07-15",
+      "quote": "July 15th",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    },
+    {
+      "field": "fecha_cierre_texto",
+      "value": "July 15th",
+      "quote": "July 15th (Fall Cycle)",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    },
+    {
+      "field": "elegibilidad_uchile",
+      "value": "No",
+      "quote": "There are no citizenship restrictions.",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    },
+    {
+      "field": "estado_fuente",
+      "value": "texto web",
+      "quote": "Research Grants FOR RESEARCH RELATED TO HUMAN ORIGINS",
+      "url": "https://leakeyfoundation.org/grant/research/"
+    }
+  ]
+}

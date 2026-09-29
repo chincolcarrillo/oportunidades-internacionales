@@ -1,64 +1,190 @@
-name: Update data
+name: Run three agents
 on:
   workflow_dispatch:
     inputs:
       mode:
-        description: Pipeline mode
+        description: "monitor: revisar fuentes; discover: buscar; full: ambos; curate: pendientes"
         type: choice
-        options: [monitor, discover, full]
+        options: [monitor, discover, full, curate]
         default: monitor
       limit:
-        description: Maximum sources or candidates
+        description: "Máximo de fuentes o candidatos por productor"
         type: number
         default: 5
+      curate_limit:
+        description: "Máximo de propuestas que revisará curaduría"
+        type: number
+        default: 10
   schedule:
     - cron: '17 10 * * 2,5'
     - cron: '43 10 * * 0'
 permissions:
-  contents: write
+  contents: read
 concurrency:
-  group: update-data
+  group: agents-data
   cancel-in-progress: false
 jobs:
-  update:
-    if: vars.ENABLE_AUTOMATION == 'true'
+  plan:
+    if: github.ref == 'refs/heads/main' && (github.event_name == 'workflow_dispatch' || vars.ENABLE_AUTOMATION == 'true')
     runs-on: ubuntu-latest
-    env:
-      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
-      OPENAI_MAX_CALLS: '10'
+    outputs:
+      mode: ${{ steps.plan.outputs.mode }}
+      limit: ${{ steps.plan.outputs.limit }}
+      curate_limit: ${{ steps.plan.outputs.curate_limit }}
+    steps:
+      - id: plan
+        env:
+          EVENT_SCHEDULE: ${{ github.event.schedule }}
+          INPUT_MODE: ${{ inputs.mode }}
+          INPUT_LIMIT: ${{ inputs.limit }}
+          INPUT_CURATE_LIMIT: ${{ inputs.curate_limit }}
+        run: |
+          mode=monitor
+          limit=200
+          curate_limit=200
+          if [ "$EVENT_SCHEDULE" = '43 10 * * 0' ]; then mode=discover; limit=5; fi
+          if [ -n "$INPUT_MODE" ]; then mode="$INPUT_MODE"; limit="$INPUT_LIMIT"; curate_limit="$INPUT_CURATE_LIMIT"; fi
+          [[ "$limit" =~ ^[1-9][0-9]*$ && "$curate_limit" =~ ^[1-9][0-9]*$ ]]
+          echo "mode=$mode" >> "$GITHUB_OUTPUT"
+          echo "limit=$limit" >> "$GITHUB_OUTPUT"
+          echo "curate_limit=$curate_limit" >> "$GITHUB_OUTPUT"
+  discovery:
+    name: "Agente 1 — Descubrimiento"
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: '4.6.1'
+          use-public-rspm: true
+      - uses: r-lib/actions/setup-renv@v2
+      - run: mkdir -p tmp/inbox
+      - name: Produce observations
+        if: needs.plan.outputs.mode == 'discover' || needs.plan.outputs.mode == 'full'
+        env:
+          AGENT_LIMIT: ${{ needs.plan.outputs.limit }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          OPENAI_MAX_CALLS: ${{ vars.AGENT_MAX_CALLS || '3' }}
+        run: Rscript scripts/agent.R --role discover --limit "$AGENT_LIMIT" --queue tmp/inbox
+      - run: echo 'discover' > tmp/inbox/discover-complete.txt
+      - uses: actions/upload-artifact@v7
+        if: always()
+        with:
+          name: observations-discover
+          path: tmp/inbox/
+          retention-days: 30
+  monitoring:
+    name: "Agente 2 — Vigilancia"
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: '4.6.1'
+          use-public-rspm: true
+      - uses: r-lib/actions/setup-renv@v2
+      - run: mkdir -p tmp/inbox
+      - name: Produce observations
+        if: needs.plan.outputs.mode == 'monitor' || needs.plan.outputs.mode == 'full'
+        env:
+          AGENT_LIMIT: ${{ needs.plan.outputs.limit }}
+        run: Rscript scripts/agent.R --role monitor --limit "$AGENT_LIMIT" --queue tmp/inbox
+      - run: echo 'monitor' > tmp/inbox/monitor-complete.txt
+      - uses: actions/upload-artifact@v7
+        if: always()
+        with:
+          name: observations-monitor
+          path: tmp/inbox/
+          retention-days: 30
+  curation:
+    name: "Agente 3 — Curaduría"
+    needs: [plan, discovery, monitoring]
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
       - uses: r-lib/actions/setup-r@v2
         with:
           r-version: '4.6.1'
           use-public-rspm: true
       - uses: r-lib/actions/setup-renv@v2
       - uses: quarto-dev/quarto-actions/setup@v2
-      - name: Tests without API
+      - name: Offline tests
         run: Rscript scripts/test.R
         env:
           OPENAI_API_KEY: ''
-          RUN_RENDER_TEST: 'true'
-      - name: Select cadence
+      - uses: actions/download-artifact@v8
+        with:
+          pattern: observations-*
+          path: tmp/inbox
+          merge-multiple: true
+      - name: Import immutable observations
+        run: |
+          mkdir -p data/proposals data/agent-evidence
+          find tmp/inbox -maxdepth 1 -name 'proposal_*.json' -exec cp -n {} data/proposals/ \;
+      - name: Curate
         env:
-          EVENT_SCHEDULE: ${{ github.event.schedule }}
-          INPUT_MODE: ${{ inputs.mode }}
-          INPUT_LIMIT: ${{ inputs.limit }}
+          AGENT_LIMIT: ${{ needs.plan.outputs.curate_limit }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          OPENAI_MAX_CALLS: ${{ vars.AGENT_MAX_CALLS || '3' }}
+        run: Rscript scripts/agent.R --role curate --limit "$AGENT_LIMIT"
+      - run: Rscript scripts/qa.R
+      - run: Rscript scripts/render_site.R
+      - name: Save validated data
+        uses: actions/upload-artifact@v7
+        with:
+          name: validated-data
+          path: |
+            data/canonical/
+            data/published/
+            data/proposals/
+            data/agent-evidence/
+          retention-days: 30
+      - uses: actions/upload-artifact@v7
+        with:
+          name: site-preview
+          path: site/_site/
+          retention-days: 30
+  persist:
+    name: Guardar datos validados (sin publicar)
+    needs: curation
+    if: vars.AUTO_COMMIT_DATA == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+      - name: Refuse concurrent changes
+        env:
+          EXPECTED_SHA: ${{ github.sha }}
+        run: test "$(git rev-parse HEAD)" = "$EXPECTED_SHA"
+      - uses: actions/download-artifact@v8
+        with:
+          name: validated-data
+          path: data
+      - name: Commit only validated data
         run: |
-          mode=monitor
-          limit=200
-          if [ "$EVENT_SCHEDULE" = '43 10 * * 0' ]; then mode=discover; limit=5; fi
-          if [ -n "$INPUT_MODE" ]; then mode="$INPUT_MODE"; limit="$INPUT_LIMIT"; fi
-          Rscript scripts/update.R --mode "$mode" --limit "$limit"
-      - name: Validate
-        run: Rscript scripts/qa.R
-      - name: Commit only data changes
-        run: |
-          git add data/canonical data/published
+          git add data/canonical data/published data/proposals data/agent-evidence
           if ! git diff --cached --quiet; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git commit -m 'Update international research opportunities'
-            git push
+            git commit -m 'Curate opportunities from evidence'
+            git push origin HEAD:main
           fi
+          echo "### Versión preparada" >> "$GITHUB_STEP_SUMMARY"
+          echo "Commit para Publish site: $(git rev-parse HEAD)" >> "$GITHUB_STEP_SUMMARY"
+          echo "El sitio público no se ha desplegado." >> "$GITHUB_STEP_SUMMARY"

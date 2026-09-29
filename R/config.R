@@ -9,7 +9,8 @@ schema <- list(
   changes=fields('change_id run_id opportunity_id call_id field old_value new_value source_id detected_at auto_applied review_required reason'),
   runs=fields('run_id started_at finished_at mode sources_checked sources_changed candidates_found records_added records_updated review_items_created errors status'),
   review_queue=fields('review_id opportunity_id call_id source_id reason details created_at status'),
-  excluded_candidates=fields('candidate_id convocatoria institucion_financiante url reason first_seen'))
+  excluded_candidates=fields('candidate_id convocatoria institucion_financiante url reason first_seen'),
+  agent_decisions=fields('proposal_id role run_id decided_at status reason attempts evidence_hash'))
 empty_table <- function(name) as.data.frame(setNames(rep(list(character()), length(schema[[name]])), schema[[name]]), stringsAsFactors=FALSE)
 new_db <- function() setNames(lapply(names(schema), empty_table), names(schema))
 row <- function(table, ...) {

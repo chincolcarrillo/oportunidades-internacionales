@@ -7,6 +7,11 @@ validate_db <- function(db, verbose=FALSE) {
     if(anyNA(key) || anyDuplicated(key)) err(paste('IDs ausentes/duplicados:',n))
   }
   if(length(errors)) stop(paste(errors,collapse='\n'))
+  decisions <- db$agent_decisions
+  if(any(!decisions$status %in% c('applied','unchanged','excluded','review','retry','stale'))) err('Estado de decisión inválido')
+  if(any(!decisions$role %in% c('monitor','discover'))) err('Rol de decisión inválido')
+  if(anyNA(decisions$attempts) || any(!grepl('^[1-9][0-9]*$',decisions$attempts))) err('Intentos de decisión inválidos')
+  if(anyNA(decisions$evidence_hash) || any(!grepl('^[a-f0-9]{64}$',decisions$evidence_hash))) err('Hash de evidencia inválido')
   o <- db$opportunities; c <- db$calls; s <- db$sources
   if(any(!c$opportunity_id %in% o$opportunity_id) || any(!s$opportunity_id %in% o$opportunity_id)) err('Claves opportunity_id rotas')
   if(any(!is.na(s$call_id) & !s$call_id %in% c$call_id)) err('Claves call_id rotas')

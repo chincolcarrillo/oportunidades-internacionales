@@ -1,0 +1,50 @@
+{
+  "source": [
+    {
+      "source_id": "src_c51a5552931946b98088",
+      "opportunity_id": "opp_577e735aa5602ef55e1d",
+      "call_id": "call_b649a75a5e060beb5dd8",
+      "url": "https://leakeyfoundation.org/grant/research/",
+      "source_role": "legacy_unverified",
+      "source_priority": "6",
+      "is_official": "FALSE",
+      "domain": "leakeyfoundation.org",
+      "last_checked": null,
+      "http_status": null,
+      "content_hash": null,
+      "extracted_hash": null,
+      "last_changed": null,
+      "notes": "Oficialidad pendiente de verificación."
+    }
+  ],
+  "fetch": {
+    "status": 200,
+    "text": "Skip to content",
+    "hash": "ac576a66d4563e600314a2ce6e731725e9826fd88baf2399e05f60bfb177dbc0",
+    "error": {}
+  },
+  "extraction": {
+    "convocatoria": {},
+    "institucion_financiante": "Leakey Foundation",
+    "edicion": {},
+    "tipo_oportunidad": "fondo",
+    "scope": "unknown",
+    "eligibility": "unknown",
+    "high_confidence": false,
+    "reason": "El texto proporcionado solo contiene 'Skip to content' y no incluye información explícita sobre la convocatoria, elegibilidad, financiamiento o estancias; por tanto no es posible determinar si aplica a investigación/estancias en ciencias sociales o humanidades ni la elegibilidad UChile.",
+    "fields": [
+      {
+        "field": "estado_fuente",
+        "value": "Skip to content",
+        "quote": "Skip to content",
+        "url": "https://leakeyfoundation.org/grant/research/"
+      },
+      {
+        "field": "observaciones_dudas",
+        "value": "Solo se observó texto de navegación; no hay datos de la oportunidad en el texto entregado.",
+        "quote": "Skip to content",
+        "url": "https://leakeyfoundation.org/grant/research/"
+      }
+    ]
+  }
+}

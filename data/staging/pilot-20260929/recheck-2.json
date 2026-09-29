@@ -1,0 +1,138 @@
+{
+  "convocatoria": "Dissertation Fieldwork Grant",
+  "institucion_financiante": "Wenner-Gren Foundation",
+  "edicion": null,
+  "tipo_oportunidad": "fondo",
+  "scope": "in",
+  "eligibility": "yes",
+  "high_confidence": true,
+  "reason": "Es un programa de financiamiento para investigación doctoral en antropología. El texto establece montos máximos, fechas de postulación y criterios explícitos de elegibilidad, incluyendo afiliación o nacionalidad sin restricción institucional específica.",
+  "fields": [
+    {
+      "field": "tipo_oportunidad",
+      "value": "fondo",
+      "quote": "This grant program funds doctoral or thesis research",
+      "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+    },
+    {
+      "field": "convocatoria",
+      "value": "Dissertation Fieldwork Grant",
+      "quote": "Dissertation Fieldwork Grant",
+      "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+    },
+    {
+      "field": "institucion_financiante",
+      "value": "Wenner-Gren Foundation",
+      "quote": "Wenner-Gren awards",
+      "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+    },
+    {
+      "field": "monto_max",
+      "value": "25000",
+      "quote": "The maximum Dissertation Fieldwork Grant is $25,000.",
+      "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+    },
+    {
+      "field": "moneda",
+      "value": "USD",
+      "quote": "The maximum Dissertation Fieldwork Grant is $25,000.",
+      "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+    },
+    {
+      "field": "requiere_cofinanciamiento",
+      "value": "No",
+      "quote": "Wenner-Gren awards do not include funds to cover institutional overhead or any fees related to the administration of our grants and fellowships.",
+      "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+    },
+    {
+      "field": "gastos_financiables",
+      "value": "Investigación de tesis o doctorado; puede cubrir fases distintas de la investigación",
+      "quote": "This grant program funds doctoral or thesis research that advances anthropological knowledge.",
+      "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+    },
+    {
+      "field": "gastos_financiables",
+      "value": "Investigación de tesis o doctorado; puede cubrir fases distintas de la investigación",
+      "quote": "applicants may request funding to cover distinct research phases",
+      "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+    },
+    {
+      "field": "gastos_cubiertos",
+      "value": "No cubre overhead institucional ni tarifas administrativas",
+      "quote": "Wenner-Gren awards do not include funds to cover institutional overhead or any fees related to the administration of our grants and fellowships.",
+      "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+    },
+    {
+      "field": "duracion_proyecto",
+      "value": "Sin límite de duración",
+      "quote": "There is no limit to the duration of the grant",
+      "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+    },
+    {
+      "field": "fecha_cierre_texto",
+      "value": "May 1 y November 1",
+      "quote": "Application deadlines are May 1",
+      "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+    },
+    {
+      "field": "frecuencia_apertura_llamado",
+      "value": "dos convocatorias al año",
+      "quote": "Application deadlines are May 1",
+      "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+    },
+    {
+      "field": "frecuencia_normalizada",
+      "value": "dos_veces_al_ano",
+      "quote": "Application deadlines are May 1 (for project start dates between January 1 and June 30 of the following year) and November 1 (for project start dates between July 1 and December 31 of the following year).",
+      "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+    },
+    {
+      "field": "idiomas_postulacion",
+      "value": "Inglés",
+      "quote": "Applications must be in English.",
+      "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+    },
+    {
+      "field": "area_disciplinar",
+      "value": "Antropología; incluye antropología sociocultural, antropología lingüística, antropología biológica y arqueología o equivalentes",
+      "quote": "We consider anthropology to include socio-cultural anthropology, linguistic anthropology, biological anthropology, and archeology or their equivalent in countries where these fields are named differently.",
+      "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+    },
+    {
+      "field": "perfil_investigador_elegible",
+      "value": "Estudiantes doctorales en antropología; también quienes estén matriculados en un programa doctoral en antropología, tengan un título previo en antropología o estén afiliados a la antropología por medio del supervisor de tesis",
+      "quote": "Applicants must be enrolled in a doctoral program in anthropology, hold a previous degree in anthropology, or be affiliated with anthropology by way of the dissertation research supervisor indicated on their application.",
+      "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+    },
+    {
+      "field": "etapa_carrera",
+      "value": "Doctorado",
+      "quote": "Doctoral Students in Anthropology",
+      "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+    },
+    {
+      "field": "rol_permitido_para_postulante",
+      "value": "Estudiante doctoral",
+      "quote": "Qualified students of any nationality or institutional affiliation may apply.",
+      "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+    },
+    {
+      "field": "elegibilidad_uchile",
+      "value": "Sí",
+      "quote": "Qualified students of any nationality or institutional affiliation may apply.",
+      "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+    },
+    {
+      "field": "estado_fuente",
+      "value": "Activa",
+      "quote": "Application Portal You may access the application portal here.",
+      "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+    },
+    {
+      "field": "observaciones_dudas",
+      "value": "La elegibilidad está limitada a estudiantes doctorales en antropología y requiere que el supervisor de tesis tenga un rol oficialmente reconocido en la formación del postulante.",
+      "quote": "Their dissertation research supervisor must have an officially recognized role in the applicant’s training.",
+      "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+    }
+  ]
+}

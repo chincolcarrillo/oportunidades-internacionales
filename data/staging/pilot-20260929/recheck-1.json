@@ -1,0 +1,120 @@
+{
+  "convocatoria": "Small Research Grants on Education",
+  "institucion_financiante": "Spencer Foundation",
+  "edicion": null,
+  "tipo_oportunidad": "fondo",
+  "scope": "in",
+  "eligibility": "unknown",
+  "high_confidence": true,
+  "reason": "El texto describe un programa de subvenciones para proyectos de investigación en educación, con presupuesto hasta 50.000 USD, duración hasta 5 años y convocatorias dos veces al año. La elegibilidad incluye investigación sobre educación, PI/Co-PI con doctorado, afiliación institucional sin fines de lucro o pública/gubernamental, postulaciones en inglés y presupuesto en USD. No hay información específica sobre Chile o UChile, por lo que la elegibilidad para UChile no puede confirmarse ni descartarse de forma explícita.",
+  "fields": [
+    {
+      "field": "convocatoria",
+      "value": "Small Research Grants on Education",
+      "quote": "Small Research Grants on Education",
+      "url": "https://www.spencer.org/grant_types/small-research-grant"
+    },
+    {
+      "field": "institucion_financiante",
+      "value": "Spencer Foundation",
+      "quote": "Spencer Foundation",
+      "url": "https://www.spencer.org/grant_types/small-research-grant"
+    },
+    {
+      "field": "tipo_oportunidad",
+      "value": "fondo",
+      "quote": "supports education research projects",
+      "url": "https://www.spencer.org/grant_types/small-research-grant"
+    },
+    {
+      "field": "fecha_apertura_texto",
+      "value": "Applications Open Now closed",
+      "quote": "Applications Open Now closed",
+      "url": "https://www.spencer.org/grant_types/small-research-grant"
+    },
+    {
+      "field": "monto_financiamiento_texto",
+      "value": "budgets up to $50,000",
+      "quote": "budgets up to $50,000",
+      "url": "https://www.spencer.org/grant_types/small-research-grant"
+    },
+    {
+      "field": "monto_max",
+      "value": "50000",
+      "quote": "up to $50,000",
+      "url": "https://www.spencer.org/grant_types/small-research-grant"
+    },
+    {
+      "field": "moneda",
+      "value": "USD",
+      "quote": "U.S. dollars",
+      "url": "https://www.spencer.org/grant_types/small-research-grant"
+    },
+    {
+      "field": "requiere_cofinanciamiento",
+      "value": "No",
+      "quote": "may not include indirect cost charges",
+      "url": "https://www.spencer.org/grant_types/small-research-grant"
+    },
+    {
+      "field": "duracion_proyecto",
+      "value": "1 a 5 años",
+      "quote": "projects ranging from one to five years",
+      "url": "https://www.spencer.org/grant_types/small-research-grant"
+    },
+    {
+      "field": "frecuencia_apertura_llamado",
+      "value": "two times per year",
+      "quote": "We accept applications two times per year",
+      "url": "https://www.spencer.org/grant_types/small-research-grant"
+    },
+    {
+      "field": "frecuencia_normalizada",
+      "value": "dos_veces_al_ano",
+      "quote": "We accept applications two times per year",
+      "url": "https://www.spencer.org/grant_types/small-research-grant"
+    },
+    {
+      "field": "alcance",
+      "value": "research projects that will contribute to the improvement of education, broadly conceived",
+      "quote": "supports education research projects that will contribute to the improvement of education, broadly conceived",
+      "url": "https://www.spencer.org/grant_types/small-research-grant"
+    },
+    {
+      "field": "area_disciplinar",
+      "value": "education; anthropology; philosophy; psychology; sociology; law; economics; history; neuroscience",
+      "quote": "including for example education, anthropology, philosophy, psychology, sociology, law, economics, history, or neuroscience, among others",
+      "url": "https://www.spencer.org/grant_types/small-research-grant"
+    },
+    {
+      "field": "perfil_investigador_elegible",
+      "value": "PI y Co-PI con earned doctorate; graduados pueden integrar el equipo pero no ser PI ni Co-PI; PI afiliado a organización sin fines de lucro o institución pública/gubernamental",
+      "quote": "must have an earned doctorate in an academic discipline or professional field",
+      "url": "https://www.spencer.org/grant_types/small-research-grant"
+    },
+    {
+      "field": "rol_permitido_para_postulante",
+      "value": "Principal Investigator y Co-Principal Investigator",
+      "quote": "must have an earned doctorate in an academic discipline or professional field",
+      "url": "https://www.spencer.org/grant_types/small-research-grant"
+    },
+    {
+      "field": "idiomas_postulacion",
+      "value": "English",
+      "quote": "all proposals must be submitted in English",
+      "url": "https://www.spencer.org/grant_types/small-research-grant"
+    },
+    {
+      "field": "estado_fuente",
+      "value": "closed",
+      "quote": "Applications Open Now closed",
+      "url": "https://www.spencer.org/grant_types/small-research-grant"
+    },
+    {
+      "field": "observaciones_dudas",
+      "value": "No se especifica elegibilidad para Chile o UChile; se aceptan postulaciones de EE. UU. e internacionales. No se infiere elegibilidad institucional local sin mención explícita.",
+      "quote": "Proposals are accepted from the U.S. and internationally",
+      "url": "https://www.spencer.org/grant_types/small-research-grant"
+    }
+  ]
+}

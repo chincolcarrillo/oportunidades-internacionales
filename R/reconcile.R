@@ -1,6 +1,16 @@
 critical_fields <- c('elegibilidad_uchile','fecha_apertura','fecha_cierre','monto_min','monto_max','monto_financiamiento_texto','moneda','requisitos_contraparte','requiere_cofinanciamiento','estado_calculado','estado_fuente')
 editable_opportunity <- setdiff(schema$opportunities,c('opportunity_id','legacy_source_id','first_seen','last_seen','active_record'))
 editable_call <- setdiff(schema$calls,c('call_id','opportunity_id','first_seen','last_verified','review_required','evidence_source_id','eligibility_evidence','closing_evidence','estado_calculado'))
+valid_field_value <- function(field,value) {
+  enums <- list(elegibilidad_uchile=c('Sí','No claro (check)','No'),tipo_oportunidad=c('fondo','estancia','ambos'),
+    frecuencia_normalizada=c('anual','dos_veces_al_ano','cada_dos_anos','permanente','puntual','irregular','no_encontrado','no_claro'),
+    requiere_cofinanciamiento=c('Sí','No','No claro (check)'))
+  if(field %in% names(enums)) return(value %in% enums[[field]])
+  if(field %in% c('fecha_apertura','fecha_cierre')) return(!is.na(normalize_date(value)))
+  if(field %in% c('monto_min','monto_max')) return(!is.na(normalize_amount(value)))
+  if(field=='moneda') return(grepl('^[A-Z]{3}$',value))
+  !tolower(value) %in% c('unknown','null','no encontrado')
+}
 get_overrides <- function() read_config('manual_overrides')$overrides %||% list()
 override_for <- function(overrides, table, id, field) {
   Filter(function(x) identical(x$table,table) && identical(x$id,id) && identical(x$field,field),overrides)
@@ -9,6 +19,13 @@ evidence_valid <- function(item, source_text, url) {
   !is.null(item$quote) && !is.na(item$quote) && nchar(item$quote)>=8 &&
     !is.null(item$url) && identical(normalize_url(item$url),normalize_url(url)) &&
     grepl(item$quote,source_text,fixed=TRUE)
+}
+field_evidence_valid <- function(item,source_text,url) {
+  if(!evidence_valid(item,source_text,url)) return(FALSE)
+  # An overhead exclusion does not establish a matching-funds requirement.
+  if(identical(item$field,'requiere_cofinanciamiento'))
+    return(grepl('co.?financ|cost.?shar|matching|match.?fund|contribution|contrapart|aportes',tolower(item$quote)))
+  TRUE
 }
 record_change <- function(db, run_id, oid,cid,field,old,new,sid,applied,reason) {
   # Including previous applied transitions allows a true A->B->A->B sequence.
@@ -28,7 +45,11 @@ reconcile <- function(db, source_id, extraction, source_text, run_id, overrides=
     table <- if(f %in% editable_call) 'calls' else 'opportunities'
     ix <- if(table=='calls') ci else oi; id <- db[[table]][[1]][ix]
     old <- db[[table]][[f]][ix]; new <- as.character(new)
-    evidence <- evidence_valid(item,source_text,src$url)
+    if(!valid_field_value(f,new)) {
+      db <- queue_review(db,src$opportunity_id,src$call_id,source_id,'invalid_extracted_value',paste(f,new,sep=': '))
+      next
+    }
+    evidence <- field_evidence_valid(item,source_text,src$url)
     trusted <- flag(src$is_official) && evidence && isTRUE(extraction$high_confidence)
     if(f %in% c('fecha_apertura','fecha_cierre') && is.na(normalize_date(new))) trusted <- FALSE
     if(f %in% c('monto_min','monto_max') && is.na(normalize_amount(new))) trusted <- FALSE

@@ -1,13 +1,11 @@
 name: Publish site
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths: ['site/**', 'R/**', 'scripts/**', 'data/canonical/**', 'data/published/**', 'renv.lock', '.github/workflows/publish-site.yml']
-  workflow_run:
-    workflows: ['Update data']
-    types: [completed]
-    branches: [main]
+    inputs:
+      commit_sha:
+        description: "SHA completo (40 caracteres) de la versión revisada"
+        required: true
+        type: string
 permissions:
   contents: read
 concurrency:
@@ -15,19 +13,38 @@ concurrency:
   cancel-in-progress: false
 jobs:
   build:
-    if: vars.ENABLE_PAGES == 'true' && (github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success')
+    if: vars.ENABLE_PAGES == 'true'
     runs-on: ubuntu-latest
     steps:
+      - name: Authorize owner and main workflow
+        env:
+          OWNER: ${{ vars.DEPLOY_OWNER }}
+          ACTOR: ${{ github.actor }}
+          TRIGGERING_ACTOR: ${{ github.triggering_actor }}
+          WORKFLOW_REF: ${{ github.ref }}
+          RELEASE_SHA: ${{ inputs.commit_sha }}
+        run: |
+          test -n "$OWNER"
+          test "$ACTOR" = "$OWNER"
+          test "$TRIGGERING_ACTOR" = "$OWNER"
+          test "$WORKFLOW_REF" = 'refs/heads/main'
+          [[ "$RELEASE_SHA" =~ ^[a-fA-F0-9]{40}$ ]]
       - uses: actions/checkout@v7
         with:
-          ref: main
+          ref: ${{ inputs.commit_sha }}
+          fetch-depth: 0
           persist-credentials: false
+      - name: Verify version belongs to main
+        env:
+          RELEASE_SHA: ${{ inputs.commit_sha }}
+        run: git merge-base --is-ancestor "$RELEASE_SHA" origin/main
       - uses: r-lib/actions/setup-r@v2
         with:
           r-version: '4.6.1'
           use-public-rspm: true
       - uses: r-lib/actions/setup-renv@v2
       - uses: quarto-dev/quarto-actions/setup@v2
+      - run: Rscript scripts/test.R
       - run: Rscript scripts/qa.R
       - run: Rscript scripts/render_site.R
       - uses: actions/configure-pages@v5
@@ -36,6 +53,7 @@ jobs:
           path: site/_site
   deploy:
     needs: build
+    if: github.actor == vars.DEPLOY_OWNER && github.triggering_actor == vars.DEPLOY_OWNER
     runs-on: ubuntu-latest
     permissions:
       pages: write

@@ -1,5 +1,9 @@
 # Arquitectura del MVP
 
+> Documento histórico de la versión 1. La arquitectura vigente, el esquema aditivo
+> y los permisos de ejecución/publicación están en [three-agents.md](three-agents.md).
+> El monitoreo de producción ya no aplica cambios directamente ni dispara Pages.
+
 ## Flujo y decisiones
 
 R realiza lectura xlsm con readxl, normalización, HTTP, comparación, validación y exportación. Quarto y DT producen HTML estático con búsqueda y filtros en navegador. No hay servidor de aplicación ni base de datos externa. Python se usó únicamente para la auditoría inicial independiente del Excel/PDF.

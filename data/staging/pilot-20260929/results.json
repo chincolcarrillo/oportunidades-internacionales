@@ -1,0 +1,293 @@
+[
+  {
+    "url": "https://www.spencer.org/grant_types/small-research-grant",
+    "status": 200,
+    "error": null,
+    "extraction": {
+      "convocatoria": "Small Research Grants on Education",
+      "institucion_financiante": "Spencer Foundation",
+      "edicion": {},
+      "tipo_oportunidad": "fondo",
+      "scope": "out",
+      "eligibility": "unknown",
+      "high_confidence": true,
+      "reason": "El texto describe un fondo de investigación educativa con presupuesto y duración, pero la elegibilidad explícita exige doctorado y afiliación a organización sin fines de lucro o pública; no menciona residencia en Chile ni afiliación universitaria chilena, por lo que no puedo confirmar elegibilidad para UChile.",
+      "fields": [
+        {
+          "field": "convocatoria",
+          "value": "Small Research Grants on Education",
+          "quote": "Small Research Grants on Education Program",
+          "url": "https://www.spencer.org/grant_types/small-research-grant"
+        },
+        {
+          "field": "institucion_financiante",
+          "value": "Spencer Foundation",
+          "quote": "The Spencer Foundation supports education research",
+          "url": "https://www.spencer.org/grant_types/small-research-grant"
+        },
+        {
+          "field": "tipo_oportunidad",
+          "value": "fondo",
+          "quote": "supports education research projects",
+          "url": "https://www.spencer.org/grant_types/small-research-grant"
+        },
+        {
+          "field": "fecha_apertura_texto",
+          "value": "Applications Open Now closed.",
+          "quote": "Applications Open Now closed.",
+          "url": "https://www.spencer.org/grant_types/small-research-grant"
+        },
+        {
+          "field": "monto_max",
+          "value": "50000",
+          "quote": "budgets up to $50,000",
+          "url": "https://www.spencer.org/grant_types/small-research-grant"
+        },
+        {
+          "field": "moneda",
+          "value": "USD",
+          "quote": "$50,000",
+          "url": "https://www.spencer.org/grant_types/small-research-grant"
+        },
+        {
+          "field": "duracion_proyecto",
+          "value": "1 to 5 years",
+          "quote": "projects ranging from one to five years",
+          "url": "https://www.spencer.org/grant_types/small-research-grant"
+        },
+        {
+          "field": "frecuencia_apertura_llamado",
+          "value": "twice per year",
+          "quote": "We accept applications two times per year.",
+          "url": "https://www.spencer.org/grant_types/small-research-grant"
+        },
+        {
+          "field": "frecuencia_normalizada",
+          "value": "2",
+          "quote": "We accept applications two times per year.",
+          "url": "https://www.spencer.org/grant_types/small-research-grant"
+        },
+        {
+          "field": "gastos_financiables",
+          "value": "salary, benefits, travel, equipment and software, project expenses, subcontracts",
+          "quote": "Salaries ... Benefits ... Travel ... Equipment and Software ... Project Expenses ... Subcontracts",
+          "url": "https://www.spencer.org/grant_types/small-research-grant"
+        },
+        {
+          "field": "requiere_cofinanciamiento",
+          "value": "no",
+          "quote": "may not include indirect cost charges",
+          "url": "https://www.spencer.org/grant_types/small-research-grant"
+        },
+        {
+          "field": "idiomas_postulacion",
+          "value": "English",
+          "quote": "all proposals must be submitted in English",
+          "url": "https://www.spencer.org/grant_types/small-research-grant"
+        },
+        {
+          "field": "pais",
+          "value": "United States and internationally",
+          "quote": "Proposals are accepted from the U.S. and internationally",
+          "url": "https://www.spencer.org/grant_types/small-research-grant"
+        },
+        {
+          "field": "area_disciplinar",
+          "value": "education",
+          "quote": "must be for research projects that aim to study education",
+          "url": "https://www.spencer.org/grant_types/small-research-grant"
+        },
+        {
+          "field": "tipo_investigacion",
+          "value": "research",
+          "quote": "must be for research projects",
+          "url": "https://www.spencer.org/grant_types/small-research-grant"
+        },
+        {
+          "field": "perfil_investigador_elegible",
+          "value": "Principal Investigators and Co-PIs must have an earned doctorate",
+          "quote": "must have an earned doctorate in an academic discipline or professional field",
+          "url": "https://www.spencer.org/grant_types/small-research-grant"
+        },
+        {
+          "field": "requisitos_contraparte",
+          "value": "PI must be affiliated with a non-profit organization or public/governmental institution",
+          "quote": "The PI must be affiliated with a non-profit organization or public/governmental institution",
+          "url": "https://www.spencer.org/grant_types/small-research-grant"
+        },
+        {
+          "field": "elegibilidad_uchile",
+          "value": "no",
+          "quote": "The PI must be affiliated with a non-profit organization or public/governmental institution",
+          "url": "https://www.spencer.org/grant_types/small-research-grant"
+        },
+        {
+          "field": "observaciones_dudas",
+          "value": "No se menciona residencia en Chile ni afiliación universitaria chilena; tampoco se indica estancias presenciales. El texto habla de research grants, no de fellowships.",
+          "quote": "No se menciona residencia en Chile ni afiliación universitaria chilena; tampoco se indica estancias presenciales.",
+          "url": "https://www.spencer.org/grant_types/small-research-grant"
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://wennergren.org/program/dissertation-fieldwork-grant/",
+    "status": 200,
+    "error": null,
+    "extraction": {
+      "convocatoria": "Dissertation Fieldwork Grant",
+      "institucion_financiante": "Wenner-Gren Foundation",
+      "edicion": {},
+      "tipo_oportunidad": "fondo",
+      "scope": "in",
+      "eligibility": "unknown",
+      "high_confidence": true,
+      "reason": "El texto describe un programa de financiamiento para investigación doctoral en antropología con monto máximo y fechas de postulación, por lo que sí es una oportunidad de fondo. La elegibilidad para UChile/Chile es incierta: el texto permite postulantes de cualquier nacionalidad o afiliación institucional, pero no exige ni menciona residencia en Chile o afiliación universitaria chilena.",
+      "fields": [
+        {
+          "field": "tipo_oportunidad",
+          "value": "fondo",
+          "quote": "\"This grant program funds doctoral or thesis research\"",
+          "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+        },
+        {
+          "field": "convocatoria",
+          "value": "Dissertation Fieldwork Grant",
+          "quote": "\"Dissertation Fieldwork Grant\"",
+          "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+        },
+        {
+          "field": "institucion_financiante",
+          "value": "Wenner-Gren Foundation",
+          "quote": "\"The Foundation\"",
+          "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+        },
+        {
+          "field": "fecha_cierre_texto",
+          "value": "May 1 and November 1",
+          "quote": "\"Application deadlines are May 1 ... and November 1\"",
+          "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+        },
+        {
+          "field": "fecha_apertura_texto",
+          "value": "2 months before the deadline",
+          "quote": "\"The application portal opens 2 months before the deadline.\"",
+          "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+        },
+        {
+          "field": "monto_max",
+          "value": "25000",
+          "quote": "\"The maximum Dissertation Fieldwork Grant is $25,000.\"",
+          "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+        },
+        {
+          "field": "moneda",
+          "value": "USD",
+          "quote": "\"$25,000\"",
+          "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+        },
+        {
+          "field": "duracion_proyecto",
+          "value": "no limit",
+          "quote": "\"There is no limit to the duration of the grant\"",
+          "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+        },
+        {
+          "field": "gastos_cubiertos",
+          "value": "research phases",
+          "quote": "\"applicants may request funding to cover distinct research phases\"",
+          "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+        },
+        {
+          "field": "gastos_financiables",
+          "value": "institutional overhead and fees related to administration are not covered",
+          "quote": "\"Wenner-Gren awards do not include funds to cover institutional overhead or any fees related to the administration\"",
+          "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+        },
+        {
+          "field": "area_disciplinar",
+          "value": "anthropology",
+          "quote": "\"doctoral or thesis research that advances anthropological knowledge\"",
+          "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+        },
+        {
+          "field": "perfil_investigador_elegible",
+          "value": "doctoral students in anthropology",
+          "quote": "\"Who Can Apply Doctoral Students in Anthropology\"",
+          "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+        },
+        {
+          "field": "elegibilidad_uchile",
+          "value": "unknown",
+          "quote": "\"Qualified students of any nationality or institutional affiliation may apply.\"",
+          "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+        },
+        {
+          "field": "observaciones_dudas",
+          "value": "No se menciona residencia en Chile ni afiliación a UChile; se indica que pueden postular estudiantes de cualquier nacionalidad o afiliación institucional.",
+          "quote": "\"Qualified students of any nationality or institutional affiliation may apply.\"",
+          "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+        },
+        {
+          "field": "idiomas_postulacion",
+          "value": "English",
+          "quote": "\"Applications must be in English.\"",
+          "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+        },
+        {
+          "field": "tipo_investigacion",
+          "value": "doctoral or thesis research",
+          "quote": "\"funds doctoral or thesis research\"",
+          "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+        },
+        {
+          "field": "duracion_estancia",
+          "value": "unknown",
+          "quote": "\"There is no limit to the duration of the grant\"",
+          "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+        },
+        {
+          "field": "pais",
+          "value": "U.S.",
+          "quote": "\"U.S. tax information\"",
+          "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+        },
+        {
+          "field": "estado_fuente",
+          "value": "publicada",
+          "quote": "\"Application Portal You may access the application portal here.\"",
+          "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://leakeyfoundation.org/grant/research/",
+    "status": 200,
+    "error": null,
+    "extraction": {
+      "convocatoria": {},
+      "institucion_financiante": "Leakey Foundation",
+      "edicion": {},
+      "tipo_oportunidad": "fondo",
+      "scope": "unknown",
+      "eligibility": "unknown",
+      "high_confidence": false,
+      "reason": "El texto proporcionado solo contiene 'Skip to content' y no incluye información explícita sobre la convocatoria, elegibilidad, financiamiento o estancias; por tanto no es posible determinar si aplica a investigación/estancias en ciencias sociales o humanidades ni la elegibilidad UChile.",
+      "fields": [
+        {
+          "field": "estado_fuente",
+          "value": "Skip to content",
+          "quote": "Skip to content",
+          "url": "https://leakeyfoundation.org/grant/research/"
+        },
+        {
+          "field": "observaciones_dudas",
+          "value": "Solo se observó texto de navegación; no hay datos de la oportunidad en el texto entregado.",
+          "quote": "Skip to content",
+          "url": "https://leakeyfoundation.org/grant/research/"
+        }
+      ]
+    }
+  }
+]
