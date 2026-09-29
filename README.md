@@ -34,6 +34,7 @@ Rscript scripts/test.R
 Rscript scripts/demo_agents.R
 Rscript scripts/qa.R
 Rscript scripts/render_site.R
+Rscript scripts/verify.R
 Rscript scripts/agent.R --role monitor --mock --dry-run --limit 3
 Rscript scripts/agent.R --role discover --mock --dry-run --limit 2
 ```
@@ -41,6 +42,8 @@ Rscript scripts/agent.R --role discover --mock --dry-run --limit 2
 La demo usa fixtures y directorio temporal; no llama a Internet/API ni altera el
 catálogo. El render genera site/_site/index.html y encuentra el Quarto de RStudio
 en Windows. Para incluirlo en testthat definir RUN_RENDER_TEST=true.
+verify.R reúne tests, render, demo, QA y comprobación de integridad; guarda el
+resultado comprobado en docs/verification-agents.md.
 
 Alternativa local existente: scripts/bootstrap.R instala en .tools/R-library;
 scripts/restore_local.R reutiliza esa biblioteca. En este equipo, si falta PATH:

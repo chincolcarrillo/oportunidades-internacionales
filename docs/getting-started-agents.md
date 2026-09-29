@@ -22,6 +22,10 @@ El remoto local apunta a:
 [chincolcarrillo/oportunidades-internacionales](https://github.com/chincolcarrillo/oportunidades-internacionales).
 Esta implementación no hizo commit ni push ni cambió ajustes de GitHub.
 
+Si ya guardaste el commit «Cambio de enfoque», no necesitas repetirlo: revisa y
+sube sólo los ajustes finales pendientes. La comprobación consolidada se ejecuta
+con `Rscript scripts/verify.R` y genera docs/verification-agents.md.
+
 Si usas GitHub Desktop:
 
 1. Abre File > Add local repository y elige la carpeta de este proyecto.

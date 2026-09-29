@@ -85,3 +85,43 @@ testthat::test_that('hash conocido evita extracción y límite omite fuentes rec
   b <- observe_monitor(db,limit=1,fetcher=fixture_fetch)
   testthat::expect_equal(b[[1]]$source_id,'src_other')
 })
+
+testthat::test_that('propuesta inválida no deja aplicación parcial en la base', {
+  db <- agent_fixture(); p <- observe_monitor(db,fetcher=fixture_fetch,force=TRUE)
+  invalid <- function(text,url) {
+    x <- fixture_extract(text,url)
+    x$fields <- list(list(field='fecha_cierre',value='2025-01-01',url=url,quote=substr(text,1,30)))
+    x
+  }
+  a <- curate_proposals(db,p,invalid)
+  testthat::expect_identical(a$calls,db$calls)
+  testthat::expect_identical(a$changes,db$changes)
+  testthat::expect_equal(a$agent_decisions$status,'review')
+  testthat::expect_match(a$agent_decisions$reason,'validación')
+})
+
+testthat::test_that('dominios nuevos no se aprueban ni consumen extracción', {
+  p <- make_proposal('discover','https://unknown.example/program',fixture_fetch(''),'test')
+  calls <- 0
+  a <- curate_proposals(new_db(),list(p),function(...) {calls <<- calls+1; stop('No debe extraer')})
+  testthat::expect_equal(calls,0)
+  testthat::expect_equal(nrow(a$opportunities),0)
+  testthat::expect_equal(a$agent_decisions$status,'review')
+  testthat::expect_equal(a$review_queue$reason,'unapproved_domain')
+})
+
+testthat::test_that('edición nueva conserva la anterior y búsqueda parcial conserva evidencia', {
+  db <- agent_fixture()
+  fetch <- function(url) {r <- fixture_fetch(url); r$text <- sub('Edition 2026','Edition 2027',r$text); r}
+  extract <- function(text,url) {x <- fixture_extract(text,url); x$edicion <- '2027'; x}
+  p <- observe_monitor(db,fetcher=fetch,force=TRUE)
+  a <- curate_proposals(db,p,extract)
+  testthat::expect_equal(nrow(a$calls),2)
+  testthat::expect_equal(a$calls$fecha_cierre[a$calls$call_id==db$calls$call_id],'2026-12-01')
+  count <- 0
+  search <- function(q) {count <<- count+1; if(count>1) stop('Límite API'); fixture_search(q)}
+  p <- observe_discover(new_db(),5,search,fixture_fetch)
+  testthat::expect_length(p,1)
+  testthat::expect_true(attr(p,'search_failed'))
+  testthat::expect_silent(validate_proposal(p[[1]]))
+})

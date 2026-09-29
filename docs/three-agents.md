@@ -50,6 +50,10 @@ El valor anterior de cada cambio aplicado sigue en changes.csv. El JSON guarda
 el texto nuevo; no se afirma disponer de una captura anterior para fuentes legacy.
 El hash de evidencia detecta corrupción accidental; no es una firma criptográfica.
 
+Las observaciones de vigilancia añaden previous_hash y content_changed para señalar
+el cambio de contenido. No confundir ese cambio con un cambio de fecha o monto:
+curaduría determina los campos afectados y los registra en changes.csv.
+
 La CLI anterior `update.R --mode monitor|discover` sigue disponible, pero sólo
 produce propuestas. `--mode full` se retira para evitar escrituras implícitas.
 Usar agent.R con roles separados. Las funciones legacy monitor/discover se conservan
