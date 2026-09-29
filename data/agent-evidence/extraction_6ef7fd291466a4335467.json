@@ -1,0 +1,155 @@
+{
+  "url": "https://www.gerda-henkel-stiftung.de/en/grants_projects",
+  "evidence_hash": "d5cadb21b713720b554a7d366f655447228e306a34496dfc8271393049517b19",
+  "extracted_at": "2026-09-29T18:13:55Z",
+  "extraction": {
+    "convocatoria": "General Research Grants",
+    "institucion_financiante": "Gerda Henkel Foundation",
+    "edicion": null,
+    "tipo_oportunidad": "ambos",
+    "scope": "in",
+    "eligibility": "unknown",
+    "high_confidence": true,
+    "reason": "La página describe el programa General Research Grants de la Gerda Henkel Foundation, centrado en humanidades históricas y disciplinas afines. Incluye tanto proyectos de investigación como becas de investigación/doctorales. La elegibilidad general para UChile no queda claramente afirmada ni negada para todos los perfiles; sí se explicitan restricciones de perfil como doctorales y postdoctorales, pero no una regla directa sobre UChile.",
+    "fields": [
+      {
+        "field": "tipo_oportunidad",
+        "value": "ambos",
+        "quote": "there are three types of funding: research projects, research scholarships, and PhD scholarships",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants_projects"
+      },
+      {
+        "field": "convocatoria",
+        "value": "General Research Grants",
+        "quote": "Within the General Research Funding Programme of the Gerda Henkel Foundation",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants_projects"
+      },
+      {
+        "field": "institucion_financiante",
+        "value": "Gerda Henkel Foundation",
+        "quote": "the Gerda Henkel Foundation",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants_projects"
+      },
+      {
+        "field": "area_disciplinar",
+        "value": "Historical Humanities, in particular Archaeology, History, Historical Islamic Studies, Art History, History of Law, Prehistory and Early History, History of Science",
+        "quote": "the focus lies on the Historical Humanities, in particular Archaeology, History, Historical Islamic Studies, Art History, History of Law, Prehistory and Early History, History of Science",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants_projects"
+      },
+      {
+        "field": "alcance",
+        "value": "Applications from neighbouring disciplines are possible if the core research question is historically oriented.",
+        "quote": "Applications from neighbouring disciplines are possible if the core research question is historically oriented.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants_projects"
+      },
+      {
+        "field": "perfil_investigador_elegible",
+        "value": "Applicants from the specified disciplines or from related fields pursuing a predominantly historical topic",
+        "quote": "only applicants from the specified disciplines or from related fields pursuing a predominantly historical topic are eligible",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants_projects"
+      },
+      {
+        "field": "etapa_carrera",
+        "value": "postdocs, scholars with Post Doctoral Lecture Qualification, doctoral candidates for PhD scholarships",
+        "quote": "Doctoral candidates are not eligible to apply for research projects or research scholarships. They may, however, apply for a PhD scholarship.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants_projects"
+      },
+      {
+        "field": "requisitos_contraparte",
+        "value": "project staff on research projects may only be financed by PhD or research scholarships",
+        "quote": "Project staff on research projects may only be financed by PhD or research scholarships.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants_projects"
+      },
+      {
+        "field": "rol_permitido_para_postulante",
+        "value": "universities, other research institutes or comparable institutions as well as by one or several Postdocs or scholars with Post Doctoral Lecture Qualification",
+        "quote": "Applications for research projects can be made by universities, other research institutes or comparable institutions as well as by one or several Postdocs or scholars with Post Doctoral Lecture Qualification.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants_projects"
+      },
+      {
+        "field": "idiomas_postulacion",
+        "value": "German or English",
+        "quote": "applications may be submitted in either German or English",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants_projects"
+      },
+      {
+        "field": "fecha_cierre_texto",
+        "value": "20 November 2026",
+        "quote": "The application deadline for the Foundation committees spring meeting in 2026 is 20 November 2026.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants_projects"
+      },
+      {
+        "field": "fecha_cierre",
+        "value": "2026-11-20",
+        "quote": "The application deadline for the Foundation committees spring meeting in 2026 is 20 November 2026.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants_projects"
+      },
+      {
+        "field": "frecuencia_apertura_llamado",
+        "value": "twice a year",
+        "quote": "The Foundation committees meet twice a year to consider the applications and decide on funding grants.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants_projects"
+      },
+      {
+        "field": "frecuencia_normalizada",
+        "value": "dos_veces_al_ano",
+        "quote": "The Foundation committees meet twice a year to consider the applications and decide on funding grants.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants_projects"
+      },
+      {
+        "field": "monto_financiamiento_texto",
+        "value": "Monthly scholarship award: 1,920 euros; 2,760 euros; 3,720 euros",
+        "quote": "Monthly scholarship award: 1,920 euros",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants_projects"
+      },
+      {
+        "field": "moneda",
+        "value": "euros",
+        "quote": "All costs in euros.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants_projects"
+      },
+      {
+        "field": "requiere_cofinanciamiento",
+        "value": "No",
+        "quote": "no overhead costs",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants_projects"
+      },
+      {
+        "field": "gastos_financiables",
+        "value": "personnel, travel, materials and/or other costs",
+        "quote": "the assumption of costs for personnel, travel, materials and/or other costs.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants_projects"
+      },
+      {
+        "field": "gastos_cubiertos",
+        "value": "travel aid; material aid; family grant; costs for enrolled student assistants; costs for personnel, travel, materials and/or other costs",
+        "quote": "Travel aid: as required Material aid: as required",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants_projects"
+      },
+      {
+        "field": "duracion_proyecto",
+        "value": "not found",
+        "quote": "smaller funding amounts are granted by the Foundation through a simplified procedure with a deliberation time of approximately three to four months.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants_projects"
+      },
+      {
+        "field": "estado_fuente",
+        "value": "full text reviewed",
+        "quote": "General Research Grants",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants_projects"
+      },
+      {
+        "field": "observaciones_dudas",
+        "value": "The page also states that doctoral candidates are not eligible for research projects or research scholarships, and that only postdocs or scholars with Post Doctoral Lecture Qualification may apply for research scholarships.",
+        "quote": "Doctoral candidates are not eligible to apply for research projects or research scholarships.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants_projects"
+      },
+      {
+        "field": "elegibilidad_uchile",
+        "value": "No",
+        "quote": "The funding activities concentrate basically on German and foreign academics in the fields of historical humanities.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants_projects"
+      }
+    ]
+  }
+}

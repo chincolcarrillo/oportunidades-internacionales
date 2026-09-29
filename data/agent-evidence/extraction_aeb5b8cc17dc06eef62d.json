@@ -1,0 +1,161 @@
+{
+  "url": "https://www.gerda-henkel-stiftung.de/en/grants",
+  "evidence_hash": "8a2576109ab0ec1209f360b356fbef8e19a70acfaf17007d3e19bc73c776c7fc",
+  "extracted_at": "2026-09-29T18:14:02Z",
+  "extraction": {
+    "convocatoria": "General Research Grants",
+    "institucion_financiante": "Gerda Henkel Foundation",
+    "edicion": "As at: August 2023",
+    "tipo_oportunidad": "ambos",
+    "scope": "in",
+    "eligibility": "unknown",
+    "high_confidence": true,
+    "reason": "La página describe un programa de financiamiento para proyectos de investigación y becas de investigación en humanidades históricas y áreas temáticas afines; también indica ciertas disciplinas y formatos no elegibles. No se explicita una restricción clara de elegibilidad para UChile o Chile, aunque sí se requieren perfiles específicos para algunas modalidades.",
+    "fields": [
+      {
+        "field": "convocatoria",
+        "value": "General Research Grants",
+        "quote": "General Research Grants: Projects",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants"
+      },
+      {
+        "field": "institucion_financiante",
+        "value": "Gerda Henkel Foundation",
+        "quote": "The Gerda Henkel Foundation",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants"
+      },
+      {
+        "field": "edicion",
+        "value": "As at: August 2023",
+        "quote": "As at: August 2023",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants"
+      },
+      {
+        "field": "tipo_oportunidad",
+        "value": "ambos",
+        "quote": "Applications for General Research Grants can be filed for both research projects and research scholarships.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants"
+      },
+      {
+        "field": "tipo_oportunidad",
+        "value": "ambos",
+        "quote": "Select this funding option Research Scholarship",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants"
+      },
+      {
+        "field": "tipo_oportunidad",
+        "value": "ambos",
+        "quote": "Select this funding option Research Project",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants"
+      },
+      {
+        "field": "area_disciplinar",
+        "value": "Archaeology; History of Art; Historical Islamic Studies; History; History of Science; History of Law; Prehistory and Early History",
+        "quote": "Archaeology History of Art Historical Islamic Studies History History of Science History of Law Prehistory and Early History",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants"
+      },
+      {
+        "field": "area_disciplinar",
+        "value": "Heritage Studies; Research in the History of Architecture; Conservation Studies; Cultural Studies; Political Science; Jurisprudence; Restoration Studies; Social Sciences",
+        "quote": "Heritage Studies Research in the History of Architecture Conservation Studies Cultural Studies Political Science Jurisprudence Restoration Studies Social Sciences",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants"
+      },
+      {
+        "field": "alcance",
+        "value": "Funding for other academic fields may be possible within our thematic special programmes.",
+        "quote": "Funding for other academic fields may be possible within our thematic special programmes.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants"
+      },
+      {
+        "field": "alcance",
+        "value": "The funding activities concentrate basically on German and foreign academics in the fields of historical humanities.",
+        "quote": "The funding activities concentrate basically on German and foreign academics in the fields of historical humanities.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants"
+      },
+      {
+        "field": "perfil_investigador_elegible",
+        "value": "Candidates can apply regardless of their nationality and place of work.",
+        "quote": "Candidates can apply regardless of their nationality and place of work.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants"
+      },
+      {
+        "field": "perfil_investigador_elegible",
+        "value": "only applicants from the specified disciplines or from related fields pursuing a predominantly historical topic are eligible.",
+        "quote": "only applicants from the specified disciplines or from related fields pursuing a predominantly historical topic are eligible.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants"
+      },
+      {
+        "field": "elegibilidad_uchile",
+        "value": "No claro",
+        "quote": "Candidates can apply regardless of their nationality and place of work.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants"
+      },
+      {
+        "field": "gastos_financiables",
+        "value": "specific temporary research projects by way of grants for personnel, travel and material expenses",
+        "quote": "specific temporary research projects by way of grants for personnel, travel and material expenses",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants"
+      },
+      {
+        "field": "gastos_financiables",
+        "value": "research and PhD scholarships for German and foreign scholars",
+        "quote": "research and PhD scholarships for German and foreign scholars",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants"
+      },
+      {
+        "field": "gastos_financiables",
+        "value": "travel and material expenses",
+        "quote": "travel and material expenses",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants"
+      },
+      {
+        "field": "gastos_cubiertos",
+        "value": "Travel expenses include all financial expenditures which the beneficiary incurs in undertaking journeys which are closely related to the subject of the project being funded",
+        "quote": "Travel expenses include all financial expenditures which the beneficiary incurs in undertaking journeys which are closely related to the subject of the project being funded",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants"
+      },
+      {
+        "field": "gastos_cubiertos",
+        "value": "Material expenses include all expenses incurred by the scholarship holder in connection with purchasing, processing and archiving information which are closely related to the subject of the project being funded",
+        "quote": "Material expenses include all expenses incurred by the scholarship holder in connection with purchasing, processing and archiving information which are closely related to the subject of the project being funded",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants"
+      },
+      {
+        "field": "monto_max",
+        "value": "500",
+        "quote": "up to EUR 500 for the purchase of a maximum of one device per scholarship holder",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants"
+      },
+      {
+        "field": "moneda",
+        "value": "EUR",
+        "quote": "EUR 500",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants"
+      },
+      {
+        "field": "observaciones_dudas",
+        "value": "No flat-rate daily allowance or hotel expenses shall be paid.",
+        "quote": "No flat-rate daily allowance or hotel expenses shall be paid.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants"
+      },
+      {
+        "field": "observaciones_dudas",
+        "value": "The Foundation does not cover overhead costs.",
+        "quote": "No, the Foundation does not cover overhead costs.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants"
+      },
+      {
+        "field": "observaciones_dudas",
+        "value": "Applications which the Foundation has turned down cannot be resubmitted, even for a different funding initiative or in a revised version.",
+        "quote": "Applications which the Foundation has turned down cannot be resubmitted, even for a different funding initiative or in a revised version.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants"
+      },
+      {
+        "field": "frecuencia_normalizada",
+        "value": "no_claro",
+        "quote": "In 2024",
+        "url": "https://www.gerda-henkel-stiftung.de/en/grants"
+      }
+    ]
+  }
+}

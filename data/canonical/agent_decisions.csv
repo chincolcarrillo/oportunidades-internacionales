@@ -1,1 +1,6 @@
 "proposal_id","role","run_id","decided_at","status","reason","attempts","evidence_hash"
+"proposal_fa774078bcb11ff4488a","monitor","run_4d13ca0269bf047a6336","2026-09-29T18:13:55Z","review","Revisión pendiente; sólo campos seguros aplicados","1","d5cadb21b713720b554a7d366f655447228e306a34496dfc8271393049517b19"
+"proposal_d661c7ccecd55e8272c6","monitor","run_4d13ca0269bf047a6336","2026-09-29T18:14:02Z","review","Revisión pendiente; sólo campos seguros aplicados","1","8a2576109ab0ec1209f360b356fbef8e19a70acfaf17007d3e19bc73c776c7fc"
+"proposal_626befc50eac5971d243","monitor","run_4d13ca0269bf047a6336","2026-09-29T18:14:02Z","review","Fuente no disponible; datos conservados","1","e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+"proposal_96daf35e2d0fb4f0eaea","monitor","run_4d13ca0269bf047a6336","2026-09-29T18:14:02Z","review","Dominio no aprobado; no se consume extracción","1","9b9db95c27e8fdec7506572c0258f7ecd60f2eedc8914aa9550611def5782d2f"
+"proposal_0f845305c040d8836c0e","monitor","run_4d13ca0269bf047a6336","2026-09-29T18:14:10Z","review","Revisión pendiente; sólo campos seguros aplicados","1","9ddd135ebf700ef60e87961178f44f459ade838989a0176f0a2dff7c2753cc5b"

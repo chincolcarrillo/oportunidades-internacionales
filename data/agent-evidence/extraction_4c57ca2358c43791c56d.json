@@ -1,0 +1,149 @@
+{
+  "url": "https://www.gerda-henkel-stiftung.de/en/lost_cities",
+  "evidence_hash": "9ddd135ebf700ef60e87961178f44f459ade838989a0176f0a2dff7c2753cc5b",
+  "extracted_at": "2026-09-29T18:14:10Z",
+  "extraction": {
+    "convocatoria": "Lost Cities. Perception of and living with abandoned cities in the cultures of the world",
+    "institucion_financiante": "Gerda Henkel Foundation",
+    "edicion": null,
+    "tipo_oportunidad": "fondo",
+    "scope": "in",
+    "eligibility": "no",
+    "high_confidence": true,
+    "reason": "El texto describe un programa especial de la Gerda Henkel Foundation para investigación en humanidades y ciencias sociales sobre ciudades abandonadas, con financiamiento de becas y otros costos de proyecto. La elegibilidad exige doctorado, afiliación universitaria y que las solicitudes sean de grupos de investigación; no se indica elegibilidad para UChile y, por perfil, no corresponde a la mayoría de postulantes de UChile sin verificar que cumplan esas condiciones.",
+    "fields": [
+      {
+        "field": "convocatoria",
+        "value": "Lost Cities. Perception of and living with abandoned cities in the cultures of the world",
+        "quote": "Perception of and Life with Abandoned Cities in the Cultures of the World",
+        "url": "https://www.gerda-henkel-stiftung.de/en/lost_cities"
+      },
+      {
+        "field": "institucion_financiante",
+        "value": "Gerda Henkel Foundation",
+        "quote": "the Gerda Henkel Foundation has established a new special programme",
+        "url": "https://www.gerda-henkel-stiftung.de/en/lost_cities"
+      },
+      {
+        "field": "tipo_oportunidad",
+        "value": "fondo",
+        "quote": "the special programme is designed to be interdisciplinary",
+        "url": "https://www.gerda-henkel-stiftung.de/en/lost_cities"
+      },
+      {
+        "field": "gastos_financiables",
+        "value": "staff, travel, equipment/materials and/or other costs",
+        "quote": "Support for research projects takes the form of staff, travel, equipment/materials and/or other costs being covered.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/lost_cities"
+      },
+      {
+        "field": "gastos_cubiertos",
+        "value": "staff, travel, equipment/materials and/or other costs",
+        "quote": "Support for research projects takes the form of staff, travel, equipment/materials and/or other costs being covered.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/lost_cities"
+      },
+      {
+        "field": "duracion_proyecto",
+        "value": "up to 36 months",
+        "quote": "Research duration: up to 36 months.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/lost_cities"
+      },
+      {
+        "field": "periodo_estancia",
+        "value": "Applications must be in English or in German",
+        "quote": "Applications must be in English or in German",
+        "url": "https://www.gerda-henkel-stiftung.de/en/lost_cities"
+      },
+      {
+        "field": "elegibilidad_uchile",
+        "value": "No",
+        "quote": "Applications do not depend on the participants’ nationality or the location where they work.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/lost_cities"
+      },
+      {
+        "field": "estado_fuente",
+        "value": "activo",
+        "quote": "The next application deadline is 19 May 2027.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/lost_cities"
+      },
+      {
+        "field": "tipo_oportunidad",
+        "value": "fondo",
+        "quote": "Only applications from research groups will be considered.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/lost_cities"
+      },
+      {
+        "field": "perfil_investigador_elegible",
+        "value": "PhD holders with a university affiliation from the humanities and social sciences",
+        "quote": "PhD holders with a university affiliation from the humanities and social sciences.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/lost_cities"
+      },
+      {
+        "field": "perfil_investigador_elegible",
+        "value": "post-doctoral researchers based in a university and working in the area of the humanities and the social sciences",
+        "quote": "Eligible to apply are post-doctoral researchers based in a university and working in the area of the humanities and the social sciences.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/lost_cities"
+      },
+      {
+        "field": "rol_permitido_para_postulante",
+        "value": "project lead; applicant (project lead)",
+        "quote": "A research scholarship can be granted for the applicant (project lead).",
+        "url": "https://www.gerda-henkel-stiftung.de/en/lost_cities"
+      },
+      {
+        "field": "rol_permitido_para_postulante",
+        "value": "research group",
+        "quote": "Only applications from research groups will be considered.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/lost_cities"
+      },
+      {
+        "field": "frecuencia_apertura_llamado",
+        "value": "once a year",
+        "quote": "A call for proposals is announced once a year.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/lost_cities"
+      },
+      {
+        "field": "frecuencia_normalizada",
+        "value": "anual",
+        "quote": "A call for proposals is announced once a year.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/lost_cities"
+      },
+      {
+        "field": "fecha_cierre",
+        "value": "2027-05-19",
+        "quote": "The next application deadline is 19 May 2027.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/lost_cities"
+      },
+      {
+        "field": "fecha_cierre_texto",
+        "value": "19 May 2027",
+        "quote": "The next application deadline is 19 May 2027.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/lost_cities"
+      },
+      {
+        "field": "observaciones_dudas",
+        "value": "Se aceptan proyectos de grupos de investigación; no se permiten solicitudes individuales fuera de un research group.",
+        "quote": "Applications for individual grants outside of a research group are not permitted.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/lost_cities"
+      },
+      {
+        "field": "alcance",
+        "value": "tema centrado en ciudades abandonadas y sus interpretaciones en culturas del mundo",
+        "quote": "Perception of and living with abandoned cities in the cultures of the world.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/lost_cities"
+      },
+      {
+        "field": "area_disciplinar",
+        "value": "humanidades y ciencias sociales",
+        "quote": "working in the area of the humanities and the social sciences.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/lost_cities"
+      },
+      {
+        "field": "objetivo",
+        "value": "describir las culturas tangibles de interpretación, conocimiento y percepción de las ciudades abandonadas",
+        "quote": "The aim of the programme is to describe the tangible cultures of interpretation, knowledge and perception within these different contexts.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/lost_cities"
+      }
+    ]
+  }
+}
