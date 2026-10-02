@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_0b5e50ae94ba412dd411",
+  "role": "monitor",
+  "run_id": "run_d051796af3ab328795c6",
+  "observed_at": "2026-10-02T16:19:19Z",
+  "url": "https://institution.axa-research.org/guidelines.pdf",
+  "source_id": "src_81f88437d38bb2d7a7a4",
+  "baseline": "1b561da265730b1f49b9101be4463dcd712ac5c3e99019a2fcf43c2df3ff588c",
+  "http_status": 200,
+  "error": "Formato no HTML/texto; revisar PDF o fuente alternativa",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

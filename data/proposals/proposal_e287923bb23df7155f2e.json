@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_e287923bb23df7155f2e",
+  "role": "monitor",
+  "run_id": "run_d051796af3ab328795c6",
+  "observed_at": "2026-10-02T16:38:12Z",
+  "url": "https://www.spf.org/en/about/idea_submission/",
+  "source_id": "src_c3ecf19c1ace6b7b0f38",
+  "baseline": "669179eb47ea347856cbe7af1a970da228732ea487d4de2639331426f41a3a05",
+  "http_status": 403,
+  "error": "HTTP 403",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

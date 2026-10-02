@@ -1,0 +1,53 @@
+{
+  "url": "https://www.gerda-henkel-stiftung.de/en/projects",
+  "evidence_hash": "8cb60e3bd236b0d2d445e368ba638d65fd03c12631cbb065574e321266c0b553",
+  "extracted_at": "2026-10-02T16:43:52Z",
+  "extraction": {
+    "convocatoria": "Projects supported by the Foundation",
+    "institucion_financiante": "Gerda Henkel Foundation",
+    "edicion": null,
+    "tipo_oportunidad": "ambos",
+    "scope": "in",
+    "eligibility": "unknown",
+    "high_confidence": false,
+    "reason": "La página es una lista general de proyectos apoyados por la fundación; explicita apoyo a proyectos de investigación y menciona Forschungsstipendium, Promotionsstipendium, Forschungsprojekt, Sachbeihilfe y Druckkostenzuschuss, pero no presenta una convocatoria con cierre abierto/cerrado ni requisitos completos de elegibilidad para postular. Sí permite identificar ámbito temático de humanidades históricas y otras áreas de investigación.",
+    "fields": [
+      {
+        "field": "convocatoria",
+        "value": "Projects supported by the Foundation",
+        "quote": "Projects supported by the Foundation",
+        "url": "https://www.gerda-henkel-stiftung.de/en/projects"
+      },
+      {
+        "field": "institucion_financiante",
+        "value": "Gerda Henkel Foundation",
+        "quote": "The following overview lists projects supported by the foundation over the last years.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/projects"
+      },
+      {
+        "field": "tipo_oportunidad",
+        "value": "ambos",
+        "quote": "Forschungsstipendium neu | bewilligt 2025",
+        "url": "https://www.gerda-henkel-stiftung.de/en/projects"
+      },
+      {
+        "field": "alcance",
+        "value": "humanidades históricas y otras áreas de investigación, desde arqueología hasta historia contemporánea",
+        "quote": "We support the historical humanities and other fields of research – from archaeology to contemporary history.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/projects"
+      },
+      {
+        "field": "area_disciplinar",
+        "value": "humanidades históricas; arqueología; historia contemporánea; estudios islámicos históricos; historia del arte; historia de la música; historia del derecho; historia de la ciencia; estudios culturales; filosofía; prehistoria e historia antigua; historia medieval; historia moderna; estudios interdisciplinarios",
+        "quote": "Ancient History Archaeology Art History Cultural Studies Historical Islamic Studies Historical Musicology History of Science Interdisciplinary Legal History Medieval History Modern History Other Philosophy Prehistory and Early History",
+        "url": "https://www.gerda-henkel-stiftung.de/en/projects"
+      },
+      {
+        "field": "estado_fuente",
+        "value": "página de proyectos financiados, sin convocatoria formal visible",
+        "quote": "The following overview lists projects supported by the foundation over the last years.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/projects"
+      }
+    ]
+  }
+}

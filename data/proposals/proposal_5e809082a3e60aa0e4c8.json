@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_5e809082a3e60aa0e4c8",
+  "role": "monitor",
+  "run_id": "run_d051796af3ab328795c6",
+  "observed_at": "2026-10-02T16:40:13Z",
+  "url": "https://investigacion.uc.cl/concursos/concurso-anid-fapesp-2025/",
+  "source_id": "src_74e305f0e9908050c701",
+  "baseline": "44459bfca0646ee7157d2b1f39f4675b9b0791537b66caae0763a5a7ecf7e50b",
+  "http_status": 403,
+  "error": "HTTP 403",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

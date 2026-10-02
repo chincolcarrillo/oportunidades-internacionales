@@ -1,0 +1,167 @@
+{
+  "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration",
+  "evidence_hash": "4198c81ac47d2f1c757882d5417ea8ee5c7c7c0362f2053716d59c2f52e948eb",
+  "extracted_at": "2026-10-02T16:43:48Z",
+  "extraction": {
+    "convocatoria": "Special Programme Forced Migration",
+    "institucion_financiante": "Gerda Henkel Foundation",
+    "edicion": null,
+    "tipo_oportunidad": "ambos",
+    "scope": "in",
+    "eligibility": "unknown",
+    "high_confidence": true,
+    "reason": "El texto describe un programa especial para investigación sobre forced migration con financiación de proyectos y becas de investigación, además de publishing aid. La temática es claramente de investigación en migración forzada, pero la elegibilidad para UChile o para un perfil concreto no queda suficientemente determinada; solo se explicitan requisitos generales de postgrado/doctorado y de idioma, sin una regla clara sobre afiliación chilena o UChile.",
+    "fields": [
+      {
+        "field": "tipo_oportunidad",
+        "value": "ambos",
+        "quote": "Funding for research scholarships and for the implementation of research projects is offered.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration"
+      },
+      {
+        "field": "convocatoria",
+        "value": "Special Programme Forced Migration",
+        "quote": "Special Programme Forced Migration Call for Applications",
+        "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration"
+      },
+      {
+        "field": "institucion_financiante",
+        "value": "Gerda Henkel Foundation",
+        "quote": "Through its Special Programme “Forced Migration”, the Gerda Henkel Foundation has supported research projects",
+        "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration"
+      },
+      {
+        "field": "tipo_oportunidad",
+        "value": "fondo",
+        "quote": "Funding for research scholarships and for the implementation of research projects is offered.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration"
+      },
+      {
+        "field": "tipo_oportunidad",
+        "value": "estancia",
+        "quote": "The approved scholarships are usually paid directly to the scholarship holders on a monthly basis.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration"
+      },
+      {
+        "field": "area_disciplinar",
+        "value": "Humanidades, Ciencias Sociales, Estudios Culturales, Derecho y Economía",
+        "quote": "The special programme is aimed at researchers across several disciplines such as Humanities, Social Sciences, Cultural Studies, Law, and Economics.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration"
+      },
+      {
+        "field": "objetivo",
+        "value": "apoyar investigación sobre migración forzada con enfoques interdisciplinarios, internacionales y multidimensionales",
+        "quote": "it is intended to contribute to strengthening fundamental research by encompassing a range of disciplinary, methodological and epistemological approaches to forced migration",
+        "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration"
+      },
+      {
+        "field": "alcance",
+        "value": "migración forzada, desplazamiento, protección, regulación estatal y prácticas de personas desplazadas",
+        "quote": "forced migration research examines the various forms and consequences of forced migration and displacement, protection measures and state regulation, as well as the actions of displaced people",
+        "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration"
+      },
+      {
+        "field": "frecuencia_apertura_llamado",
+        "value": "una vez al año",
+        "quote": "A call for proposals is announced once a year.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration"
+      },
+      {
+        "field": "frecuencia_normalizada",
+        "value": "anual",
+        "quote": "A call for proposals is announced once a year.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration"
+      },
+      {
+        "field": "fecha_cierre_texto",
+        "value": "se espera en abril de 2027",
+        "quote": "The next application deadline is expected to be in April 2027.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration"
+      },
+      {
+        "field": "fecha_cierre",
+        "value": "2027-04",
+        "quote": "The next application deadline is expected to be in April 2027.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration"
+      },
+      {
+        "field": "idiomas_postulacion",
+        "value": "inglés",
+        "quote": "Applications must be in English",
+        "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration"
+      },
+      {
+        "field": "perfil_investigador_elegible",
+        "value": "el solicitante debe tener un PhD o una segunda cualificación académica formal equivalente; en becas de proyecto doctoral, las becas de doctorado solo se conceden junto con un proyecto de investigación específico",
+        "quote": "The applicant must hold a PhD or a formal second academic qualification (\"habilitation\" or comparable)",
+        "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration"
+      },
+      {
+        "field": "perfil_investigador_elegible",
+        "value": "las becas de doctorado solo se conceden junto con un proyecto de investigación específico",
+        "quote": "Ph scholarships are only granted in tandem with a specific research project.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration"
+      },
+      {
+        "field": "duracion_proyecto",
+        "value": "mínimo 1 mes y máximo 24 meses",
+        "quote": "Support can be provided for a period of min. one month and max. 24 months.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration"
+      },
+      {
+        "field": "gastos_financiables",
+        "value": "monthly family grant, personnel costs for an academic assistant, material and travel aid",
+        "quote": "monthly family grant personnel costs for an academic assistant Material and Travel aid",
+        "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration"
+      },
+      {
+        "field": "gastos_cubiertos",
+        "value": "monthly scholarship award; family grant; travel aid; material aid",
+        "quote": "Monthly scholarship award: 1.920 euros • for one child: EUR 480 • each further child: EUR 120",
+        "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration"
+      },
+      {
+        "field": "monto_financiamiento_texto",
+        "value": "Monthly scholarship award: 1.920 euros; for postdocs: 2,760 euros; after postdoctoral lecture qualification: 3,720 euros",
+        "quote": "Monthly scholarship award: 1.920 euros • for one child: EUR 480 • each further child: EUR 120",
+        "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration"
+      },
+      {
+        "field": "monto_financiamiento_texto",
+        "value": "Monthly scholarship award: 2,760 euros",
+        "quote": "Monthly scholarship award: 2,760 euros • for one child: EUR 480 • each further child: EUR 120",
+        "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration"
+      },
+      {
+        "field": "monto_financiamiento_texto",
+        "value": "Monthly scholarship award: 3,720 euros",
+        "quote": "Monthly scholarship award: 3,720 euros For classification under the stipend rate “after post doctoral lecture qualification”, the following applies",
+        "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration"
+      },
+      {
+        "field": "moneda",
+        "value": "euros",
+        "quote": "Monthly scholarship award: 1.920 euros",
+        "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration"
+      },
+      {
+        "field": "requiere_cofinanciamiento",
+        "value": "No",
+        "quote": "No overhead-costs No college or tuition fees",
+        "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration"
+      },
+      {
+        "field": "elegibilidad_uchile",
+        "value": "No",
+        "quote": "No institutional affiliation is necessary.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration"
+      },
+      {
+        "field": "estado_fuente",
+        "value": "Abierta, pero no se pueden presentar solicitudes actualmente; siguiente plazo previsto en abril de 2027",
+        "quote": "Applications cannot currently be submitted.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/forced_migration"
+      }
+    ]
+  }
+}

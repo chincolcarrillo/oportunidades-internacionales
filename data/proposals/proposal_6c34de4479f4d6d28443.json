@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_6c34de4479f4d6d28443",
+  "role": "monitor",
+  "run_id": "run_d051796af3ab328795c6",
+  "observed_at": "2026-10-02T16:42:29Z",
+  "url": "https://anii.org.uy/apoyos/investigacion/519/convocatoria-belmont-forum-ocean-2/",
+  "source_id": "src_17bfa2ed5afa3eb36fda",
+  "baseline": "a96a7b39571d8dca0011c942ebe544e112bf6ad1b7ab1f09830a04c3dd6af07d",
+  "http_status": 403,
+  "error": "HTTP 403",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_b13d1711af6997e463f8",
+  "role": "monitor",
+  "run_id": "run_d051796af3ab328795c6",
+  "observed_at": "2026-10-02T16:38:09Z",
+  "url": "https://www.cckf.org.tw/en/programs/european/database",
+  "source_id": "src_5e73e0652d3ea448a7c9",
+  "baseline": "0f051c3d57e3779556cb4c91c723581750843d0b4a765ceeaef1235ee40d14a7",
+  "http_status": 0,
+  "error": "robots.txt no permite o no pudo verificarse",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

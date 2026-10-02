@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_ba68be63597a27119bb4",
+  "role": "monitor",
+  "run_id": "run_d051796af3ab328795c6",
+  "observed_at": "2026-10-02T16:39:35Z",
+  "url": "https://www.agcid.gob.cl/becas/353-fondo-chile-mexico/convocatorias",
+  "source_id": "src_bd7679576bed8215b6b1",
+  "baseline": "389da2e42f8c5adf83f1ec4de246967ed6a5ffe7bb74600a1f4270ebea653a5b",
+  "http_status": 0,
+  "error": "robots.txt no permite o no pudo verificarse",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

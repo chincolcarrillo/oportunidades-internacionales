@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_e3bf670120bedfab6df0",
+  "role": "monitor",
+  "run_id": "run_d051796af3ab328795c6",
+  "observed_at": "2026-10-02T16:38:50Z",
+  "url": "https://infofin.ulb.be/download?file=uploads%2Fdocs%2FxCr85srzdK%2FFunding-Opportunities-Overview-2025.pdf&name=Funding-Opportunities-Overview-2025.pdf",
+  "source_id": "src_6912dd2e0297efd76005",
+  "baseline": "806924c0977c84cbf49bc69b8a89fd1b307c41ce23d4416741a8e138c37bce5b",
+  "http_status": 200,
+  "error": "Formato no HTML/texto; revisar PDF o fuente alternativa",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

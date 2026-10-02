@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_b505790851ebec8241a8",
+  "role": "monitor",
+  "run_id": "run_d051796af3ab328795c6",
+  "observed_at": "2026-10-02T16:35:42Z",
+  "url": "https://www.dfat.gov.au/people-people/council-australia-latin-america-relations-coalar-grants-eligibility",
+  "source_id": "src_389af34e194015bc5675",
+  "baseline": "38870ccab1eca46707e421e149532cbe71b871398b45df4425923a393f1d8fe5",
+  "http_status": 0,
+  "error": "robots.txt no permite o no pudo verificarse",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

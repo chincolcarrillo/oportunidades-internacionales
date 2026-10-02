@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_8decc23a93203859a711",
+  "role": "monitor",
+  "run_id": "run_d051796af3ab328795c6",
+  "observed_at": "2026-10-02T16:36:28Z",
+  "url": "https://humanities.org.au/wp-content/uploads/2026/01/Publication-Subsidy-Scheme-Guidelines-2026.pdf",
+  "source_id": "src_6cd79e59f208b2eb3a58",
+  "baseline": "52d12f7dd743699afe30f0f8ae599da1da4fd92c24e7c66f4d53e242942f98ce",
+  "http_status": 200,
+  "error": "Formato no HTML/texto; revisar PDF o fuente alternativa",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_99e6b290df25dc45663c",
+  "role": "monitor",
+  "run_id": "run_d051796af3ab328795c6",
+  "observed_at": "2026-10-02T16:38:09Z",
+  "url": "https://www.cckf.org.tw/en/news/2024052002",
+  "source_id": "src_43e2ffdf18b44ab83577",
+  "baseline": "352b99be49260bfcddcfabc583653833af9439c3300348fa5039deb59b80e153",
+  "http_status": 0,
+  "error": "robots.txt no permite o no pudo verificarse",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

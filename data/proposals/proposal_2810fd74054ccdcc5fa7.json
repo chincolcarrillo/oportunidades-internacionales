@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_2810fd74054ccdcc5fa7",
+  "role": "monitor",
+  "run_id": "run_d051796af3ab328795c6",
+  "observed_at": "2026-10-02T16:42:24Z",
+  "url": "https://anii.org.uy/apoyos/investigacion/",
+  "source_id": "src_84c0ed8048fb38eca2a8",
+  "baseline": "244c5bb14396b6f0fa453f4421c00e383af5ff57b4d146e55c434173c9bd265b",
+  "http_status": 403,
+  "error": "HTTP 403",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

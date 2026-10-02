@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_b169b9aae0d0368b2fab",
+  "role": "monitor",
+  "run_id": "run_d051796af3ab328795c6",
+  "observed_at": "2026-10-02T16:38:09Z",
+  "url": "https://www.cckf.org.tw/en/programs",
+  "source_id": "src_a3dea1a77d0b11f33d3a",
+  "baseline": "8095fa83a24c023991fe5ca982dcfc2092b8f9e1c5b27ef0f2cbf20c725507e2",
+  "http_status": 0,
+  "error": "robots.txt no permite o no pudo verificarse",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

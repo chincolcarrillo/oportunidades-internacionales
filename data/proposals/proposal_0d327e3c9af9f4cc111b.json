@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_0d327e3c9af9f4cc111b",
+  "role": "monitor",
+  "run_id": "run_d051796af3ab328795c6",
+  "observed_at": "2026-10-02T16:42:17Z",
+  "url": "https://www.gub.uy/ministerio-educacion-cultura/comunicacion/noticias/uruguay-mexico-renuevan-lazos-estrategicos-cooperacion",
+  "source_id": "src_f90261997ff304e045f0",
+  "baseline": "b21a84cfdef84aa9c5b71a8291e25e829ba7c228f26090a7b61110252bd009f4",
+  "http_status": 200,
+  "error": null,
+  "evidence_hash": "bf3b30dc7274fecb24846e13342ba5ce2cf97fb53da91c21f962e0bd7c821008",
+  "text": "Cooperación Uruguay y México renuevan lazos estratégicos en Cooperación 25/06/2025 Compartir Facebook X Copiar enlace WhatsApp LinkedIn Se encuentra abierta la VI Convocatoria 2025 del Fondo Conjunto de Cooperación Uruguay-México, una iniciativa que fortalece la asociación estratégica entre ambos países a través de la promoción de proyectos técnicos y científicos con impacto en el desarrollo sostenible. El Fondo tiene como propósito impulsar propuestas de cooperación que promuevan la complementariedad, el equilibrio de intereses y el trabajo conjunto, tanto bilateral como con terceros actores. Se busca que las iniciativas estén alineadas con las prioridades nacionales de desarrollo, así como con los Objetivos de Desarrollo Sostenible (ODS) y la Agenda 2030. Los programas y proyectos de cooperación técnica podrán comprender financiamiento para llevar a cabo: a) Asistencia técnica; b) Intercambio de expertos y funcionarios; c) Pasantías (corta duración); d) Foros y/o Seminarios; e) Capacitación de recursos humanos; y f) Material de difusión. Dirigido a: sector público de México y Uruguay y a entidades académicas, de investigación, asociaciones y organizaciones civiles de carácter no lucrativo Sectores: Agropecuario; Ciencia, tecnología e innovación; Comercio, industria y turismo; Desarrollo social; Educación y cultura; Gobernabilidad; Medioambiente; Salud. La presentación de propuestas deberá realizarse de manera paralela tanto en México como en Uruguay hasta las 23.59 horas del 15 de julio de 2025, fecha de cierre de la presente convocatoria. El proyecto y su correspondiente documentación deberán enviarse a los siguientes correos: dgopmexico@sre.gob.mx y fondouru-mex@auci.gub.uy Para conocer los lineamientos completos y acceder al formulario de presentación de proyectos, se puede consultar el siguiente enlace oficial: VI Convocatoria 2025 del Fondo Conjunto de Cooperación México-Uruguay – AMEXCID Etiquetas Convocatorias CTI Cooperación Internacional Ciencia y Tecnología Ciudadanía Empresas Instituciones de Investigación Instituciones Educativas Organismos públicos Población migrante Usuarios",
+  "previous_hash": null,
+  "content_changed": true
+}

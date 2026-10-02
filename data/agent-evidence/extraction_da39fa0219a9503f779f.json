@@ -1,0 +1,125 @@
+{
+  "url": "https://www.gerda-henkel-stiftung.de/en/patrimonies_en",
+  "evidence_hash": "a72f6fe494a2b8a7fef3e14c187d239ddcc858ef813d0f68c6406758afbb2ce5",
+  "extracted_at": "2026-10-02T16:43:57Z",
+  "extraction": {
+    "convocatoria": "Patrimonies Funding Initiative",
+    "institucion_financiante": "Gerda Henkel Foundation",
+    "edicion": null,
+    "tipo_oportunidad": "fondo",
+    "scope": "in",
+    "eligibility": "unknown",
+    "high_confidence": true,
+    "reason": "La página describe una iniciativa de financiamiento internacional para proyectos de preservación de patrimonio cultural en regiones en crisis, con medidas, gastos y requisitos explícitos. No se indica una elegibilidad específica para UChile ni una restricción clara que la permita o la excluya; sí hay requisitos de país de origen del postulado y de que las aplicaciones se presenten desde países objetivo, pero no permiten concluir elegibilidad para UChile.",
+    "fields": [
+      {
+        "field": "tipo_oportunidad",
+        "value": "fondo",
+        "quote": "Funding Initiative Patrimonies",
+        "url": "https://www.gerda-henkel-stiftung.de/en/patrimonies_en"
+      },
+      {
+        "field": "convocatoria",
+        "value": "Patrimonies Funding Initiative",
+        "quote": "Patrimonies Funding Initiative",
+        "url": "https://www.gerda-henkel-stiftung.de/en/patrimonies_en"
+      },
+      {
+        "field": "institucion_financiante",
+        "value": "Gerda Henkel Foundation",
+        "quote": "Gerda Henkel Foundation",
+        "url": "https://www.gerda-henkel-stiftung.de/en/patrimonies_en"
+      },
+      {
+        "field": "objetivo",
+        "value": "promueve la preservación del patrimonio cultural, específicamente en regiones que experimentan crisis",
+        "quote": "promotes the preservation of cultural heritage, specifically in regions experiencing crisis",
+        "url": "https://www.gerda-henkel-stiftung.de/en/patrimonies_en"
+      },
+      {
+        "field": "alcance",
+        "value": "internacional, orientado principalmente a regiones en crisis y casos de amenaza aguda",
+        "quote": "The programme has an international focus and is intended primarily for crisis regions as well as for cases of acute threat.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/patrimonies_en"
+      },
+      {
+        "field": "area_disciplinar",
+        "value": "history, archaeology, and art history; historical humanities; restoration and conservation sciences",
+        "quote": "the fields of history, archaeology, and art history",
+        "url": "https://www.gerda-henkel-stiftung.de/en/patrimonies_en"
+      },
+      {
+        "field": "tipo_investigacion",
+        "value": "investigación vinculada a la preservación del patrimonio cultural, con apoyo a trabajo científico y proyectos de preservación",
+        "quote": "supporting and enabling in many cases scholarly research",
+        "url": "https://www.gerda-henkel-stiftung.de/en/patrimonies_en"
+      },
+      {
+        "field": "gastos_financiables",
+        "value": "material aid, including costs for construction purposes as well as for conservation and restoration work; personnel resources; scholarships; travel expenses; funds for communicating project results",
+        "quote": "Material aid, including costs for construction purposes as well as for conservation and restoration work Personnel resources, preferably for service contracts and scholarships Travel expenses Funds for communicating project results",
+        "url": "https://www.gerda-henkel-stiftung.de/en/patrimonies_en"
+      },
+      {
+        "field": "gastos_cubiertos",
+        "value": "material aid, including costs for construction purposes as well as for conservation and restoration work; personnel resources; scholarships; travel expenses",
+        "quote": "Material aid, including costs for construction purposes as well as for conservation and restoration work Personnel resources, preferably for service contracts and scholarships Travel expenses",
+        "url": "https://www.gerda-henkel-stiftung.de/en/patrimonies_en"
+      },
+      {
+        "field": "requiere_cofinanciamiento",
+        "value": "Sí",
+        "quote": "Local (financial) contributions",
+        "url": "https://www.gerda-henkel-stiftung.de/en/patrimonies_en"
+      },
+      {
+        "field": "requisitos_contraparte",
+        "value": "those responsible in the target country should be involved in the project activities; several applicants from different countries can jointly submit an application",
+        "quote": "those responsible in the target country (e.g. heritage preservation authorities, administrations, local communities) should be involved in the project activities.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/patrimonies_en"
+      },
+      {
+        "field": "rol_permitido_para_postulante",
+        "value": "applications must be submitted from the target countries; in cooperation projects, several applicants from different countries can jointly submit an application",
+        "quote": "applications must be submitted from the target countries. In case of cooperation projects, several applicants from different countries can jointly submit an application.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/patrimonies_en"
+      },
+      {
+        "field": "pais",
+        "value": "countries in Africa, Asia and the Pacific region, Latin America and the Caribbean, as well as on non-EU countries in Eastern and Southern Europe",
+        "quote": "countries in Africa, Asia and the Pacific region, Latin America and the Caribbean, as well as on non-EU countries in Eastern and Southern Europe",
+        "url": "https://www.gerda-henkel-stiftung.de/en/patrimonies_en"
+      },
+      {
+        "field": "frecuencia_apertura_llamado",
+        "value": "No open application procedure",
+        "quote": "No open application procedure",
+        "url": "https://www.gerda-henkel-stiftung.de/en/patrimonies_en"
+      },
+      {
+        "field": "frecuencia_normalizada",
+        "value": "permanente",
+        "quote": "No open application procedure",
+        "url": "https://www.gerda-henkel-stiftung.de/en/patrimonies_en"
+      },
+      {
+        "field": "observaciones_dudas",
+        "value": "Applications are discussed with the Foundation and deadlines are on request; no formal applications procedure.",
+        "quote": "There is no formal applications procedure for the Patrimonies Funding Initiative.",
+        "url": "https://www.gerda-henkel-stiftung.de/en/patrimonies_en"
+      },
+      {
+        "field": "estado_fuente",
+        "value": "texto web con información suficiente y activa",
+        "quote": "Funding Initiative Patrimonies",
+        "url": "https://www.gerda-henkel-stiftung.de/en/patrimonies_en"
+      },
+      {
+        "field": "elegibilidad_uchile",
+        "value": "No claro",
+        "quote": "applications must be submitted from the target countries",
+        "url": "https://www.gerda-henkel-stiftung.de/en/patrimonies_en"
+      }
+    ]
+  }
+}

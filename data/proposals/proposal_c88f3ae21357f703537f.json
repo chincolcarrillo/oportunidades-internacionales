@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_c88f3ae21357f703537f",
+  "role": "monitor",
+  "run_id": "run_d051796af3ab328795c6",
+  "observed_at": "2026-10-02T16:36:25Z",
+  "url": "https://humanities.org.au/grants-and-awards/publication-subsidy/",
+  "source_id": "src_d9dd485718e218c3c011",
+  "baseline": "da26d74fa75d317a11fe3a187fa34382ea49b2d7aebc7a5e60bc470e10759925",
+  "http_status": 301,
+  "error": "HTTP 301",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

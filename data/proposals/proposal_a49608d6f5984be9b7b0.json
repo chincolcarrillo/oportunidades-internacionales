@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_a49608d6f5984be9b7b0",
+  "role": "monitor",
+  "run_id": "run_d051796af3ab328795c6",
+  "observed_at": "2026-10-02T16:39:48Z",
+  "url": "https://investigacion.fen.uchile.cl/noticia/Convocatoria%2Bdel%2BFondo%2BConjunto%2Bde%2BCooperaci%C3%B3n%2BChile%2B-%2BM%C3%A9xico%2B2026",
+  "source_id": "src_99b0fb1bf8efb1a31358",
+  "baseline": "2675dbc1b43eaee0a1460d314ec536148638887a27f4d7ed0536e656fa184632",
+  "http_status": 404,
+  "error": "HTTP 404",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

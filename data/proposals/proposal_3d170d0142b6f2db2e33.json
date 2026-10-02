@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_3d170d0142b6f2db2e33",
+  "role": "monitor",
+  "run_id": "run_d051796af3ab328795c6",
+  "observed_at": "2026-10-02T16:36:15Z",
+  "url": "https://socialsciences.org.au/wp-content/uploads/2025/09/AFIPS-Strategic-Environment-Guidelines-2026.pdf",
+  "source_id": "src_61243082b6b3aa4e833c",
+  "baseline": "92f63ee255237dcb0371bf004a69696785fd2a7335952f83505e1f3f8db7045d",
+  "http_status": 404,
+  "error": "HTTP 404",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

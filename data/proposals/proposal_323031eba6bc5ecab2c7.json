@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_323031eba6bc5ecab2c7",
+  "role": "monitor",
+  "run_id": "run_d051796af3ab328795c6",
+  "observed_at": "2026-10-02T16:41:06Z",
+  "url": "https://www.flacso.edu.ec/sites/default/files/2026-01/Convocatoria_CALAS_%20Lab_Aceleraciones%20_transformaciones%20_mundo_laboral_2026.pdf",
+  "source_id": "src_a75773ecec9b7dfcd0af",
+  "baseline": "fe89fa7b41537ff163e66df8a99ed1e1f12f2b39fb7c81f0f8b7125b1126c41d",
+  "http_status": 0,
+  "error": "robots.txt no permite o no pudo verificarse",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

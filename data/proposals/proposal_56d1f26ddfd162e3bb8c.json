@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_56d1f26ddfd162e3bb8c",
+  "role": "monitor",
+  "run_id": "run_d051796af3ab328795c6",
+  "observed_at": "2026-10-02T16:41:52Z",
+  "url": "https://www.argentina.gob.ar/sites/default/files/2023/08/23-8-2023_convocatoria_iica_mincyt.pdf",
+  "source_id": "src_2c835813cfcedcc18aed",
+  "baseline": "95d3a3287b48b264207d225c41ab18eae4e625d633ca60df2a518a7a4f902432",
+  "http_status": 0,
+  "error": "robots.txt no permite o no pudo verificarse",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}
