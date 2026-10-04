@@ -1,0 +1,191 @@
+{
+  "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/",
+  "evidence_hash": "71f261a29b54734d1129977ea6c5b9a2a95fe49e7abdd46651aced14eb0cb4a2",
+  "extracted_at": "2026-10-04T15:32:48Z",
+  "extraction": {
+    "convocatoria": "Research grants",
+    "institucion_financiante": "Fyssen Foundation",
+    "edicion": "2026",
+    "tipo_oportunidad": "fondo",
+    "scope": "in",
+    "eligibility": "unknown",
+    "high_confidence": true,
+    "reason": "La fuente describe una convocatoria de becas/grants de investigación con objetivos, monto, duración, criterios de elegibilidad y calendario explícitos. No hay elementos suficientes para confirmar elegibilidad para UChile o para el perfil pedido en todos los casos, pero sí para clasificarla como financiamiento de investigación.",
+    "fields": [
+      {
+        "field": "convocatoria",
+        "value": "Research grants",
+        "quote": "Research grants",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "institucion_financiante",
+        "value": "Fyssen Foundation",
+        "quote": "Fyssen Foundation",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "edicion",
+        "value": "2026",
+        "quote": "September, 1, 2026",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "fecha_apertura",
+        "value": "2026-09-01",
+        "quote": "September, 1, 2026",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "fecha_cierre",
+        "value": "2026-10-14",
+        "quote": "October, 14, 2026 12 am French time ( MIDDAY) (Gmt +1) Closing application",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "fecha_apertura_texto",
+        "value": "September, 1, 2026",
+        "quote": "September, 1, 2026",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "fecha_cierre_texto",
+        "value": "October, 14, 2026 12 am French time ( MIDDAY) (Gmt +1) Closing application",
+        "quote": "October, 14, 2026 12 am French time ( MIDDAY) (Gmt +1) Closing application",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "monto_financiamiento_texto",
+        "value": "up to €100,000",
+        "quote": "up to €100,000",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "monto_max",
+        "value": "100000",
+        "quote": "up to €100,000",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "moneda",
+        "value": "EUR",
+        "quote": "€100,000",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "requiere_cofinanciamiento",
+        "value": "No claro",
+        "quote": "The list of the other financial supports",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "gastos_financiables",
+        "value": "Purchase of equipment and small materials useful for research work; Consumables required for conducting research work; Salaries (except for the principal investigator); Specialized services necessary for the research work; Travel expenses: for conducting the research project or for attending scientific conferences and symposiums; Publication costs.",
+        "quote": "Purchase of equipment and small materials useful for research work; Consumables required for conducting research work; Salaries (except for the principal investigator); Specialized services necessary for the research work; Travel expenses: for conducting the research project or for attending scientific conferences and symposiums; Publication costs.",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "gastos_cubiertos",
+        "value": "Purchase of equipment and small materials useful for research work; Consumables required for conducting research work; Salaries (except for the principal investigator); Specialized services necessary for the research work; Travel expenses: for conducting the research project or for attending scientific conferences and symposiums; Publication costs.",
+        "quote": "Purchase of equipment and small materials useful for research work; Consumables required for conducting research work; Salaries (except for the principal investigator); Specialized services necessary for the research work; Travel expenses: for conducting the research project or for attending scientific conferences and symposiums; Publication costs.",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "duracion_proyecto",
+        "value": "one year (12 months) and is non-renewable",
+        "quote": "one year (12 months) and is non-renewable",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "elegibilidad_uchile",
+        "value": "No claro",
+        "quote": "young researchers of any nationality",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "estado_fuente",
+        "value": "Vigente",
+        "quote": "Calendar September, 1, 2026: online application forms",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "tipo_oportunidad",
+        "value": "fondo",
+        "quote": "research grants",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "programa",
+        "value": "Fyssen research grant",
+        "quote": "The Fyssen research grant is intended",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "pais",
+        "value": "Francia",
+        "quote": "host structure in France",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "area_disciplinar",
+        "value": "neuroscience, ethology, psychology, anthropology, ethnology, palaeontology, and archaeology",
+        "quote": "neuroscience, ethology, psychology, anthropology, ethnology, palaeontology, and archaeology",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "objetivo",
+        "value": "facilitate the execution of research projects that enhance understanding of the mechanisms of behaviour and cognition in living beings, as well as their ontogenetic and phylogenetic development",
+        "quote": "facilitate the execution of research projects that enhance understanding of the mechanisms of behaviour and cognition in living beings, as well as their ontogenetic and phylogenetic development",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "alcance",
+        "value": "Enabling young researchers to establish and lead a research group within an academic institution in France. Developing autonomous and innovative research themes. Promoting mobility and attracting high-level early career group leaders to foster a dynamic and progressive research environment.",
+        "quote": "Enabling young researchers to establish and lead a research group within an academic institution in France. Developing autonomous and innovative research themes. Promoting mobility and attracting high-level early career group leaders to foster a dynamic and progressive research environment.",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "perfil_investigador_elegible",
+        "value": "young researchers of any nationality who have completed their doctoral thesis more than 3 years and less than 10 years ago",
+        "quote": "young researchers of any nationality who have completed their doctoral thesis more than 3 years and less than 10 years ago",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "etapa_carrera",
+        "value": "early career",
+        "quote": "high-level early career group leaders",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "tipo_investigacion",
+        "value": "innovative scientific projects",
+        "quote": "innovative scientific projects",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "requisitos_contraparte",
+        "value": "host structure in France whose activity aligns with the objectives of the Foundation",
+        "quote": "a host structure in France whose activity aligns with the objectives of the Foundation",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "rol_permitido_para_postulante",
+        "value": "Already employed, they will form a research team around them to carry out a collective scientific project within a host structure in France",
+        "quote": "Already employed, they will form a research team around them to carry out a collective scientific project within a host structure in France",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "frecuencia_apertura_llamado",
+        "value": "Each year",
+        "quote": "Each year, the Fyssen Foundation awards between four and six research grants",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      },
+      {
+        "field": "frecuencia_normalizada",
+        "value": "anual",
+        "quote": "Each year, the Fyssen Foundation awards between four and six research grants",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/research-grants/"
+      }
+    ]
+  }
+}

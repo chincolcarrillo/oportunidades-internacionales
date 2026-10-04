@@ -1,0 +1,161 @@
+{
+  "url": "https://www.fondationfyssen.fr/en/our-actions/study-grants/",
+  "evidence_hash": "2cc88043a11924031afa8677961371e2107eff85a1d2aa36ccdf6b1c8bfaea89",
+  "extracted_at": "2026-10-04T15:32:55Z",
+  "extraction": {
+    "convocatoria": "Post-doctoral Study grants",
+    "institucion_financiante": "Fyssen Foundation",
+    "edicion": "2026",
+    "tipo_oportunidad": "fondo",
+    "scope": "in",
+    "eligibility": "yes",
+    "high_confidence": true,
+    "reason": "La fuente describe una convocatoria de becas de investigación posdoctoral para realizar un proyecto en un laboratorio en Francia o en el extranjero, con financiamiento explícito y condiciones de elegibilidad definidas; además, no hay una restricción explícita que excluya a UChile o a Chile, aunque sí exige doctorado, edad y movilidad institucional específicas.",
+    "fields": [
+      {
+        "field": "edicion",
+        "value": "2026",
+        "quote": "February 2nd, 2026",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/study-grants/"
+      },
+      {
+        "field": "fecha_apertura",
+        "value": "2026-02-02",
+        "quote": "February 2nd, 2026",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/study-grants/"
+      },
+      {
+        "field": "fecha_cierre",
+        "value": "2026-03-31",
+        "quote": "March 31, 2026 12:00 Pm",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/study-grants/"
+      },
+      {
+        "field": "fecha_apertura_texto",
+        "value": "February 2nd, 2026",
+        "quote": "February 2nd, 2026",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/study-grants/"
+      },
+      {
+        "field": "fecha_cierre_texto",
+        "value": "March 31, 2026 12:00 Pm",
+        "quote": "March 31, 2026 12:00 Pm",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/study-grants/"
+      },
+      {
+        "field": "monto_financiamiento_texto",
+        "value": "annual maximum amount of 45 000 euros",
+        "quote": "annual maximum amount of 45 000 euros",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/study-grants/"
+      },
+      {
+        "field": "moneda",
+        "value": "euros",
+        "quote": "45 000 euros",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/study-grants/"
+      },
+      {
+        "field": "requiere_cofinanciamiento",
+        "value": "Sí",
+        "quote": "additional funding may be required",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/study-grants/"
+      },
+      {
+        "field": "gastos_cubiertos",
+        "value": "hosting, stay and health insurance",
+        "quote": "cover expenses of hosting, stay and health insurance",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/study-grants/"
+      },
+      {
+        "field": "duracion_proyecto",
+        "value": "12 months o 24 months",
+        "quote": "from 12 months, not renewable, or 24 months",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/study-grants/"
+      },
+      {
+        "field": "periodo_estancia",
+        "value": "September 1st, 2026 the earliest and at the latest on January of the following year",
+        "quote": "will start on September 1st of the application year the earliest and at the latest on January of the following year",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/study-grants/"
+      },
+      {
+        "field": "elegibilidad_uchile",
+        "value": "No claro",
+        "quote": "No, there is none.",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/study-grants/"
+      },
+      {
+        "field": "tipo_oportunidad",
+        "value": "fondo",
+        "quote": "postdoctoral fellowship program",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/study-grants/"
+      },
+      {
+        "field": "convocatoria",
+        "value": "Post-doctoral Study grants",
+        "quote": "Post-doctoral Study grants",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/study-grants/"
+      },
+      {
+        "field": "institucion_financiante",
+        "value": "Fyssen Foundation",
+        "quote": "Fyssen Foundation",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/study-grants/"
+      },
+      {
+        "field": "pais",
+        "value": "Francia",
+        "quote": "a Laboratory in France",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/study-grants/"
+      },
+      {
+        "field": "idiomas_postulacion",
+        "value": "inglés y francés",
+        "quote": "In French AND in English",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/study-grants/"
+      },
+      {
+        "field": "area_disciplinar",
+        "value": "Ethology, Paleontology, Archaeology, Anthropology, Psychology, Epistemology, Logic and Sciences of nervous system",
+        "quote": "research disciplines such as Ethology, Paleontology, Archaeology, Anthropology, Psychology, Epistemology, Logic and Sciences of nervous system",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/study-grants/"
+      },
+      {
+        "field": "perfil_investigador_elegible",
+        "value": "post-doctoral researchers; french or foreign researchers, holders of a foreign Phd; french or foreign researchers holders of a french Phd; researchers of all nationalities who hold a doctoral degree obtained abroad or in France",
+        "quote": "post-doctoral researchers",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/study-grants/"
+      },
+      {
+        "field": "etapa_carrera",
+        "value": "post-doctoral",
+        "quote": "post-doctoral researchers",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/study-grants/"
+      },
+      {
+        "field": "tipo_investigacion",
+        "value": "research project",
+        "quote": "research project",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/study-grants/"
+      },
+      {
+        "field": "requisitos_contraparte",
+        "value": "invitation letter of the host laboratory",
+        "quote": "An invitation letter of the host laboratory",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/study-grants/"
+      },
+      {
+        "field": "frecuencia_apertura_llamado",
+        "value": "Each year",
+        "quote": "Each year",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/study-grants/"
+      },
+      {
+        "field": "frecuencia_normalizada",
+        "value": "anual",
+        "quote": "Each year",
+        "url": "https://www.fondationfyssen.fr/en/our-actions/study-grants/"
+      }
+    ]
+  }
+}

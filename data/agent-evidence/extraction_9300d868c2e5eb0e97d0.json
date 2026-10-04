@@ -1,0 +1,125 @@
+{
+  "url": "https://jacobsfoundation.org/activity/jacobs-foundation-research-fellowship-program/",
+  "evidence_hash": "801650eb6b24d90203d540c6e1c0b16217847891941511dc11ed654bd0789f72",
+  "extracted_at": "2026-10-04T15:33:02Z",
+  "extraction": {
+    "convocatoria": "Jacobs CIFAR Research Fellowship Program",
+    "institucion_financiante": "Jacobs Foundation",
+    "edicion": null,
+    "tipo_oportunidad": "fondo",
+    "scope": "out",
+    "eligibility": "unknown",
+    "high_confidence": true,
+    "reason": "Es una beca/fellowship de investigación para investigadores de carrera temprana y media centrada en aprendizaje y desarrollo infantil, pero el texto no explicita elegibilidad para Chile ni para UChile. Sí hay apoyo financiero para investigación, no una estancia presencial subvencionada.",
+    "fields": [
+      {
+        "field": "convocatoria",
+        "value": "Jacobs CIFAR Research Fellowship Program",
+        "quote": "Jacobs CIFAR Research Fellowship Program",
+        "url": "https://jacobsfoundation.org/activity/jacobs-foundation-research-fellowship-program/"
+      },
+      {
+        "field": "institucion_financiante",
+        "value": "Jacobs Foundation",
+        "quote": "Jacobs Foundation",
+        "url": "https://jacobsfoundation.org/activity/jacobs-foundation-research-fellowship-program/"
+      },
+      {
+        "field": "tipo_oportunidad",
+        "value": "fondo",
+        "quote": "offers fellowships",
+        "url": "https://jacobsfoundation.org/activity/jacobs-foundation-research-fellowship-program/"
+      },
+      {
+        "field": "area_disciplinar",
+        "value": "educación, psicología, economía, sociología, ciencias del comportamiento, informática, pedagogía, lingüística, neurociencias y ciencia del aprendizaje",
+        "quote": "education sciences, psychology, economics, sociology, behavioral science, computer science, pedagogy, linguistics, neurosciences, and science of learning",
+        "url": "https://jacobsfoundation.org/activity/jacobs-foundation-research-fellowship-program/"
+      },
+      {
+        "field": "perfil_investigador_elegible",
+        "value": "investigadores de carrera temprana y media; becarios que hayan recibido el doctorado en los últimos 10 años",
+        "quote": "early- and mid-career researchers",
+        "url": "https://jacobsfoundation.org/activity/jacobs-foundation-research-fellowship-program/"
+      },
+      {
+        "field": "etapa_carrera",
+        "value": "carrera temprana y media",
+        "quote": "early- and mid-career researchers",
+        "url": "https://jacobsfoundation.org/activity/jacobs-foundation-research-fellowship-program/"
+      },
+      {
+        "field": "etapa_carrera",
+        "value": "doctorado en los últimos 10 años",
+        "quote": "have received their PhDs within the past 10 years",
+        "url": "https://jacobsfoundation.org/activity/jacobs-foundation-research-fellowship-program/"
+      },
+      {
+        "field": "objetivo",
+        "value": "mejorar el aprendizaje y el desarrollo de niños y jóvenes en todo el mundo",
+        "quote": "improving the learning and development of children and youth worldwide",
+        "url": "https://jacobsfoundation.org/activity/jacobs-foundation-research-fellowship-program/"
+      },
+      {
+        "field": "alcance",
+        "value": "trabajo dedicado a mejorar el aprendizaje y el desarrollo de niños y jóvenes en todo el mundo",
+        "quote": "work is dedicated to improving the learning and development of children and youth worldwide",
+        "url": "https://jacobsfoundation.org/activity/jacobs-foundation-research-fellowship-program/"
+      },
+      {
+        "field": "rol_permitido_para_postulante",
+        "value": "fellows",
+        "quote": "Funding from Jacobs CIFAR Research Fellowships is awarded directly to the fellow’s institution",
+        "url": "https://jacobsfoundation.org/activity/jacobs-foundation-research-fellowship-program/"
+      },
+      {
+        "field": "duracion_proyecto",
+        "value": "tres años",
+        "quote": "over a three-year period",
+        "url": "https://jacobsfoundation.org/activity/jacobs-foundation-research-fellowship-program/"
+      },
+      {
+        "field": "monto_financiamiento_texto",
+        "value": "financiamiento directo a la institución del fellow, utilizable por tres años para una parte del salario y para otros fines de apoyo a la investigación",
+        "quote": "awarded directly to the fellow’s institution and may be used by the fellow over a three-year period to cover a portion of the fellow’s salary and for any purpose in support of the fellow’s research",
+        "url": "https://jacobsfoundation.org/activity/jacobs-foundation-research-fellowship-program/"
+      },
+      {
+        "field": "gastos_financiables",
+        "value": "salario del fellow, asistentes, equipo, asistencia técnica, viajes profesionales y apoyo a trainees",
+        "quote": "cover a portion of the fellow’s salary and for any purpose in support of the fellow’s research, such as assistants’ salaries, equipment, technical assistance, professional travel, or trainee support",
+        "url": "https://jacobsfoundation.org/activity/jacobs-foundation-research-fellowship-program/"
+      },
+      {
+        "field": "gastos_cubiertos",
+        "value": "parte del salario del fellow y gastos de apoyo a la investigación",
+        "quote": "cover a portion of the fellow’s salary and for any purpose in support of the fellow’s research",
+        "url": "https://jacobsfoundation.org/activity/jacobs-foundation-research-fellowship-program/"
+      },
+      {
+        "field": "frecuencia_apertura_llamado",
+        "value": "cada año a fines de noviembre, con plazo a inicios de febrero",
+        "quote": "The call for applications is posted each year by the end of November with a deadline in early February",
+        "url": "https://jacobsfoundation.org/activity/jacobs-foundation-research-fellowship-program/"
+      },
+      {
+        "field": "frecuencia_normalizada",
+        "value": "anual",
+        "quote": "each year",
+        "url": "https://jacobsfoundation.org/activity/jacobs-foundation-research-fellowship-program/"
+      },
+      {
+        "field": "estado_fuente",
+        "value": "Programs Closed",
+        "quote": "Programs Closed",
+        "url": "https://jacobsfoundation.org/activity/jacobs-foundation-research-fellowship-program/"
+      },
+      {
+        "field": "observaciones_dudas",
+        "value": "El texto describe un fellowship de investigación; no indica estancia presencial ni menciona elegibilidad para Chile o UChile.",
+        "quote": "The program offers fellowships to early- and mid-career researchers",
+        "url": "https://jacobsfoundation.org/activity/jacobs-foundation-research-fellowship-program/"
+      }
+    ]
+  }
+}
