@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_95675cd523025148d112",
+  "role": "monitor",
+  "run_id": "run_d5c8f20805a3046a2d1c",
+  "observed_at": "2026-10-06T17:17:22Z",
+  "url": "https://gcgh.grandchallenges.org/application-guidelines",
+  "source_id": "src_25e0f6c8764d55d0b3c1",
+  "baseline": "f471816aa0faab32985ae405d1ea99429f50a5db363552501cf64214612a94ce",
+  "http_status": 200,
+  "error": null,
+  "evidence_hash": "05d2e422eac1a0918fdc5ca80f9b2d374d6569107f5063f483720e46d525f47c",
+  "text": "Application Guidelines STEP ONE To get started, download and read the Rules and Guidelines document (PDF). It contains detailed information on all aspects of Grand Challenges Explorations. You may need to download Adobe Reader to view PDF documents. Please also read the Privacy Policy and Terms of Use. Any information submitted by you or on your behalf with respect to the Grand Challenges Explorations Initiative (including your proposal, reports, and any related documentation and communications) will be subject to and handled in accordance with the provisions in these documents. Changes to the Rules and Guidelines will be posted on the Frequently Asked Questions page of this website. Please read the current FAQs before submitting any questions or concerns. STEP TWO Each Grand Challenges Explorations application round consists of requests for proposals targeting multiple specific challenges. Read the list of GCE challenges on the Grant Opportunities page and then follow the links to read the detailed descriptions of each challenge. All proposals must be written in English. Read the Tips for Applicants for additional guidance as you write the proposal. Our Tips for Applicants document is also available Portuguese, Spanish, French, Korean, Chinese. STEP THREE Proposals must be submitted online by clicking the \"Apply For This Opportunity\" button on the webpage for each open challenge, which can be accessed through the grant opportunity list. This application portal will enable you to register for an open challenge as well as create, edit, and submit your proposal. After you have created an account and registered for a challenge, you can start the online application process. Explore the Grand Challenges Pillars Innovations Champions Partnerships Systems Print",
+  "previous_hash": "05d2e422eac1a0918fdc5ca80f9b2d374d6569107f5063f483720e46d525f47c",
+  "content_changed": false
+}

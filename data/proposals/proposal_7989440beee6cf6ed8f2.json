@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_7989440beee6cf6ed8f2",
+  "role": "monitor",
+  "run_id": "run_d5c8f20805a3046a2d1c",
+  "observed_at": "2026-10-06T17:17:33Z",
+  "url": "https://www.templetonworldcharity.org/",
+  "source_id": "src_75c17c5aca0272291334",
+  "baseline": "26b045778692d11819b256269f1a567b83e8639e38a673c2d86d0d19d5a7240a",
+  "http_status": 403,
+  "error": "HTTP 403",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

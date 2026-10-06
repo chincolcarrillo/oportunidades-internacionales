@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_180c1a82c92451029ce7",
+  "role": "monitor",
+  "run_id": "run_d5c8f20805a3046a2d1c",
+  "observed_at": "2026-10-06T17:20:22Z",
+  "url": "https://www.gub.uy/agencia-uruguaya-cooperacion-internacional/comunicacion/convocatorias/vi-convocatoria-fondo-conjunto-cooperacion-tecnica-cientifica-uruguay",
+  "source_id": "src_ccbf0d411614975b754f",
+  "baseline": "c87a7ace029f9754021d297dba33565c1eced15c00f92e3e34115c691df71904",
+  "http_status": 200,
+  "error": null,
+  "evidence_hash": "3013e9bacf2c54f9b3a2f8b41375a46b578f2fa667ed2fdd108575b2220a46cd",
+  "text": "VI convocatoria al Fondo Conjunto de cooperación técnica y científica Uruguay - México No Vigente Compartir Facebook X Copiar enlace WhatsApp LinkedIn Difundimos convocatoria del Fondo Uruguay - México por parte de AUCI y Amexcid que tiene por objetivo promover proyectos en áreas claves para el desarrollo sostenible, fomentando la complementariedad y el equilibrio de intereses entre ambos países y/o con terceros actores. Asimismo, busca alinearse con las prioridades nacionales de desarrollo, los Objetivos de Desarrollo Sostenible y la Agenda 2030. Se recibirán proyectos entre el 2 de junio y el 15 de julio. Instituciones convocantes Agencia Uruguaya de Cooperación Internacional (AUCI) - Agencia Mexicana de Cooperación Internacional para el Desarrollo (Amexcid) Los proyectos presentados deberán enfocarse en el fortalecimiento institucional y en generar beneficios directos para la población, mediante el intercambio de buenas prácticas y la transferencia de conocimientos entre las instituciones participantes. Los programas y proyectos de cooperación técnica podrán comprender financiamiento para llevar a cabo: a) Asistencia técnica; b) Intercambio de expertos y funcionarios; c) Pasantías (corta duración); d) Foros y/o Seminarios; e) Capacitación de recursos humanos; y f) Material de difusión. La presentación de propuestas deberá realizarse de manera paralela tanto en México como en Uruguay hasta las 23.59 horas del 15 de julio de 2025, fecha de cierre de la presente convocatoria. El proyecto y su correspondiente documentación deberán enviarse a los siguientes correos: dgopmexico@sre.gob.mx y fondouru-mex@auci.gub.uy Período Fecha de inicio: 02/06/2025 Fecha fin: 15/07/2025 Descargas Descargar Bases (.pdf 1004.89 KB) Descargar Formulario de presentación (.pdf 940.03 KB) Descargar Plan operativo (.xlsx 49.23 KB) Descargar todos los archivos adjuntos (.zip 1.95 MB) Enlaces relacionados Sitio del Fondo Uruguay México Etiquetas Fondo Cooperación Uruguay-México",
+  "previous_hash": "3013e9bacf2c54f9b3a2f8b41375a46b578f2fa667ed2fdd108575b2220a46cd",
+  "content_changed": false
+}

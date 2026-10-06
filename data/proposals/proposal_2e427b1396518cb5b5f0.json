@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_2e427b1396518cb5b5f0",
+  "role": "monitor",
+  "run_id": "run_d5c8f20805a3046a2d1c",
+  "observed_at": "2026-10-06T17:19:54Z",
+  "url": "https://www.sur-futuro.org/futureworks",
+  "source_id": "src_5e727e7955cc6778b979",
+  "baseline": "698f05c80011dda5ed16b22c3a1daaa8f1a3fed8dcae180745f54cee4bb6eecb",
+  "http_status": 200,
+  "error": null,
+  "evidence_hash": "10e915042614014061001623362548c8b5a6572cc24b499e561826e860ffbbe4",
+  "text": "FutureWORKS Collective Sur Futuro es el hub de América Latina y el Caribe para la iniciativa \"FutureWORKS: Habilidades para un futuro del trabajo sostenible e inclusivo\" del Centro Internacional de Investigaciones para el Desarrollo (IDRC). FutureWORKS tiene como misión impulsar transformaciones innovadoras en los mercados laborales, con un enfoque centrado en la equidad de género, comprometido con la creación de empleo decente y orientado a la readaptación equitativa de habilidades. FutureWORKS nuclea cinco centros de investigación regionales y una organización articuladora con el objetivo de transformar los mercados laborales desde una perspectiva del Sur Global. La iniciativa está conformada por The Just Jobs Network (India), LIRNEasia (Sri Lanka), American University of Beirut (Líbano), University of Ghana (Ghana), University of the Witwatersrand (Sudáfrica) y, para Latinoamérica y el Caribe, Sur Futuro (Uruguay). Conectando ideas desde y para el Sur Global En conjunto, nos enfocamos en: Investigación Innovadora. Liderada desde el Sur, profundizando en los desafíos y oportunidades laborales a nivel regional. Construcción de Redes. Intercambio de conocimientos que conectan investigadores, instituciones y comunidades. Transformación de Políticas. Evidencia científica y recomendaciones concretas para impulsar cambios significativos en el mundo del trabajo. Llamado a propuestas de investigación: el futuro del trabajo en América Latina y el Caribe (Cerrada) En el marco de la iniciativa FutureWORKS del Centro Internacional de Investigaciones para el Desarrollo (IDRC), Sur Futuro abre una convocatoria de propuestas de investigación. Accede a los detalles Reunión de la red FutureWORK Collective en Sri Lanka Viajamos a Sri Lanka para para unirnos al lanzamiento de FutureWORKS Collective. Accede a la publicación",
+  "previous_hash": "10e915042614014061001623362548c8b5a6572cc24b499e561826e860ffbbe4",
+  "content_changed": false
+}

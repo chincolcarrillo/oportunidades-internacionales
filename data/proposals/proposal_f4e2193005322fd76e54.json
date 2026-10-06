@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_f4e2193005322fd76e54",
+  "role": "monitor",
+  "run_id": "run_d5c8f20805a3046a2d1c",
+  "observed_at": "2026-10-06T17:18:29Z",
+  "url": "https://www.clacso.org/becas/concursos/",
+  "source_id": "src_0899563e13776c6a5cd4",
+  "baseline": "6572119314451d5d4c33ec45ec548c8d452d31f72d44b791386c122cda9febd1",
+  "http_status": 200,
+  "error": null,
+  "evidence_hash": "113e35090dfd281ed96e2ae47741259e27198cef3070994db53f57784776c877",
+  "text": "Convocatorias con la inscripción abierta. El fin del petróleo y el Sur Global Cierre de inscripciones 25 de septiembre [+] Información Cuadernos cortos para la incidencia pública Fecha límite para la presentación de cuadernos: 30 de octubre [+] Información La integración latinoamericana y caribeña a 200 años del Congreso Anfictiónico (1826-2026) Envío de ensayos hasta el 30 de agosto de 2026 [+] Información El futuro en disputa. Las izquierdas en clave global para el siglo XXI Envío de ensayos hasta el 21 de septiembre [+] Información",
+  "previous_hash": "113e35090dfd281ed96e2ae47741259e27198cef3070994db53f57784776c877",
+  "content_changed": false
+}

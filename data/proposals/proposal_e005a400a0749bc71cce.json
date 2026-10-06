@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_e005a400a0749bc71cce",
+  "role": "monitor",
+  "run_id": "run_d5c8f20805a3046a2d1c",
+  "observed_at": "2026-10-06T17:20:34Z",
+  "url": "https://www.fing.edu.uy/sites/default/files/2025-06/bases-vi-convocatoria-2025-fondo-uy-mx_0.pdf",
+  "source_id": "src_06090b213f08035fa4e8",
+  "baseline": "300ace5beb6ef0d78d6f44c680cce228eda9def7f7c9fa6b333b3fad6ff203e6",
+  "http_status": 200,
+  "error": "Formato no HTML/texto; revisar PDF o fuente alternativa",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

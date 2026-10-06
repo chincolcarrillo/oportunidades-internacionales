@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_1e7f0a3d95ebf2e0e864",
+  "role": "monitor",
+  "run_id": "run_d5c8f20805a3046a2d1c",
+  "observed_at": "2026-10-06T16:53:12Z",
+  "url": "https://www.spssi.org/index.cfm?fuseaction=Page.ViewPage&pageId=1978",
+  "source_id": "src_a6fc9064016398ce96cb",
+  "baseline": "d312986a2163ce18ebe88ee9bd8b074811397403d1e902bf774982b82a7d8803",
+  "http_status": 200,
+  "error": null,
+  "evidence_hash": "a43bbc77c8d08c137ceb0a431d6a8d6ef9aa9d47b39943e92f5195aaadfdd1c4",
+  "text": "Processing Search... May Take A Few Moments Go! Join | <li class=\"member\" style=\"border-right:0px\"> Login<\/li> SPSSI Grant Opportunities Please note: SPSSI does not provide any tuition support, scholarships, or financial aid. Unless otherwise specified, international scholars are welcome to apply. Below are links to SPSSI's research and other grant opportunities. Click on the link for more details. Unless otherwise noted, the grants are appropriate for graduate-level academic work. Applicants to the Applied Social Issues Internship Program must be college seniors or above and have project proposals. Annual Grant Progams: Action Teaching Grants In support of innovative teaching that contributes to peace, social justice, and sustainable living at the same time that it educates students. Applied Social Issues Internship Funding For research that is conducted in cooperation with a community or government organization, public interest group or other not-for-profit entity that will benefit directly from the project. Clara Mayo Grants Program In support of masters' theses and pre-dissertation research on sexism, racism, or prejudice. Conference Travel Grants To cover all conference-related expenses including conference registration, economy transportation, lodging, and approved food expenses. Grants-in-Aid Program In support of scientific research in social problem areas related to the basic interests and goals of SPSSI and particularly those that are not likely to receive support from traditional sources. Local- and State-Level Policy Work To enable small groups of researchers to engage in policy work at the state or local levels. Researchers in the Global South Grants Program SPSSI’s Researchers in the Global South (RGS Grants Program) is a unique funding opportunity for international members of SPSSI conducting research on social issues outside of the United States. SAGES Grants Program (SPSSI Action Grants for Experienced Scholars) For retired SPSSI members to apply their knowledge to helping solve social problems or to assist policy makers to solve social problems. SEAS Grants Program (Small-Scale Events Advancing SPSSI Grants) Intended to promote awareness of SPSSI, to identify potential new members, and to promote SPSSI membership through small-scale events hosted by a member of the Society. Teaching Development Grants Intended to provide networking opportunities, promote awareness of SPSSI, and increase SPSSI membership through support of small scale events, initiatives that enhance SPSSI membership or pre-conference smaller meetings related to the teaching of social justice issues.",
+  "previous_hash": "a43bbc77c8d08c137ceb0a431d6a8d6ef9aa9d47b39943e92f5195aaadfdd1c4",
+  "content_changed": false
+}

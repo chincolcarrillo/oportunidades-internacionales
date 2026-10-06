@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_917da3e4288f31988c0b",
+  "role": "monitor",
+  "run_id": "run_d5c8f20805a3046a2d1c",
+  "observed_at": "2026-10-06T17:14:28Z",
+  "url": "https://investigacion.uc.cl/concursos/programas-japan-foundation/",
+  "source_id": "src_dd1edc8352d12f398526",
+  "baseline": "937733705afc697d284dce78d13be4fd47cd6e3837f518b53b2b8eb5671bb717",
+  "http_status": 403,
+  "error": "HTTP 403",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

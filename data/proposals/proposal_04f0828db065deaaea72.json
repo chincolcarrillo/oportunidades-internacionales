@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_04f0828db065deaaea72",
+  "role": "monitor",
+  "run_id": "run_d5c8f20805a3046a2d1c",
+  "observed_at": "2026-10-06T17:19:16Z",
+  "url": "https://www.udg.mx/es/node/85505?q=es%2Fnode%2F85505",
+  "source_id": "src_dec3b1a66a1eda06f5b7",
+  "baseline": "bbbd600c1c8a8deb9c2e8d12816b7178707a4c04ebc708b4acde93aa5f54794c",
+  "http_status": 301,
+  "error": "HTTP 301",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

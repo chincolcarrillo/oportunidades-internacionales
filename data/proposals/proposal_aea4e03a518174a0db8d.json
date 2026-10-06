@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_aea4e03a518174a0db8d",
+  "role": "monitor",
+  "run_id": "run_d5c8f20805a3046a2d1c",
+  "observed_at": "2026-10-06T17:14:13Z",
+  "url": "https://humanities.org.au/wp-content/uploads/2024/03/Ernst-and-Rosemarie-Keller-Fund-Guidelines-2024.pdf",
+  "source_id": "src_51280c45ec99280ebfdd",
+  "baseline": "100232aa8ca2c1d43d7bf302becd2d4d0501b1e2344f76fac7744ac4c639bacb",
+  "http_status": 200,
+  "error": "Formato no HTML/texto; revisar PDF o fuente alternativa",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

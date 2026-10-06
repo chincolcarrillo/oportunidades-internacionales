@@ -1,0 +1,107 @@
+{
+  "url": "https://jacobsfoundation.org/activity/the-klaus-j-jacobs-research-prize/",
+  "evidence_hash": "10554bc828aad3ec1ac03bd83ab658410fc2e75702282dc3972b8e3e19f769bd",
+  "extracted_at": "2026-10-06T17:22:24Z",
+  "extraction": {
+    "convocatoria": "The Klaus J. Jacobs Research Prize",
+    "institucion_financiante": "Jacobs Foundation",
+    "edicion": "2025",
+    "tipo_oportunidad": "fondo",
+    "scope": "in",
+    "eligibility": "unknown",
+    "high_confidence": true,
+    "reason": "El texto describe un premio de investigación con financiamiento para apoyar la investigación en disciplinas relacionadas con el aprendizaje y desarrollo, por lo que el alcance temático es un fondo. La elegibilidad específica no se detalla en el texto, solo se indica que investigadores pueden postular directamente y que también se aceptan nominaciones. La fecha de cierre sí es explícita.",
+    "fields": [
+      {
+        "field": "fecha_cierre",
+        "value": "2025-01-31",
+        "quote": "Applications close 31 January, 2025",
+        "url": "https://jacobsfoundation.org/activity/the-klaus-j-jacobs-research-prize/"
+      },
+      {
+        "field": "fecha_cierre_texto",
+        "value": "Applications close 31 January, 2025",
+        "quote": "Applications close 31 January, 2025",
+        "url": "https://jacobsfoundation.org/activity/the-klaus-j-jacobs-research-prize/"
+      },
+      {
+        "field": "monto_financiamiento_texto",
+        "value": "1 million Swiss Francs",
+        "quote": "an endowment worth 1 million Swiss Francs",
+        "url": "https://jacobsfoundation.org/activity/the-klaus-j-jacobs-research-prize/"
+      },
+      {
+        "field": "moneda",
+        "value": "CHF",
+        "quote": "1 million Swiss Francs",
+        "url": "https://jacobsfoundation.org/activity/the-klaus-j-jacobs-research-prize/"
+      },
+      {
+        "field": "tipo_oportunidad",
+        "value": "fondo",
+        "quote": "The prize recipient receives an endowment worth 1 million Swiss Francs to support their research",
+        "url": "https://jacobsfoundation.org/activity/the-klaus-j-jacobs-research-prize/"
+      },
+      {
+        "field": "convocatoria",
+        "value": "The Klaus J. Jacobs Research Prize",
+        "quote": "The Klaus J. Jacobs Research Prize",
+        "url": "https://jacobsfoundation.org/activity/the-klaus-j-jacobs-research-prize/"
+      },
+      {
+        "field": "programa",
+        "value": "The Klaus J. Jacobs Awards",
+        "quote": "The Klaus J. Jacobs Awards were established in 2009",
+        "url": "https://jacobsfoundation.org/activity/the-klaus-j-jacobs-research-prize/"
+      },
+      {
+        "field": "institucion_financiante",
+        "value": "Jacobs Foundation",
+        "quote": "our founder",
+        "url": "https://jacobsfoundation.org/activity/the-klaus-j-jacobs-research-prize/"
+      },
+      {
+        "field": "area_disciplinar",
+        "value": "any scholarly discipline related to learning and development",
+        "quote": "any scholarly discipline related to learning and development",
+        "url": "https://jacobsfoundation.org/activity/the-klaus-j-jacobs-research-prize/"
+      },
+      {
+        "field": "objetivo",
+        "value": "promote scientific advancement in our knowledge of how children learn and develop",
+        "quote": "promote scientific advancement in our knowledge of how children learn and develop",
+        "url": "https://jacobsfoundation.org/activity/the-klaus-j-jacobs-research-prize/"
+      },
+      {
+        "field": "alcance",
+        "value": "exceptional researchers who are making significant contributions in any scholarly discipline related to learning and development, or aimed at improving the living conditions of children and youth",
+        "quote": "exceptional researchers who are making significant contributions in any scholarly discipline related to learning and development, or aimed at improving the living conditions of children and youth",
+        "url": "https://jacobsfoundation.org/activity/the-klaus-j-jacobs-research-prize/"
+      },
+      {
+        "field": "perfil_investigador_elegible",
+        "value": "exceptional researchers",
+        "quote": "The Klaus J. Jacobs Research Prize acknowledges exceptional researchers",
+        "url": "https://jacobsfoundation.org/activity/the-klaus-j-jacobs-research-prize/"
+      },
+      {
+        "field": "rol_permitido_para_postulante",
+        "value": "researchers; nominations of exceptional academics",
+        "quote": "researchers are invited to apply directly for the prize. Nominations of exceptional academics are also welcomed",
+        "url": "https://jacobsfoundation.org/activity/the-klaus-j-jacobs-research-prize/"
+      },
+      {
+        "field": "fecha_apertura_texto",
+        "value": "For the first time this year, researchers are invited to apply directly for the prize",
+        "quote": "For the first time this year, researchers are invited to apply directly for the prize",
+        "url": "https://jacobsfoundation.org/activity/the-klaus-j-jacobs-research-prize/"
+      },
+      {
+        "field": "estado_fuente",
+        "value": "Programs Closed",
+        "quote": "Programs Closed",
+        "url": "https://jacobsfoundation.org/activity/the-klaus-j-jacobs-research-prize/"
+      }
+    ]
+  }
+}

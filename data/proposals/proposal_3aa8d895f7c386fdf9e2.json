@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_3aa8d895f7c386fdf9e2",
+  "role": "monitor",
+  "run_id": "run_d5c8f20805a3046a2d1c",
+  "observed_at": "2026-10-06T17:16:35Z",
+  "url": "https://thedocs.worldbank.org/en/doc/1914f7056e88626e28a292128b01bb82-0090052024/original/SIEF-Call7-CallForProposals-122224.pdf",
+  "source_id": "src_e881ac51ace50cdc15ac",
+  "baseline": "9c1c524f8185199a1ceb8415f1db057ae08fa2ca50dc8f0885e61a66e25bc627",
+  "http_status": 200,
+  "error": "Formato no HTML/texto; revisar PDF o fuente alternativa",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

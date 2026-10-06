@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_f78b6196c4a1755733cc",
+  "role": "monitor",
+  "run_id": "run_d5c8f20805a3046a2d1c",
+  "observed_at": "2026-10-06T17:17:06Z",
+  "url": "https://wennergren.org/grants-fellowships/",
+  "source_id": "src_a04519be3e8b0d6f3b53",
+  "baseline": "d99d6c2db90f67b6bc4f53ebae255f4f31bc7d8aaba864472db84d963d07e887",
+  "http_status": 200,
+  "error": null,
+  "evidence_hash": "ea8dfa3ef6a569891823db2a36ef7266ceb37d6f847a8d59962ea8a220d8ced4",
+  "text": "W-G Foundation Grants and Fellowships Menu Search for: Bluesky (opens in a new tab) Facebook Instagram LinkedIn X Wenner-Gren Foundation 655 Third Avenue, 23rd Floor New York, NY 10017 USA Interested in supporting other scholars by becoming a Wenner-Gren reviewer? Contact Michael Muse. Need help with finding a grant? Open Questionnaire",
+  "previous_hash": "ea8dfa3ef6a569891823db2a36ef7266ceb37d6f847a8d59962ea8a220d8ced4",
+  "content_changed": false
+}

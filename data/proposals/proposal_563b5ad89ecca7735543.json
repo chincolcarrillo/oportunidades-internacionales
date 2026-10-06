@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_563b5ad89ecca7735543",
+  "role": "monitor",
+  "run_id": "run_d5c8f20805a3046a2d1c",
+  "observed_at": "2026-10-06T17:13:50Z",
+  "url": "https://socialsciences.org.au/wp-content/uploads/2025/09/AFIPS_Pacific_Social_Science_Academic_Grants_Guidelines_2026.pdf",
+  "source_id": "src_a477944270f9b15507a7",
+  "baseline": "b4a4dbbd0ca29fa2e03bf9ee43937bf4d83bd880ed5b58ccfc76c7c4f7cc89c8",
+  "http_status": 404,
+  "error": "HTTP 404",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

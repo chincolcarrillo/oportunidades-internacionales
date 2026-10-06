@@ -1,0 +1,71 @@
+{
+  "url": "https://jacobsfoundation.org/news/",
+  "evidence_hash": "3f9dcd40436f3987dde9850f685cc717a51317ba27c3945fe9067beb19775b3d",
+  "extracted_at": "2026-10-06T17:22:19Z",
+  "extraction": {
+    "convocatoria": "BOLD Science Communication Fellowship",
+    "institucion_financiante": "Jacobs Foundation",
+    "edicion": null,
+    "tipo_oportunidad": "estancia",
+    "scope": "in",
+    "eligibility": "unknown",
+    "high_confidence": true,
+    "reason": "La página de noticias anuncia el lanzamiento de una beca para investigadores en etapa temprana en comunicación científica, con mentoría y formación; el texto no explicita criterios completos de elegibilidad ni si es aplicable a UChile.",
+    "fields": [
+      {
+        "field": "convocatoria",
+        "value": "BOLD Science Communication Fellowship",
+        "quote": "BOLD Science Communication Fellowship",
+        "url": "https://jacobsfoundation.org/news/"
+      },
+      {
+        "field": "institucion_financiante",
+        "value": "Jacobs Foundation",
+        "quote": "The Jacobs Foundation is pleased to announce the launch",
+        "url": "https://jacobsfoundation.org/news/"
+      },
+      {
+        "field": "tipo_oportunidad",
+        "value": "estancia",
+        "quote": "Selected Fellows will receive dedicated expert mentoring and training",
+        "url": "https://jacobsfoundation.org/news/"
+      },
+      {
+        "field": "objetivo",
+        "value": "Desarrollar habilidades de comunicación científica para investigadores en etapa temprana que trabajan en aprendizaje y desarrollo infantil.",
+        "quote": "advance their science communication skills",
+        "url": "https://jacobsfoundation.org/news/"
+      },
+      {
+        "field": "perfil_investigador_elegible",
+        "value": "early-career researchers working in the field of child learning and development",
+        "quote": "early-career researchers working in the field of child learning and development",
+        "url": "https://jacobsfoundation.org/news/"
+      },
+      {
+        "field": "gastos_financiables",
+        "value": "Mentoría especializada y formación en redacción científica, edición y producción de video.",
+        "quote": "dedicated expert mentoring and training in science writing, editing, and video production",
+        "url": "https://jacobsfoundation.org/news/"
+      },
+      {
+        "field": "estado_fuente",
+        "value": "anuncio de lanzamiento en noticia; información parcial",
+        "quote": "The Jacobs Foundation is pleased to announce the launch",
+        "url": "https://jacobsfoundation.org/news/"
+      },
+      {
+        "field": "observaciones_dudas",
+        "value": "El texto visible no indica duración, monto, país de destino, ni criterios completos de postulación.",
+        "quote": "This is an exciting opportunity for early-career researchers",
+        "url": "https://jacobsfoundation.org/news/"
+      },
+      {
+        "field": "area_disciplinar",
+        "value": "comunicación científica, aprendizaje infantil y desarrollo infantil",
+        "quote": "the field of child learning and development",
+        "url": "https://jacobsfoundation.org/news/"
+      }
+    ]
+  }
+}

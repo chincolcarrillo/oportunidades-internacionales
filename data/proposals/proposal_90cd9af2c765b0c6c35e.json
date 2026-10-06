@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_90cd9af2c765b0c6c35e",
+  "role": "monitor",
+  "run_id": "run_d5c8f20805a3046a2d1c",
+  "observed_at": "2026-10-06T17:17:35Z",
+  "url": "https://www.templetonworldcharity.org/about-us/our-strategy/core-funding-areas",
+  "source_id": "src_51e9c43d53bfffe8a547",
+  "baseline": "360f8b54809bedbb29ed98ff50f0cedf0ffbaea281687060df12b87f66b71722",
+  "http_status": 403,
+  "error": "HTTP 403",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

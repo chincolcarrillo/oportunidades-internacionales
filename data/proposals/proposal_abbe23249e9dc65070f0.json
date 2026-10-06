@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_abbe23249e9dc65070f0",
+  "role": "monitor",
+  "run_id": "run_d5c8f20805a3046a2d1c",
+  "observed_at": "2026-10-06T17:13:47Z",
+  "url": "https://socialsciences.org.au/wp-content/uploads/2025/09/PSS-AFIPS-2025-26-Guidelines-.pdf",
+  "source_id": "src_572d3d49f5d60ff6fe0f",
+  "baseline": "6d78067c894273bbbbccf7914518567e7d5b2cfb6a489440ccc0bb94a369f817",
+  "http_status": 404,
+  "error": "HTTP 404",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

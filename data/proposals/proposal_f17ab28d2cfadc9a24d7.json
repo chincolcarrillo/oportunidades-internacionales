@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_f17ab28d2cfadc9a24d7",
+  "role": "monitor",
+  "run_id": "run_d5c8f20805a3046a2d1c",
+  "observed_at": "2026-10-06T16:53:10Z",
+  "url": "https://www.spssi.org/grantsinaid",
+  "source_id": "src_d9f7c190bb0d2fd61126",
+  "baseline": "eb0c9e81fc9116628f1e450a63c5b6fa3b5f24c3350bb458d6d8a4c4101c5a72",
+  "http_status": 302,
+  "error": "HTTP 302",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

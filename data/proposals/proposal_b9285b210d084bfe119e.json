@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_b9285b210d084bfe119e",
+  "role": "monitor",
+  "run_id": "run_d5c8f20805a3046a2d1c",
+  "observed_at": "2026-10-06T17:03:22Z",
+  "url": "https://www.dfat.gov.au/people-to-people/foundations-councils-institutes/coalar/grants",
+  "source_id": "src_7edbd0e75e5516dc8cdf",
+  "baseline": "309c07e4730e80fb85239e18e24c4cec8a7da1228b9c54e842529e081ba6ab62",
+  "http_status": 0,
+  "error": "robots.txt no permite o no pudo verificarse",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_171c59183fae88aaa6f5",
+  "role": "monitor",
+  "run_id": "run_d5c8f20805a3046a2d1c",
+  "observed_at": "2026-10-06T17:20:24Z",
+  "url": "https://www.gob.mx/amexcid/documentos/vi-convocatoria-2025-fondo-mexico-uruguay",
+  "source_id": "src_26d7e60bc52fe07af7c7",
+  "baseline": "b1fc2db34889ba25995e74855b7735145760e53a8430c635bc84ec54dc923970",
+  "http_status": 200,
+  "error": "Contenido insuficiente para extracción; revisar fuente alternativa",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

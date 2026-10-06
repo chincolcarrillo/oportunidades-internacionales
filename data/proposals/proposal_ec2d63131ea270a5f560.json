@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_ec2d63131ea270a5f560",
+  "role": "monitor",
+  "run_id": "run_d5c8f20805a3046a2d1c",
+  "observed_at": "2026-10-06T16:52:24Z",
+  "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/resources/documents/marie-sklodowska-curie-actions-work-programme-2023-2025",
+  "source_id": "src_5c84c2f8d4c1160c6edf",
+  "baseline": "e34c5f7c6757e4aa59dec78ebc2cab19a49f16432c84ace802421018dcf9e317",
+  "http_status": 200,
+  "error": null,
+  "evidence_hash": "6b661dc1a4e1587c2b9ac239a5222736b8f43cd2e5d127dbeed973c964aaceb9",
+  "text": "See all documents Marie Skłodowska-Curie Actions Work Programme 2023-2025 The Marie Skłodowska-Curie Actions are the EU's reference programme for doctoral and postdoctoral training. This Work Programme covers the funding initiatives for 2023 and 2025 promoted by the Marie Skłodowska-Curie Actions under the EU's research and innovation programme, Horizon Europe (2021-2027). Check the Horizon Europe Work Programme 2023-2024 – General Annexes to find out more about the general conditions applicable to calls and topics for grants and other forms of funding under the Horizon Europe main work programme, including the MSCA Work Programme. Enlarge See all documents Language English",
+  "previous_hash": "6b661dc1a4e1587c2b9ac239a5222736b8f43cd2e5d127dbeed973c964aaceb9",
+  "content_changed": false
+}

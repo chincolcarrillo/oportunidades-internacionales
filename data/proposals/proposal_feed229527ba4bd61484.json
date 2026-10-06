@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_feed229527ba4bd61484",
+  "role": "monitor",
+  "run_id": "run_d5c8f20805a3046a2d1c",
+  "observed_at": "2026-10-06T17:14:47Z",
+  "url": "https://www.aks.ac.kr/ikorea/com/cmm/EgovContentView.do?lang=eng&menuNo=2010110000",
+  "source_id": "src_add4abf86f4e12a95dc7",
+  "baseline": "cdb4e36fe0179ec31a00113f835c79f157b12c3bd470588e49f554ff80d734e2",
+  "http_status": 200,
+  "error": null,
+  "evidence_hash": "7ece0b8fb9086c38f2d19694e450fd9a7e04d313f4c957c66f4daca66a382236",
+  "text": "본문 바로가기 Home The Academy of Korean Studies SITEMAP LANGUAGE KOREAN ENGLISH JAPANESE CHINESE SPANISH RUSSIAN FRENCH Search Close search All menu Search 프린트 공유 페이스북 공유 트위터 공유 네이버 블로그 공유 The Korean Studies Grant Program provides academic support for scholars of Korean Studies affiliated with overseas universities or research institutes with the aim of revitalizing and improving Korean Studies programs overseas. In the latter half of each year, candidates are selected through open competitions and provided with support for their academic activities related to Korean studies in five categories. All Korean Studies scholars from overseas universities and research institutes are welcome to apply. Eligibility Researchers affiliated with educational or research institutions outside of Korea Field of Support Field of Support: Category, Area of Support Category Area of Support Academic Research Individual /Joint Research Conference and Workshop Conference or Workshop on Korean Studies by Region (Country) / Topic Scholarly Publication Publication of Journal in Korean Studies Publication of Book in Korean Studies Educational and Cultural Program Lectures and Education Program Cultural Events that Help Promote an Understanding of Korean Culture Translation of Overseas Korean Studies Monographs Translation and Domestic Publication of Books on Korea Originally Published Overseas Support Amount Annual Budget: KRW 15 million in total (approx.) Number of Annual Projects: 90 (approx.) Budget Application by Project: Apply freely depending on the scale of the project. Decisions are made by considering the validity of budget planning during the evaluation (no separate upper limit). Schedule Announcement of Application Guideline in August → Evaluation (professional/comprehensive) → Selection Result in December Contact E-mail : grant@aks.ac.kr TOP Menu About CEFIA Greetings Mission History Organization Location Promotion of Korean Studies Abroad Korean Studies Grant Fellowship Program AKS Summer Program for International Students World Congress of Korean Studies International Conference on Korean Studies Societas Koreana International Academic Exchange Understanding Korea Textbook Analysis Textbook Seminars Training Fellowships Overseas Meetings Supporting Civilian Organizations Abroad Materials Development Archives of International Textbooks Overview Search Resources Understanding Korea materials Newsletter Animation Links Community Notice Activities Freeboard Guide Personal Information Management Policies Prohibition of Unauthorized Collection of E-mail Addresses Sitemap Search 닫기",
+  "previous_hash": "7ece0b8fb9086c38f2d19694e450fd9a7e04d313f4c957c66f4daca66a382236",
+  "content_changed": false
+}

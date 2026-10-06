@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_28b6882f03bb334cfbd9",
+  "role": "monitor",
+  "run_id": "run_d5c8f20805a3046a2d1c",
+  "observed_at": "2026-10-06T17:16:24Z",
+  "url": "https://www.cckf.org.tw/en/programs/european/database",
+  "source_id": "src_5e73e0652d3ea448a7c9",
+  "baseline": "0f051c3d57e3779556cb4c91c723581750843d0b4a765ceeaef1235ee40d14a7",
+  "http_status": 0,
+  "error": "Fallo HTTP/TLS/timeout; se conserva el dato anterior",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

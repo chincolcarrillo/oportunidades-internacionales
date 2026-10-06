@@ -1,0 +1,137 @@
+{
+  "url": "https://jacobsfoundation.org/levante-opens-2026-call-for-proposals/",
+  "evidence_hash": "eca141b1732b81ac85a6764436e3d2510682bf7fbf94557e4a88a262d14ad5e2",
+  "extracted_at": "2026-10-06T17:22:15Z",
+  "extraction": {
+    "convocatoria": "LEVANTE opens 2026 Call for Proposals",
+    "institucion_financiante": "Jacobs Foundation",
+    "edicion": "2026",
+    "tipo_oportunidad": "fondo",
+    "scope": "in",
+    "eligibility": "unknown",
+    "high_confidence": true,
+    "reason": "Es una convocatoria de financiamiento para proyectos de investigación sobre variabilidad del aprendizaje infantil, con monto total e individual explícitos. El texto describe alcance temático, fechas y monto, pero no entrega criterios completos de elegibilidad para confirmar sí/no, y no hay indicios de que sea una estancia presencial.",
+    "fields": [
+      {
+        "field": "edicion",
+        "value": "2026",
+        "quote": "2026 Call for Proposals",
+        "url": "https://jacobsfoundation.org/levante-opens-2026-call-for-proposals/"
+      },
+      {
+        "field": "fecha_apertura",
+        "value": "2026-04-13",
+        "quote": "Applications are open from 13 April to 10 June 2026.",
+        "url": "https://jacobsfoundation.org/levante-opens-2026-call-for-proposals/"
+      },
+      {
+        "field": "fecha_cierre",
+        "value": "2026-06-10",
+        "quote": "Applications are open from 13 April to 10 June 2026.",
+        "url": "https://jacobsfoundation.org/levante-opens-2026-call-for-proposals/"
+      },
+      {
+        "field": "fecha_apertura_texto",
+        "value": "13 April 2026",
+        "quote": "Applications are open from 13 April to 10 June 2026.",
+        "url": "https://jacobsfoundation.org/levante-opens-2026-call-for-proposals/"
+      },
+      {
+        "field": "fecha_cierre_texto",
+        "value": "10 June 2026",
+        "quote": "Applications are open from 13 April to 10 June 2026.",
+        "url": "https://jacobsfoundation.org/levante-opens-2026-call-for-proposals/"
+      },
+      {
+        "field": "monto_financiamiento_texto",
+        "value": "USD 6 million; individual funding of up to USD 1 million",
+        "quote": "with a total funding pool of USD 6 million and individual funding of up to USD 1 million",
+        "url": "https://jacobsfoundation.org/levante-opens-2026-call-for-proposals/"
+      },
+      {
+        "field": "monto_min",
+        "value": "0",
+        "quote": "total funding pool of USD 6 million",
+        "url": "https://jacobsfoundation.org/levante-opens-2026-call-for-proposals/"
+      },
+      {
+        "field": "monto_max",
+        "value": "1000000",
+        "quote": "individual funding of up to USD 1 million",
+        "url": "https://jacobsfoundation.org/levante-opens-2026-call-for-proposals/"
+      },
+      {
+        "field": "moneda",
+        "value": "USD",
+        "quote": "USD 6 million",
+        "url": "https://jacobsfoundation.org/levante-opens-2026-call-for-proposals/"
+      },
+      {
+        "field": "tipo_oportunidad",
+        "value": "fondo",
+        "quote": "Call for Proposals",
+        "url": "https://jacobsfoundation.org/levante-opens-2026-call-for-proposals/"
+      },
+      {
+        "field": "convocatoria",
+        "value": "LEVANTE opens 2026 Call for Proposals",
+        "quote": "LEVANTE opens 2026 Call for Proposals",
+        "url": "https://jacobsfoundation.org/levante-opens-2026-call-for-proposals/"
+      },
+      {
+        "field": "institucion_financiante",
+        "value": "Jacobs Foundation",
+        "quote": "The Jacobs Foundation is pleased to announce",
+        "url": "https://jacobsfoundation.org/levante-opens-2026-call-for-proposals/"
+      },
+      {
+        "field": "programa",
+        "value": "Learning Variability Network Exchange (LEVANTE)",
+        "quote": "join the Learning Variability Network Exchange (LEVANTE) initiative",
+        "url": "https://jacobsfoundation.org/levante-opens-2026-call-for-proposals/"
+      },
+      {
+        "field": "objetivo",
+        "value": "apoyar proyectos para estudiar la variabilidad del aprendizaje y el desarrollo infantil",
+        "quote": "support projects to join the Learning Variability Network Exchange (LEVANTE) initiative",
+        "url": "https://jacobsfoundation.org/levante-opens-2026-call-for-proposals/"
+      },
+      {
+        "field": "alcance",
+        "value": "investigación sobre niños de 3 a 12 años, factores que contribuyen a la variabilidad del aprendizaje, procesos dinámicos del aprendizaje y datos densos",
+        "quote": "research projects that assess children aged 3 to 12 over time, focused on identifying underlying factors contributing to learning variability, and capturing the dynamic processes of learning through dense measurement approaches",
+        "url": "https://jacobsfoundation.org/levante-opens-2026-call-for-proposals/"
+      },
+      {
+        "field": "area_disciplinar",
+        "value": "educación, psicología, ciencia de datos y disciplinas relacionadas con el desarrollo infantil y el aprendizaje",
+        "quote": "multidisciplinary open dataset capturing the diversity of child development",
+        "url": "https://jacobsfoundation.org/levante-opens-2026-call-for-proposals/"
+      },
+      {
+        "field": "tipo_investigacion",
+        "value": "proyectos de investigación longitudinales y con medición densa",
+        "quote": "assess children aged 3 to 12 over time",
+        "url": "https://jacobsfoundation.org/levante-opens-2026-call-for-proposals/"
+      },
+      {
+        "field": "perfil_investigador_elegible",
+        "value": "researchers",
+        "quote": "This is an exciting opportunity for researchers",
+        "url": "https://jacobsfoundation.org/levante-opens-2026-call-for-proposals/"
+      },
+      {
+        "field": "region",
+        "value": "underrepresented regions",
+        "quote": "The call also encourages submissions from projects in underrepresented regions.",
+        "url": "https://jacobsfoundation.org/levante-opens-2026-call-for-proposals/"
+      },
+      {
+        "field": "frecuencia_apertura_llamado",
+        "value": "Applications are open from 13 April to 10 June 2026.",
+        "quote": "Applications are open from 13 April to 10 June 2026.",
+        "url": "https://jacobsfoundation.org/levante-opens-2026-call-for-proposals/"
+      }
+    ]
+  }
+}
