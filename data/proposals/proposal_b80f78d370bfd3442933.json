@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_b80f78d370bfd3442933",
+  "role": "monitor",
+  "run_id": "run_f9f5e7fcbf2a1f2f3219",
+  "observed_at": "2026-10-09T17:28:06Z",
+  "url": "https://www.agci.gov.cl/noticias/2663-fondo-conjunto-de-cooperacion-chile-mexico-abre-convocatoria-2026",
+  "source_id": "src_9da2944a8e96051fcc30",
+  "baseline": "08d71c4eb114a0e36b9c3a99734ce2974003a93c9671b23f6bc244d8b4cc3a23",
+  "http_status": 0,
+  "error": "robots.txt no permite o no pudo verificarse",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_d3353616624b29b6846d",
+  "role": "monitor",
+  "run_id": "run_f9f5e7fcbf2a1f2f3219",
+  "observed_at": "2026-10-09T17:30:14Z",
+  "url": "https://pure.uai.cl/es/projects/futureworks-skills-for-a-sustainable-and-inclusive-future-of-work/",
+  "source_id": "src_94634ee1566a0ef67ea2",
+  "baseline": "787c6b609d536b5d6b24baeaea5cce7c85d73b02df5a702873c2016c28861636",
+  "http_status": 200,
+  "error": null,
+  "evidence_hash": "542bb394eb29d16f996d6b2e17537d9fc635e7e0f8eceb82bed6f946e002269b",
+  "text": "FutureWORKS: Skills for a Sustainable and Inclusive Future of Work - Latin America & the Caribbean Arriagada, Arturo (Investigador principal) Escuela de Comunicaciones y Periodismo Detalles del proyecto Descripción Sur Futuro/IDRC - The project examines how platform work is imagined and experienced in seven South American countries—Argentina, Brazil, Chile, Colombia, Paraguay, Peru, and Uruguay—as well as the motivations and justifications of people for participating in these activities. EstadoFinalizadoFecha de inicio/Fecha fin23/09/24 → 31/01/26 Financiación Centro Internacional de Investigaciones para el Desarrollo (IDRC) Ver todo Ver menos",
+  "previous_hash": "542bb394eb29d16f996d6b2e17537d9fc635e7e0f8eceb82bed6f946e002269b",
+  "content_changed": false
+}

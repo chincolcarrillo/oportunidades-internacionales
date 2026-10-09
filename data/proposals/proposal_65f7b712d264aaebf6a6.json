@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_65f7b712d264aaebf6a6",
+  "role": "monitor",
+  "run_id": "run_f9f5e7fcbf2a1f2f3219",
+  "observed_at": "2026-10-09T17:23:35Z",
+  "url": "https://www.grants.gov.au/Go/Show?GoUuid=c0aa3e91-6075-467c-9892-876e1aa67ad3",
+  "source_id": "src_cb12360f0dc74a6c20fe",
+  "baseline": "049946659a89a013f844ecc17063872cc47319da5be09fb45dc9b7aa7572bf8d",
+  "http_status": 403,
+  "error": "HTTP 403",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

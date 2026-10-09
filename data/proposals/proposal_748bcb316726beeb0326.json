@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_748bcb316726beeb0326",
+  "role": "monitor",
+  "run_id": "run_f9f5e7fcbf2a1f2f3219",
+  "observed_at": "2026-10-09T17:30:55Z",
+  "url": "https://www.anii.org.uy/upcms/files/llamados/informecierre/informe-cierre-convocatoria-eulac-2025.pdf",
+  "source_id": "src_0bbcde97bf07878aedb9",
+  "baseline": "63d2d7e5d1caa5fdf59475b6d2c6a637702452306e0ea0bbe7baf5c4ec2eb1a2",
+  "http_status": 301,
+  "error": "HTTP 301",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_04946402488eeaacd417",
+  "role": "monitor",
+  "run_id": "run_f9f5e7fcbf2a1f2f3219",
+  "observed_at": "2026-10-09T17:30:04Z",
+  "url": "https://calas.lat/es/convocatorias/becas-de-investigadora-visitante-senior-2026",
+  "source_id": "src_e5aa4747bbe5aac47fc8",
+  "baseline": "2be1b7b76e41a8c557c7b44def1cdba71c75ada341df4914bd18570159a0a7fa",
+  "http_status": 0,
+  "error": "Fallo HTTP/TLS/timeout; se conserva el dato anterior",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

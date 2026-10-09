@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_108cd647a85fc771b72c",
+  "role": "monitor",
+  "run_id": "run_f9f5e7fcbf2a1f2f3219",
+  "observed_at": "2026-10-09T17:24:04Z",
+  "url": "https://socialsciences.org.au/wp-content/uploads/2026/01/IPSE-AFIPS-2025-26-Guidelines-.pdf",
+  "source_id": "src_bed2b16114ac8c644663",
+  "baseline": "6ffd74b7737dbd744004f46ef2d6f84cbb534f58d541199f7f4359989e2b7423",
+  "http_status": 404,
+  "error": "HTTP 404",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

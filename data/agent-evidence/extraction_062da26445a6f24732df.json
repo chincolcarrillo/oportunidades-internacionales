@@ -1,0 +1,167 @@
+{
+  "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/",
+  "evidence_hash": "589192ba1200f3f2ac592c419dfaa38b8a631f5d1b42c583e7f4f97141c542c7",
+  "extracted_at": "2026-10-09T17:32:24Z",
+  "extraction": {
+    "convocatoria": "Klaus J. Jacobs Research Prize",
+    "institucion_financiante": "Jacobs Foundation",
+    "edicion": "2025",
+    "tipo_oportunidad": "fondo",
+    "scope": "in",
+    "eligibility": "unknown",
+    "high_confidence": true,
+    "reason": "El texto describe un premio de investigación con financiamiento para un proyecto de investigación y gastos relacionados. La elegibilidad temática es explícitamente para disciplinas que contribuyan al desarrollo y aprendizaje de niños y युवor. La elegibilidad para UChile no puede determinarse explícitamente con el texto dado.",
+    "fields": [
+      {
+        "field": "edicion",
+        "value": "2025",
+        "quote": "for its 2025 Klaus J. Jacobs Research Prize",
+        "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/"
+      },
+      {
+        "field": "fecha_cierre",
+        "value": "2025-01-31T23:00:00",
+        "quote": "The submission deadline is 31 January 2025 at 23.00 CET.",
+        "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/"
+      },
+      {
+        "field": "fecha_cierre_texto",
+        "value": "31 January 2025 at 23.00 CET",
+        "quote": "The submission deadline is 31 January 2025 at 23.00 CET.",
+        "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/"
+      },
+      {
+        "field": "monto_financiamiento_texto",
+        "value": "1 million Swiss Francs",
+        "quote": "The Klaus J. Jacobs research prize is endowed with 1 million Swiss Francs to support the research endeavours of the prize recipient.",
+        "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/"
+      },
+      {
+        "field": "monto_min",
+        "value": "900000",
+        "quote": "Of these, 900’000 Swiss Francs are to be used in a research project",
+        "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/"
+      },
+      {
+        "field": "monto_max",
+        "value": "1000000",
+        "quote": "The Klaus J. Jacobs research prize is endowed with 1 million Swiss Francs",
+        "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/"
+      },
+      {
+        "field": "moneda",
+        "value": "CHF",
+        "quote": "Swiss Francs",
+        "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/"
+      },
+      {
+        "field": "gastos_financiables",
+        "value": "research project; related costs such as travel, networking, and dissemination",
+        "quote": "900’000 Swiss Francs are to be used in a research project and 100’000 Swiss Francs are for related costs, such as travel, networking, and dissemination.",
+        "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/"
+      },
+      {
+        "field": "tipo_oportunidad",
+        "value": "fondo",
+        "quote": "The Klaus J. Jacobs research prize is endowed with 1 million Swiss Francs",
+        "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/"
+      },
+      {
+        "field": "convocatoria",
+        "value": "Klaus J. Jacobs Research Prize",
+        "quote": "Klaus J. Jacobs Research Prize – Criteria and Eligibility",
+        "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/"
+      },
+      {
+        "field": "programa",
+        "value": "Klaus J. Jacobs Research Prize",
+        "quote": "The Jacobs Foundation invites applications for its 2025 Klaus J. Jacobs Research Prize",
+        "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/"
+      },
+      {
+        "field": "institucion_financiante",
+        "value": "Jacobs Foundation",
+        "quote": "The Jacobs Foundation invites applications",
+        "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/"
+      },
+      {
+        "field": "area_disciplinar",
+        "value": "all scholarly disciplines (e.g., educational sciences, psychology, economics, sociology, family studies, media studies, political sciences, linguistics, neurosciences, computer sciences, medical sciences)",
+        "quote": "Applications and nominations are open to all scholarly disciplines (e.g., educational sciences, psychology, economics, sociology, family studies, media studies, political sciences, linguistics, neurosciences, computer sciences, medical sciences)",
+        "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/"
+      },
+      {
+        "field": "objetivo",
+        "value": "improving learning, development, and living conditions of children and youth",
+        "quote": "aiming at improving learning, development, and living conditions of children and youth.",
+        "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/"
+      },
+      {
+        "field": "alcance",
+        "value": "dealing with or contributing to the successful development and learning of children and youth",
+        "quote": "dealing with or contributing to the successful development and learning of children and youth.",
+        "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/"
+      },
+      {
+        "field": "perfil_investigador_elegible",
+        "value": "individual researchers who have established themselves as senior researchers with a proven career and several years of active work ahead",
+        "quote": "The prize is for individual researchers who have established themselves as senior researchers with a proven career and several years of active work ahead.",
+        "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/"
+      },
+      {
+        "field": "etapa_carrera",
+        "value": "senior researchers; several years of active work ahead",
+        "quote": "established themselves as senior researchers with a proven career and several years of active work ahead",
+        "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/"
+      },
+      {
+        "field": "tipo_investigacion",
+        "value": "scientific achievements; research project",
+        "quote": "scientific achievements... 900’000 Swiss Francs are to be used in a research project",
+        "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/"
+      },
+      {
+        "field": "requisitos_contraparte",
+        "value": "nomination by someone familiar with their work; applications or nominations by individual researchers",
+        "quote": "you can either nominate someone whose work you wish to highlight, or you can apply directly for the prize yourself.",
+        "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/"
+      },
+      {
+        "field": "rol_permitido_para_postulante",
+        "value": "applicant or nominee; individual researcher; can apply directly or be nominated",
+        "quote": "you can either nominate someone whose work you wish to highlight, or you can apply directly for the prize yourself.",
+        "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/"
+      },
+      {
+        "field": "frecuencia_apertura_llamado",
+        "value": "annual",
+        "quote": "For its 2025 Klaus J. Jacobs Research Prize",
+        "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/"
+      },
+      {
+        "field": "frecuencia_normalizada",
+        "value": "anual",
+        "quote": "For its 2025 Klaus J. Jacobs Research Prize",
+        "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/"
+      },
+      {
+        "field": "estado_fuente",
+        "value": "activo",
+        "quote": "The submission deadline is 31 January 2025 at 23.00 CET.",
+        "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/"
+      },
+      {
+        "field": "observaciones_dudas",
+        "value": "La elegibilidad geográfica o institucional no se explicita en el texto; tampoco se indica una restricción específica para UChile.",
+        "quote": "Applicants must have an academic affiliation.",
+        "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/"
+      },
+      {
+        "field": "elegibilidad_uchile",
+        "value": "No claro",
+        "quote": "Applicants must have an academic affiliation.",
+        "url": "https://jacobsfoundation.org/klaus-j-jacobs-research-prize-eligibility/"
+      }
+    ]
+  }
+}

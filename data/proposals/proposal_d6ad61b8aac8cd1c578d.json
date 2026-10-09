@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_d6ad61b8aac8cd1c578d",
+  "role": "monitor",
+  "run_id": "run_f9f5e7fcbf2a1f2f3219",
+  "observed_at": "2026-10-09T17:26:04Z",
+  "url": "https://www.cckf.org.tw/en/news/2024052002",
+  "source_id": "src_9fd1e2b924c708c52961",
+  "baseline": "f7c0ea9835a44f3bc79e81c00d83988a282b3d2797461077b12b0de9c28fbd12",
+  "http_status": 0,
+  "error": "Fallo HTTP/TLS/timeout; se conserva el dato anterior",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

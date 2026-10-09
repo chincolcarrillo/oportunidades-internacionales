@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_4f6aff8fce826c7e2e2b",
+  "role": "monitor",
+  "run_id": "run_f9f5e7fcbf2a1f2f3219",
+  "observed_at": "2026-10-09T17:27:32Z",
+  "url": "https://gcgh.grandchallenges.org/grant-opportunities",
+  "source_id": "src_e6b77eba30d1b555db17",
+  "baseline": "14342b425955da26b8494ed30e761f41677a6962495598cddebb404d90ed6dbe",
+  "http_status": 200,
+  "error": null,
+  "evidence_hash": "19d763583217f1eabdc717b2414ce4b34e86af36595b3f8009905a8311646208",
+  "text": "Grant Opportunities The Grand Challenges family of initiatives fosters innovation to address key global health and development priorities. Showing page 1 out of 0 with 10 results per page. There are no open Grant Opportunities at this time. Please see the list of grants awarded to date and check back again soon, or for additional funding opportunities visit GrandChallenges.org or GatesFoundation.org. See Also: Opportunities at Gates Foundation Opportunities at GrandChallenges.org Grand Challenges Annual Meeting Print",
+  "previous_hash": "19d763583217f1eabdc717b2414ce4b34e86af36595b3f8009905a8311646208",
+  "content_changed": false
+}

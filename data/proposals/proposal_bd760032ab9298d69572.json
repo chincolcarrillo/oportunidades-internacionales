@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_bd760032ab9298d69572",
+  "role": "monitor",
+  "run_id": "run_f9f5e7fcbf2a1f2f3219",
+  "observed_at": "2026-10-09T17:26:04Z",
+  "url": "https://www.cckf.org.tw/en/programs",
+  "source_id": "src_cec8890f5f9462ba0d2e",
+  "baseline": "6db372d00ab7983fb8eec9359e740156c264352a2c5448a97506d47b6c5804c6",
+  "http_status": 0,
+  "error": "Fallo HTTP/TLS/timeout; se conserva el dato anterior",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

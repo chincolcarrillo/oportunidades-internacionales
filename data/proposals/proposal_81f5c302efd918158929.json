@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_81f5c302efd918158929",
+  "role": "monitor",
+  "run_id": "run_f9f5e7fcbf2a1f2f3219",
+  "observed_at": "2026-10-09T17:24:13Z",
+  "url": "https://humanities.org.au/wp-content/uploads/2026/01/Humanities-Travelling-Fellowship-Guidelines-2026.pdf",
+  "source_id": "src_3b9d46bb113468fc614b",
+  "baseline": "a15637457141bac70c95e7c1adbc23d99307582143ede2f1add85ecf768c99a0",
+  "http_status": 200,
+  "error": "Formato no HTML/texto; revisar PDF o fuente alternativa",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

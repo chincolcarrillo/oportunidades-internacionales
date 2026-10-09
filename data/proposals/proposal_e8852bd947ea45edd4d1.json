@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_e8852bd947ea45edd4d1",
+  "role": "monitor",
+  "run_id": "run_f9f5e7fcbf2a1f2f3219",
+  "observed_at": "2026-10-09T17:23:45Z",
+  "url": "https://apnic.foundation/grants/isif-asia/",
+  "source_id": "src_963370b14bf6490e89d0",
+  "baseline": "eb99d50dec8e0b2ea0596e1ae29eba133096716e78bd067adfa09fe5519c5dca",
+  "http_status": 200,
+  "error": "Contenido insuficiente para extracción; revisar fuente alternativa",
+  "evidence_hash": "ac576a66d4563e600314a2ce6e731725e9826fd88baf2399e05f60bfb177dbc0",
+  "text": "Skip to content",
+  "previous_hash": null,
+  "content_changed": true
+}

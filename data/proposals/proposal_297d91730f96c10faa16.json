@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_297d91730f96c10faa16",
+  "role": "monitor",
+  "run_id": "run_f9f5e7fcbf2a1f2f3219",
+  "observed_at": "2026-10-09T17:30:04Z",
+  "url": "https://calas.lat/es/convocatoria",
+  "source_id": "src_dd68b1a5f36fc8ae7969",
+  "baseline": "47b5e8bcc0caa5c8e5c2e6b6404b2809f15e70527f512a7ccbfa8da02d7848ce",
+  "http_status": 0,
+  "error": "Fallo HTTP/TLS/timeout; se conserva el dato anterior",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

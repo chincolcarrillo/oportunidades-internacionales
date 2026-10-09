@@ -1,0 +1,107 @@
+{
+  "url": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en",
+  "evidence_hash": "b992a8672c4a600ec7ac12694129a202151b75117bc164fcb435b5c4cb16c34a",
+  "extracted_at": "2026-10-09T17:32:37Z",
+  "extraction": {
+    "convocatoria": "Horizon Europe",
+    "institucion_financiante": "Unión Europea",
+    "edicion": "2021-2027",
+    "tipo_oportunidad": "fondo",
+    "scope": "in",
+    "eligibility": "yes",
+    "high_confidence": true,
+    "reason": "El texto identifica a Horizon Europe como programa de financiamiento para investigación e innovación, con presupuesto indicativo 2021-2027, y describe participación de entidades legales de la UE y países asociados. No se trata de una estancia presencial, sino de un fondo.",
+    "fields": [
+      {
+        "field": "convocatoria",
+        "value": "Horizon Europe",
+        "quote": "Horizon Europe is the EU’s key funding programme for research and innovation.",
+        "url": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en"
+      },
+      {
+        "field": "institucion_financiante",
+        "value": "Unión Europea",
+        "quote": "Horizon Europe is the EU’s key funding programme for research and innovation.",
+        "url": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en"
+      },
+      {
+        "field": "edicion",
+        "value": "2021-2027",
+        "quote": "for the period 2021-2027",
+        "url": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en"
+      },
+      {
+        "field": "fecha_apertura_texto",
+        "value": "1 April 2021",
+        "quote": "general overview 20 April 2021",
+        "url": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en"
+      },
+      {
+        "field": "fecha_cierre_texto",
+        "value": "no se indica",
+        "quote": "Funding opportunities under Horizon Europe are set out in work programmes.",
+        "url": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en"
+      },
+      {
+        "field": "monto_financiamiento_texto",
+        "value": "EUR 93.5 billion",
+        "quote": "the indicative funding amount for Horizon Europe for the period 2021-2027 is EUR 93.5 billion",
+        "url": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en"
+      },
+      {
+        "field": "moneda",
+        "value": "EUR",
+        "quote": "EUR 93.5 billion",
+        "url": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en"
+      },
+      {
+        "field": "tipo_oportunidad",
+        "value": "fondo",
+        "quote": "key funding programme for research and innovation",
+        "url": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en"
+      },
+      {
+        "field": "programa",
+        "value": "Horizon Europe",
+        "quote": "The programme facilitates collaboration",
+        "url": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en"
+      },
+      {
+        "field": "alcance",
+        "value": "programa de financiamiento para investigación e innovación, con cooperación internacional y foco en excelencia, innovación y competitividad",
+        "quote": "The programme facilitates collaboration and strengthens the impact of research and innovation",
+        "url": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en"
+      },
+      {
+        "field": "objetivo",
+        "value": "apoyar investigación e innovación, colaborar, fortalecer el impacto y abordar desafíos globales",
+        "quote": "It supports creating and better dispersing of excellent knowledge and technologies.",
+        "url": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en"
+      },
+      {
+        "field": "area_disciplinar",
+        "value": "climate change; Sustainable Development Goals; civil applications; Health; Culture, Creativity and Inclusive Society; Civil Security for Society; Digital, Industry and Space; Climate, Energy and Mobility; Food, Bioeconomy, Natural Resources, Agriculture and Environment",
+        "quote": "Exclusive focus on civil applications",
+        "url": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en"
+      },
+      {
+        "field": "pais",
+        "value": "UE y países asociados",
+        "quote": "Legal entities from the EU and associated countries can participate.",
+        "url": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en"
+      },
+      {
+        "field": "requisitos_contraparte",
+        "value": "entidades legales de la UE y países asociados pueden participar",
+        "quote": "Legal entities from the EU and associated countries can participate.",
+        "url": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en"
+      },
+      {
+        "field": "estado_fuente",
+        "value": "información general del programa",
+        "quote": "Apply for funding All funding information and procedures on how to apply are on the Funding and Tenders portal.",
+        "url": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en"
+      }
+    ]
+  }
+}

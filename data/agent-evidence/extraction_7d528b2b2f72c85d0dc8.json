@@ -1,0 +1,77 @@
+{
+  "url": "https://research-and-innovation.ec.europa.eu/research-area/social-sciences-and-humanities_en",
+  "evidence_hash": "d9c300a903c96bfa122395850d15654995cb3224b43c5fe3674f8a0162938bad",
+  "extracted_at": "2026-10-09T17:32:29Z",
+  "extraction": {
+    "convocatoria": "Horizon Europe",
+    "institucion_financiante": "Comisión Europea",
+    "edicion": null,
+    "tipo_oportunidad": "fondo",
+    "scope": "in",
+    "eligibility": "unknown",
+    "high_confidence": true,
+    "reason": "El texto describe el apoyo de la UE a la investigación en ciencias sociales y humanidades dentro de Horizon Europe, con énfasis en financiación de investigación y convocatorias de propuestas, pero no contiene condiciones explícitas de elegibilidad para postulantes específicos.",
+    "fields": [
+      {
+        "field": "tipo_oportunidad",
+        "value": "fondo",
+        "quote": "Through Cluster 2 of Horizon Europe (2021–2027), the EU's research and innovation funding programme",
+        "url": "https://research-and-innovation.ec.europa.eu/research-area/social-sciences-and-humanities_en"
+      },
+      {
+        "field": "convocatoria",
+        "value": "Horizon Europe",
+        "quote": "Through Cluster 2 of Horizon Europe (2021–2027), the EU's research and innovation funding programme",
+        "url": "https://research-and-innovation.ec.europa.eu/research-area/social-sciences-and-humanities_en"
+      },
+      {
+        "field": "institucion_financiante",
+        "value": "Comisión Europea",
+        "quote": "The Commission funds research across the full breadth of this agenda",
+        "url": "https://research-and-innovation.ec.europa.eu/research-area/social-sciences-and-humanities_en"
+      },
+      {
+        "field": "programa",
+        "value": "Cluster 2 de Horizon Europe",
+        "quote": "Through Cluster 2 of Horizon Europe (2021–2027), the EU's research and innovation funding programme",
+        "url": "https://research-and-innovation.ec.europa.eu/research-area/social-sciences-and-humanities_en"
+      },
+      {
+        "field": "area_disciplinar",
+        "value": "ciencias sociales y humanidades; sociología; economía; filosofía; artes; historia; arqueología",
+        "quote": "From sociology to economics, philosophy to arts, history to archaeology",
+        "url": "https://research-and-innovation.ec.europa.eu/research-area/social-sciences-and-humanities_en"
+      },
+      {
+        "field": "alcance",
+        "value": "investigación en ciencias sociales y humanidades para responder a retos como instituciones democráticas, futuro del trabajo con inteligencia artificial, gobernanza de la migración, patrimonio cultural, desigualdades, cohesión social, crecimiento inclusivo e integración SSH en otros clústeres",
+        "quote": "The social sciences and humanities research help Europe understand and respond to some of its most pressing challenges",
+        "url": "https://research-and-innovation.ec.europa.eu/research-area/social-sciences-and-humanities_en"
+      },
+      {
+        "field": "objetivo",
+        "value": "proporcionar conocimiento, datos y recomendaciones científicamente sólidas para reforzar la gobernanza democrática, el crecimiento sostenible, la creación de empleo, la valorización del patrimonio y la reducción de desigualdades",
+        "quote": "provide knowledge, data and scientifically robust recommendations to reinvigorate and strengthen democratic governance, improve critical thinking and trust in democratic institutions; support research and innovation to boost sustainable growth and job creation",
+        "url": "https://research-and-innovation.ec.europa.eu/research-area/social-sciences-and-humanities_en"
+      },
+      {
+        "field": "frecuencia_apertura_llamado",
+        "value": "convocatorias de propuestas en SSH",
+        "quote": "Calls for proposal in SSH are mainly in Cluster 2: Culture, Creativity and Inclusive society",
+        "url": "https://research-and-innovation.ec.europa.eu/research-area/social-sciences-and-humanities_en"
+      },
+      {
+        "field": "frecuencia_normalizada",
+        "value": "irregular",
+        "quote": "Calls for proposal in SSH are mainly in Cluster 2: Culture, Creativity and Inclusive society",
+        "url": "https://research-and-innovation.ec.europa.eu/research-area/social-sciences-and-humanities_en"
+      },
+      {
+        "field": "estado_fuente",
+        "value": "la página describe el programa y sus líneas temáticas, no una convocatoria cerrada específica",
+        "quote": "Funding opportunities",
+        "url": "https://research-and-innovation.ec.europa.eu/research-area/social-sciences-and-humanities_en"
+      }
+    ]
+  }
+}

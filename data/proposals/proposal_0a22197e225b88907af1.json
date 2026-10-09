@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_0a22197e225b88907af1",
+  "role": "monitor",
+  "run_id": "run_f9f5e7fcbf2a1f2f3219",
+  "observed_at": "2026-10-09T17:03:07Z",
+  "url": "https://www.nationalgeographic.org/society/grants-and-investments/",
+  "source_id": "src_63300afddc0fbcefd52a",
+  "baseline": "ad6ae9dc307a727fd37382480918c85c8bbc99c4db3591e9294467445894caee",
+  "http_status": 301,
+  "error": "HTTP 301",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

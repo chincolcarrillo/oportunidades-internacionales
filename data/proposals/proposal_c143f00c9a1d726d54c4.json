@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_c143f00c9a1d726d54c4",
+  "role": "monitor",
+  "run_id": "run_f9f5e7fcbf2a1f2f3219",
+  "observed_at": "2026-10-09T17:28:24Z",
+  "url": "https://investigacion.uc.cl/concursos/programa-de-cooperacao-latino-americana-e-caribenha-em-ciencia-tecnologia-e-inovacao-prosul-pepe-mujica/",
+  "source_id": "src_9b829b13752ede704db1",
+  "baseline": "3156cbf21e7e0525eb2007db4534a08c6e035b341a6ed258064afce2a32ab976",
+  "http_status": 403,
+  "error": "HTTP 403",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}

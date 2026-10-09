@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_5eabef8da1dd727fcbee",
+  "role": "monitor",
+  "run_id": "run_f9f5e7fcbf2a1f2f3219",
+  "observed_at": "2026-10-09T17:01:26Z",
+  "url": "https://www.gerda-henkel-stiftung.de/en/democracy?page_id=57",
+  "source_id": "src_81e447d1b286f3345a6c",
+  "baseline": "925d2acc241680b77e690f8ccc66fab0d44257d8cf806ae64cc9728e6cb6d550",
+  "http_status": 302,
+  "error": "HTTP 302",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": null,
+  "content_changed": true
+}
