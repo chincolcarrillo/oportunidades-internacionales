@@ -1,0 +1,125 @@
+{
+  "url": "https://www.spencer.org/grant_types/large-research-grant",
+  "evidence_hash": "4addbc3c108ca0a0828956c2f2778f751ab96fc6441a0734222854c2f55c34b8",
+  "extracted_at": "2026-10-11T16:28:18Z",
+  "extraction": {
+    "convocatoria": "Large Research Grants on Education",
+    "institucion_financiante": "Spencer Foundation",
+    "edicion": null,
+    "tipo_oportunidad": "fondo",
+    "scope": "in",
+    "eligibility": "unknown",
+    "high_confidence": true,
+    "reason": "El texto describe un programa de subvenciones para proyectos de investigación educativa con montos, duración y requisitos de postulación explícitos. No hay una restricción clara que permita concluir elegibilidad para UChile o para un perfil chileno específico; sí admite postulaciones internacionales y en inglés, pero la elegibilidad concreta depende de la afiliación institucional y del perfil del PI/Co-PI.",
+    "fields": [
+      {
+        "field": "convocatoria",
+        "value": "Large Research Grants on Education",
+        "quote": "Large Research Grants on Education",
+        "url": "https://www.spencer.org/grant_types/large-research-grant"
+      },
+      {
+        "field": "institucion_financiante",
+        "value": "Spencer Foundation",
+        "quote": "Spencer Foundation",
+        "url": "https://www.spencer.org/grant_types/large-research-grant"
+      },
+      {
+        "field": "tipo_oportunidad",
+        "value": "fondo",
+        "quote": "supports education research projects",
+        "url": "https://www.spencer.org/grant_types/large-research-grant"
+      },
+      {
+        "field": "monto_min",
+        "value": "125000",
+        "quote": "budgets ranging from $125,000 to $500,000",
+        "url": "https://www.spencer.org/grant_types/large-research-grant"
+      },
+      {
+        "field": "monto_max",
+        "value": "500000",
+        "quote": "budgets ranging from $125,000 to $500,000",
+        "url": "https://www.spencer.org/grant_types/large-research-grant"
+      },
+      {
+        "field": "moneda",
+        "value": "USD",
+        "quote": "U.S. Dollars",
+        "url": "https://www.spencer.org/grant_types/large-research-grant"
+      },
+      {
+        "field": "requiere_cofinanciamiento",
+        "value": "No",
+        "quote": "including up to 15% indirect cost charges",
+        "url": "https://www.spencer.org/grant_types/large-research-grant"
+      },
+      {
+        "field": "gastos_financiables",
+        "value": "Salaries, Benefits, Other Collaborator, Travel, Equipment and Software, Project Expenses, Other, Subcontracts",
+        "quote": "Allowable expenses: Salaries, Benefits, Other Collaborator, Travel, Equipment and Software, Project Expenses, Other, Subcontracts.",
+        "url": "https://www.spencer.org/grant_types/large-research-grant"
+      },
+      {
+        "field": "duracion_proyecto",
+        "value": "hasta 5 años",
+        "quote": "projects ranging from one to five years",
+        "url": "https://www.spencer.org/grant_types/large-research-grant"
+      },
+      {
+        "field": "frecuencia_apertura_llamado",
+        "value": "una vez al año",
+        "quote": "We accept preproposals once a year.",
+        "url": "https://www.spencer.org/grant_types/large-research-grant"
+      },
+      {
+        "field": "frecuencia_normalizada",
+        "value": "anual",
+        "quote": "once a year",
+        "url": "https://www.spencer.org/grant_types/large-research-grant"
+      },
+      {
+        "field": "area_disciplinar",
+        "value": "educación; antropología; filosofía; psicología; sociología; derecho; economía; historia; neurociencia",
+        "quote": "including for example education, anthropology, philosophy, psychology, sociology, law, economics, history, or neuroscience",
+        "url": "https://www.spencer.org/grant_types/large-research-grant"
+      },
+      {
+        "field": "objetivo",
+        "value": "apoyar proyectos de investigación educativa que contribuyan a mejorar la educación",
+        "quote": "supports education research projects that will contribute to the improvement of education",
+        "url": "https://www.spencer.org/grant_types/large-research-grant"
+      },
+      {
+        "field": "alcance",
+        "value": "investigación educativa iniciada por el campo, con perspectivas disciplinarias y metodológicas múltiples, abierta a postulaciones nacionales e internacionales",
+        "quote": "This program is “field-initiated,” meaning that proposal submissions are not in response to a specific request for a particular research topic, discipline, design, or method.",
+        "url": "https://www.spencer.org/grant_types/large-research-grant"
+      },
+      {
+        "field": "perfil_investigador_elegible",
+        "value": "investigadores con doctorado obtenido; PI y Co-PI deben tener un doctorado; estudiantes de posgrado pueden integrar el equipo pero no ser PI ni Co-PI",
+        "quote": "Principal Investigators (PIs) and Co-PIs applying for a Large Research Grant on Education must have an earned doctorate in an academic discipline or professional field. While graduate students may be part of the research team, they may not be named the PI or Co-PI on the proposal.",
+        "url": "https://www.spencer.org/grant_types/large-research-grant"
+      },
+      {
+        "field": "rol_permitido_para_postulante",
+        "value": "PI o Co-PI; no individuos como beneficiarios directos; el PI debe estar afiliado a una organización sin fines de lucro o institución pública/gubernamental",
+        "quote": "The PI must be affiliated with a non-profit organization or public/governmental institution that is willing to serve as the administering organization if the grant is awarded.",
+        "url": "https://www.spencer.org/grant_types/large-research-grant"
+      },
+      {
+        "field": "idiomas_postulacion",
+        "value": "inglés",
+        "quote": "all proposals must be submitted in English",
+        "url": "https://www.spencer.org/grant_types/large-research-grant"
+      },
+      {
+        "field": "observaciones_dudas",
+        "value": "Se aceptan postulaciones internacionales, pero el texto exige que el PI esté afiliado a una organización sin fines de lucro o pública/gubernamental y que el presupuesto se proponga en dólares estadounidenses.",
+        "quote": "Proposals are accepted from the U.S. and internationally, however all proposals must be submitted in English and budgets must be proposed in U.S. Dollars.",
+        "url": "https://www.spencer.org/grant_types/large-research-grant"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/resources/documents/marie-sklodowska-curie-actions-work-programme-2023-2025",
+  "evidence_hash": "6b661dc1a4e1587c2b9ac239a5222736b8f43cd2e5d127dbeed973c964aaceb9",
+  "extracted_at": "2026-10-11T16:28:03Z",
+  "extraction": {
+    "convocatoria": "Marie Skłodowska-Curie Actions Work Programme 2023-2025",
+    "institucion_financiante": "Marie Skłodowska-Curie Actions",
+    "edicion": "2023-2025",
+    "tipo_oportunidad": "ambos",
+    "scope": "in",
+    "eligibility": "unknown",
+    "high_confidence": true,
+    "reason": "El texto identifica un programa de financiamiento de la UE para formación doctoral y postdoctoral, por lo que el alcance temático es de investigación/formación (in). No entrega criterios de elegibilidad ni plazos específicos para postulación.",
+    "fields": [
+      {
+        "field": "convocatoria",
+        "value": "Marie Skłodowska-Curie Actions Work Programme 2023-2025",
+        "quote": "Marie Skłodowska-Curie Actions Work Programme 2023-2025",
+        "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/resources/documents/marie-sklodowska-curie-actions-work-programme-2023-2025"
+      },
+      {
+        "field": "institucion_financiante",
+        "value": "Marie Skłodowska-Curie Actions",
+        "quote": "The Marie Skłodowska-Curie Actions are the EU's reference programme",
+        "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/resources/documents/marie-sklodowska-curie-actions-work-programme-2023-2025"
+      },
+      {
+        "field": "edicion",
+        "value": "2023-2025",
+        "quote": "Work Programme 2023-2025",
+        "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/resources/documents/marie-sklodowska-curie-actions-work-programme-2023-2025"
+      },
+      {
+        "field": "tipo_oportunidad",
+        "value": "ambos",
+        "quote": "funding initiatives for 2023 and 2025",
+        "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/resources/documents/marie-sklodowska-curie-actions-work-programme-2023-2025"
+      },
+      {
+        "field": "tipo_oportunidad",
+        "value": "ambos",
+        "quote": "funding initiatives",
+        "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/resources/documents/marie-sklodowska-curie-actions-work-programme-2023-2025"
+      },
+      {
+        "field": "objetivo",
+        "value": "programa de la UE para formación doctoral y postdoctoral",
+        "quote": "reference programme for doctoral and postdoctoral training",
+        "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/resources/documents/marie-sklodowska-curie-actions-work-programme-2023-2025"
+      },
+      {
+        "field": "alcance",
+        "value": "investigación e innovación de la UE",
+        "quote": "under the EU's research and innovation programme",
+        "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/resources/documents/marie-sklodowska-curie-actions-work-programme-2023-2025"
+      },
+      {
+        "field": "estado_fuente",
+        "value": "documento de programa de trabajo",
+        "quote": "This Work Programme covers the funding initiatives",
+        "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/resources/documents/marie-sklodowska-curie-actions-work-programme-2023-2025"
+      }
+    ]
+  }
+}
