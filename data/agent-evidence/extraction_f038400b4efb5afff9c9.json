@@ -1,0 +1,155 @@
+{
+  "url": "https://www.spencer.org/grant_types/vision-grants",
+  "evidence_hash": "81f630d79fecf19dc757cc8aba2d34ee1aafbc61956795f4f2f171d76ee3c1b8",
+  "extracted_at": "2026-10-13T18:04:42Z",
+  "extraction": {
+    "convocatoria": "Vision Grants",
+    "institucion_financiante": "Spencer Foundation",
+    "edicion": null,
+    "tipo_oportunidad": "fondo",
+    "scope": "in",
+    "eligibility": "unknown",
+    "high_confidence": true,
+    "reason": "La oportunidad es un fondo de investigación educativa/planning grant de alcance temático educación y aprendizaje. El texto explicita requisitos de postulantes e instituciones, pero no permite afirmar elegibilidad específica para UChile; sí admite propuestas internacionales.",
+    "fields": [
+      {
+        "field": "convocatoria",
+        "value": "Vision Grants",
+        "quote": "Vision Grants Vision Grants",
+        "url": "https://www.spencer.org/grant_types/vision-grants"
+      },
+      {
+        "field": "institucion_financiante",
+        "value": "Spencer Foundation",
+        "quote": "The Spencer Foundation invests in research to improve education, broadly conceived.",
+        "url": "https://www.spencer.org/grant_types/vision-grants"
+      },
+      {
+        "field": "tipo_oportunidad",
+        "value": "fondo",
+        "quote": "The Vision Grant program provides scholars and collaborators with the time, space, resources, and support to plan a large-scale study or program of research",
+        "url": "https://www.spencer.org/grant_types/vision-grants"
+      },
+      {
+        "field": "fecha_apertura_texto",
+        "value": "Applications Open Now",
+        "quote": "Applications Open Now closed.",
+        "url": "https://www.spencer.org/grant_types/vision-grants"
+      },
+      {
+        "field": "fecha_cierre_texto",
+        "value": "closed",
+        "quote": "Applications Open Now closed.",
+        "url": "https://www.spencer.org/grant_types/vision-grants"
+      },
+      {
+        "field": "monto_financiamiento_texto",
+        "value": "$75,000 total",
+        "quote": "Vision Grants are $75,000 total.",
+        "url": "https://www.spencer.org/grant_types/vision-grants"
+      },
+      {
+        "field": "moneda",
+        "value": "USD",
+        "quote": "All proposals must be submitted in English and budgets must be proposed in U.S. Dollars.",
+        "url": "https://www.spencer.org/grant_types/vision-grants"
+      },
+      {
+        "field": "requiere_cofinanciamiento",
+        "value": "No",
+        "quote": "Vision Grants are $75,000 total.",
+        "url": "https://www.spencer.org/grant_types/vision-grants"
+      },
+      {
+        "field": "gastos_cubiertos",
+        "value": "time, space, resources, and support",
+        "quote": "provides scholars and collaborators with the time, space, resources, and support to plan a large-scale study or program of research",
+        "url": "https://www.spencer.org/grant_types/vision-grants"
+      },
+      {
+        "field": "duracion_proyecto",
+        "value": "12 to 18 months",
+        "quote": "to collaboratively develop ambitious, large-scale research projects focused on transforming educational systems toward greater equity.",
+        "url": "https://www.spencer.org/grant_types/vision-grants"
+      },
+      {
+        "field": "elegibilidad_uchile",
+        "value": "No",
+        "quote": "The PI must be affiliated with a non-profit organization or public/governmental institution that is willing to serve as the administering organization if the grant is awarded.",
+        "url": "https://www.spencer.org/grant_types/vision-grants"
+      },
+      {
+        "field": "estado_fuente",
+        "value": "now closed",
+        "quote": "Applications Open Now closed.",
+        "url": "https://www.spencer.org/grant_types/vision-grants"
+      },
+      {
+        "field": "tipo_oportunidad",
+        "value": "fondo",
+        "quote": "Vision Grants are research planning grants",
+        "url": "https://www.spencer.org/grant_types/vision-grants"
+      },
+      {
+        "field": "programa",
+        "value": "Vision Grant program",
+        "quote": "The Vision Grant program provides scholars and collaborators",
+        "url": "https://www.spencer.org/grant_types/vision-grants"
+      },
+      {
+        "field": "objetivo",
+        "value": "transformar sistemas educativos hacia una mayor equidad",
+        "quote": "focused on transforming educational systems toward greater equity.",
+        "url": "https://www.spencer.org/grant_types/vision-grants"
+      },
+      {
+        "field": "alcance",
+        "value": "investigación sobre educación y aprendizaje, broadly conceived",
+        "quote": "must be for planning research projects that study education and/or learning, broadly conceived",
+        "url": "https://www.spencer.org/grant_types/vision-grants"
+      },
+      {
+        "field": "perfil_investigador_elegible",
+        "value": "scholars and collaborators; Principal Investigators (PIs) and Co-PIs applying for a Vision Grant must have appropriate experience or an earned doctorate in an academic discipline or terminal degree in a professional field",
+        "quote": "Principal Investigators (PIs) and Co-PIs applying for a Vision Grant must have appropriate experience or an earned doctorate in an academic discipline or terminal degree in a professional field.",
+        "url": "https://www.spencer.org/grant_types/vision-grants"
+      },
+      {
+        "field": "etapa_carrera",
+        "value": "graduate students may be part of the research team, they may not be named the PI or Co-PI on the proposal",
+        "quote": "While graduate students may be part of the research team, they may not be named the PI or Co-PI on the proposal.",
+        "url": "https://www.spencer.org/grant_types/vision-grants"
+      },
+      {
+        "field": "tipo_investigacion",
+        "value": "planning research projects; collaborative scholarship",
+        "quote": "Vision Grants are research planning grants to bring together a team, for 12 to 18 months, to collaboratively develop ambitious, large-scale research projects",
+        "url": "https://www.spencer.org/grant_types/vision-grants"
+      },
+      {
+        "field": "requisitos_contraparte",
+        "value": "meaningful and equitable collaboration with practitioners, policymakers, communities, and other partners",
+        "quote": "developed through meaningful and equitable collaboration with practitioners, policymakers, communities, and other partners",
+        "url": "https://www.spencer.org/grant_types/vision-grants"
+      },
+      {
+        "field": "rol_permitido_para_postulante",
+        "value": "PI and Co-PI; graduate students may be part of the research team but may not be named PI or Co-PI",
+        "quote": "While graduate students may be part of the research team, they may not be named the PI or Co-PI on the proposal.",
+        "url": "https://www.spencer.org/grant_types/vision-grants"
+      },
+      {
+        "field": "frecuencia_apertura_llamado",
+        "value": "Applications Open Now closed",
+        "quote": "Applications Open Now closed.",
+        "url": "https://www.spencer.org/grant_types/vision-grants"
+      },
+      {
+        "field": "frecuencia_normalizada",
+        "value": "no_encontrado",
+        "quote": "Applications Open Now closed.",
+        "url": "https://www.spencer.org/grant_types/vision-grants"
+      }
+    ]
+  }
+}

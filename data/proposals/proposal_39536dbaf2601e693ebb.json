@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_39536dbaf2601e693ebb",
+  "role": "monitor",
+  "run_id": "run_df8dd5cae84a680e2f48",
+  "observed_at": "2026-10-13T17:55:17Z",
+  "url": "https://humanities.org.au/grants-and-awards/humanities-travelling-fellowships/",
+  "source_id": "src_cb9a80537351eaaf277d",
+  "baseline": "b14b1c9ad621720fdb71fe4c3f86172e943f5b5f73e261df2bbb06aa7939e83d",
+  "http_status": 0,
+  "error": "robots.txt no permite o no pudo verificarse",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": "6c0039ec10b119ca2a87bf34ad773ad05dafdb061fb058cca740ab62f000df7b",
+  "content_changed": true
+}

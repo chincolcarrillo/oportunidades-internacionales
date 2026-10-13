@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_e95d6260aa8c9eaa0472",
+  "role": "monitor",
+  "run_id": "run_df8dd5cae84a680e2f48",
+  "observed_at": "2026-10-13T17:54:50Z",
+  "url": "https://apnic.foundation/grants/isif-asia/isif-asia-faqs/",
+  "source_id": "src_c8d02310d9a181529f96",
+  "baseline": "3610da446cea59907d07bf5a0ae875062c94224364c78b46db41d02e86c87967",
+  "http_status": 200,
+  "error": "Contenido insuficiente para extracción; revisar fuente alternativa",
+  "evidence_hash": "ac576a66d4563e600314a2ce6e731725e9826fd88baf2399e05f60bfb177dbc0",
+  "text": "Skip to content",
+  "previous_hash": null,
+  "content_changed": true
+}

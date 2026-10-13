@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "proposal_id": "proposal_949111ecbb527fdc06f2",
+  "role": "monitor",
+  "run_id": "run_df8dd5cae84a680e2f48",
+  "observed_at": "2026-10-13T17:55:57Z",
+  "url": "https://humanities.org.au/grants-and-awards/ernst-rosemarie-keller-fund/",
+  "source_id": "src_9ade2d161e5a20924192",
+  "baseline": "03bf5c9bcc8114aa08fa01fa3b398735b566443197b26a2ea10993f79cbbfd16",
+  "http_status": 0,
+  "error": "robots.txt no permite o no pudo verificarse",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text": "",
+  "previous_hash": "147750e243c5dc4076e11111315d208abd18e52349176a2aecda0cef53280b76",
+  "content_changed": true
+}

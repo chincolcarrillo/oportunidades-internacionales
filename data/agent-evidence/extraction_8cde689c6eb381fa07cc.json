@@ -1,0 +1,161 @@
+{
+  "url": "https://www.spencer.org/grant_types/racial-equity-special-research-grants",
+  "evidence_hash": "eb4b0ef032ef04df6d59ed47579dc82990ea83391df69969c645f4713f675d94",
+  "extracted_at": "2026-10-13T18:04:23Z",
+  "extraction": {
+    "convocatoria": "Racial Equity Research Grants",
+    "institucion_financiante": "Spencer Foundation",
+    "edicion": null,
+    "tipo_oportunidad": "fondo",
+    "scope": "in",
+    "eligibility": "unknown",
+    "high_confidence": true,
+    "reason": "El texto describe un programa de subvenciones para proyectos de investigación educativa sobre equidad racial, con presupuestos de hasta US$75,000 y duración de hasta 5 años. También fija restricciones claras de perfil (doctorado, PI afiliado a una organización sin fines de lucro o pública), pero el texto no permite concluir de forma directa la elegibilidad específica para una afiliación chilena/UChile, aunque sí acepta postulaciones internacionales.",
+    "fields": [
+      {
+        "field": "convocatoria",
+        "value": "Racial Equity Research Grants",
+        "quote": "Racial Equity Research Grants",
+        "url": "https://www.spencer.org/grant_types/racial-equity-special-research-grants"
+      },
+      {
+        "field": "institucion_financiante",
+        "value": "Spencer Foundation",
+        "quote": "The Spencer Foundation",
+        "url": "https://www.spencer.org/grant_types/racial-equity-special-research-grants"
+      },
+      {
+        "field": "tipo_oportunidad",
+        "value": "fondo",
+        "quote": "supports education research projects",
+        "url": "https://www.spencer.org/grant_types/racial-equity-special-research-grants"
+      },
+      {
+        "field": "area_disciplinar",
+        "value": "investigación educativa",
+        "quote": "education research projects",
+        "url": "https://www.spencer.org/grant_types/racial-equity-special-research-grants"
+      },
+      {
+        "field": "objetivo",
+        "value": "comprender y desarticular la desigualdad racial en la educación y avanzar en la equidad educativa",
+        "quote": "will contribute to understanding and disrupting racial inequality in education and work to reimagine generative possibilities to advance educational equity",
+        "url": "https://www.spencer.org/grant_types/racial-equity-special-research-grants"
+      },
+      {
+        "field": "alcance",
+        "value": "proyectos de investigación académica sobre desigualdad racial en educación",
+        "quote": "must be for academic research projects that will contribute to understanding and ameliorating racial inequality in education, broadly conceived",
+        "url": "https://www.spencer.org/grant_types/racial-equity-special-research-grants"
+      },
+      {
+        "field": "monto_financiamiento_texto",
+        "value": "up to $75,000",
+        "quote": "with budgets up to $75,000",
+        "url": "https://www.spencer.org/grant_types/racial-equity-special-research-grants"
+      },
+      {
+        "field": "monto_max",
+        "value": "75000",
+        "quote": "up to $75,000",
+        "url": "https://www.spencer.org/grant_types/racial-equity-special-research-grants"
+      },
+      {
+        "field": "moneda",
+        "value": "USD",
+        "quote": "U.S. Dollars",
+        "url": "https://www.spencer.org/grant_types/racial-equity-special-research-grants"
+      },
+      {
+        "field": "duracion_proyecto",
+        "value": "hasta 5 años",
+        "quote": "projects ranging from one to five years",
+        "url": "https://www.spencer.org/grant_types/racial-equity-special-research-grants"
+      },
+      {
+        "field": "frecuencia_apertura_llamado",
+        "value": "una vez al año",
+        "quote": "We accept Intent to Apply forms once a year",
+        "url": "https://www.spencer.org/grant_types/racial-equity-special-research-grants"
+      },
+      {
+        "field": "frecuencia_normalizada",
+        "value": "anual",
+        "quote": "once a year",
+        "url": "https://www.spencer.org/grant_types/racial-equity-special-research-grants"
+      },
+      {
+        "field": "idiomas_postulacion",
+        "value": "inglés",
+        "quote": "all proposals must be submitted in English",
+        "url": "https://www.spencer.org/grant_types/racial-equity-special-research-grants"
+      },
+      {
+        "field": "gastos_financiables",
+        "value": "salaries, benefits, travel, equipment and software, project expenses, other, subcontracts",
+        "quote": "Salaries (PI, Co-PI, Postdoctoral Research Assistant, Graduate Student Researcher, Undergraduate Researcher, Other Research Staff, Other Staff) Benefits (PI Benefits, Co-PI Benefits, Researcher Benefits, Other Staff Benefits, Tuition/Fees) Other Collaborator (Independent Consultant, Advisor) Travel (Project Travel, Conference or Dissemination Travel) Equipment and Software (Equipment, Software) Project Expenses (Supplies, Participant Stipends/Costs, Communication, Transcription) Other (This should only be used for expenses not covered in the choices above) Subcontracts",
+        "url": "https://www.spencer.org/grant_types/racial-equity-special-research-grants"
+      },
+      {
+        "field": "gastos_cubiertos",
+        "value": "salarios, beneficios, viajes, equipo y software, gastos del proyecto, otros y subcontratos",
+        "quote": "Salaries (PI, Co-PI, Postdoctoral Research Assistant, Graduate Student Researcher, Undergraduate Researcher, Other Research Staff, Other Staff) Benefits (PI Benefits, Co-PI Benefits, Researcher Benefits, Other Staff Benefits, Tuition/Fees) Other Collaborator (Independent Consultant, Advisor) Travel (Project Travel, Conference or Dissemination Travel) Equipment and Software (Equipment, Software) Project Expenses (Supplies, Participant Stipends/Costs, Communication, Transcription) Other (This should only be used for expenses not covered in the choices above) Subcontracts",
+        "url": "https://www.spencer.org/grant_types/racial-equity-special-research-grants"
+      },
+      {
+        "field": "perfil_investigador_elegible",
+        "value": "PI y Co-PI con doctorado obtenido en un campo académico o profesional; estudiantes de posgrado pueden integrar el equipo, pero no ser PI ni Co-PI",
+        "quote": "Principal Investigators (PIs) and Co-PIs applying for a Racial Equity Research Grant must have an earned doctorate in an academic discipline or professional field. While graduate students may be part of the research team, they may not be named the PI or Co-PI on the proposal.",
+        "url": "https://www.spencer.org/grant_types/racial-equity-special-research-grants"
+      },
+      {
+        "field": "requisitos_contraparte",
+        "value": "el PI debe estar afiliado a una organización sin fines de lucro o institución pública/gubernamental que actúe como administradora si se adjudica el fondo",
+        "quote": "The PI must be affiliated with a non-profit organization or public/governmental institution that is willing to serve as the administering organization if the grant is awarded.",
+        "url": "https://www.spencer.org/grant_types/racial-equity-special-research-grants"
+      },
+      {
+        "field": "rol_permitido_para_postulante",
+        "value": "Principal Investigator y Co-Principal Investigator; no se otorgan fondos directamente a individuos",
+        "quote": "The Spencer Foundation does not award grants directly to individuals.",
+        "url": "https://www.spencer.org/grant_types/racial-equity-special-research-grants"
+      },
+      {
+        "field": "tipo_investigacion",
+        "value": "investigación académica; se aceptan enfoques cualitativos, mixtos y cuantitativos",
+        "quote": "We encourage proposals from across the methodological spectrum, including qualitative methods, mixed-methods, and quantitative methods.",
+        "url": "https://www.spencer.org/grant_types/racial-equity-special-research-grants"
+      },
+      {
+        "field": "area_disciplinar",
+        "value": "no restringido a una disciplina, diseño o método particular",
+        "quote": "proposal submissions are not required to focus on a particular research topic, discipline, design, or method",
+        "url": "https://www.spencer.org/grant_types/racial-equity-special-research-grants"
+      },
+      {
+        "field": "pais",
+        "value": "Estados Unidos e internacional",
+        "quote": "Proposals are accepted from the U.S. and internationally",
+        "url": "https://www.spencer.org/grant_types/racial-equity-special-research-grants"
+      },
+      {
+        "field": "elegibilidad_uchile",
+        "value": "No claro",
+        "quote": "Proposals are accepted from the U.S. and internationally",
+        "url": "https://www.spencer.org/grant_types/racial-equity-special-research-grants"
+      },
+      {
+        "field": "estado_fuente",
+        "value": "activa/cerrada en el sitio consultado",
+        "quote": "Application Deadlines: Applications Open Now closed",
+        "url": "https://www.spencer.org/grant_types/racial-equity-special-research-grants"
+      },
+      {
+        "field": "observaciones_dudas",
+        "value": "No se indica restricción temática ni geográfica que excluya explícitamente a Chile o a UChile; la elegibilidad institucional depende de contar con una organización sin fines de lucro o pública/gubernamental administradora.",
+        "quote": "Proposals are accepted from the U.S. and internationally, however, all proposals must be submitted in English and budgets must be proposed in U.S. Dollars.",
+        "url": "https://www.spencer.org/grant_types/racial-equity-special-research-grants"
+      }
+    ]
+  }
+}

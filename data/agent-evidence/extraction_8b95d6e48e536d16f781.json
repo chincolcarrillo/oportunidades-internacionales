@@ -1,0 +1,191 @@
+{
+  "url": "https://www.spencer.org/grant_types/research-practice-partnerships",
+  "evidence_hash": "d51048e36038fbf2a37a94c75814f8c221262a5e6ab7a3addf8752f2efc3b90b",
+  "extracted_at": "2026-10-13T18:04:34Z",
+  "extraction": {
+    "convocatoria": "Research-Practice Partnerships: Collaborative Research for Educational Change",
+    "institucion_financiante": "Spencer Foundation",
+    "edicion": "2026",
+    "tipo_oportunidad": "fondo",
+    "scope": "in",
+    "eligibility": "unknown",
+    "high_confidence": true,
+    "reason": "El texto describe un programa de subvenciones para proyectos de investigación educativa colaborativa con alianzas entre investigadores académicos y practicantes, con presupuesto y duración definidos. La elegibilidad de UChile no está explícitamente confirmada ni excluida.",
+    "fields": [
+      {
+        "field": "fecha_apertura",
+        "value": "2026-05-12",
+        "quote": "Applications Open May 12, 2026",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "fecha_cierre",
+        "value": "2026-10-28",
+        "quote": "Full Proposal (By Invitation) Deadline October 28, 2026",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "fecha_apertura_texto",
+        "value": "Applications Open May 12, 2026",
+        "quote": "Applications Open May 12, 2026",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "fecha_cierre_texto",
+        "value": "Full Proposal (By Invitation) Deadline October 28, 2026, 12:00 PM Noon (Central/Chicago Time)",
+        "quote": "Full Proposal (By Invitation) Deadline October 28, 2026, 12:00 PM Noon (Central/Chicago Time)",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "monto_financiamiento_texto",
+        "value": "project budgets up to $400,000",
+        "quote": "project budgets up to $400,000",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "monto_max",
+        "value": "400000",
+        "quote": "project budgets up to $400,000",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "moneda",
+        "value": "USD",
+        "quote": "budgets must be proposed in U.S. Dollars",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "requiere_cofinanciamiento",
+        "value": "No",
+        "quote": "The Spencer Foundation does not require official university sign-off for your budget at the preproposal stage.",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "gastos_financiables",
+        "value": "research activities; research infrastructure; outreach, communications, and relationship building; capacity development; salaries; benefits; travel; equipment and software; project expenses; subcontracts",
+        "quote": "The following categories of activities are meant to be illustrative, but not exclusive, of activities in addition to the research that could be funded under this program.",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "gastos_cubiertos",
+        "value": "up to 15% indirect cost charges; participant stipends/costs; communication; transcription; conference or dissemination travel",
+        "quote": "Budgets in this program may include up to 15% IDC (also known as overhead).",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "duracion_proyecto",
+        "value": "up to three years",
+        "quote": "durations of up to three years",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "estado_fuente",
+        "value": "active",
+        "quote": "Applications Open May 12, 2026",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "tipo_oportunidad",
+        "value": "fondo",
+        "quote": "The Research-Practice Partnership (RPP) Grants Program is intended to support education research projects",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "convocatoria",
+        "value": "Research-Practice Partnerships: Collaborative Research for Educational Change",
+        "quote": "Research-Practice Partnerships: Collaborative Research for Educational Change",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "programa",
+        "value": "Research-Practice Partnership (RPP) Grants Program",
+        "quote": "The Research-Practice Partnership (RPP) Grants Program is intended to support education research projects",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "institucion_financiante",
+        "value": "Spencer Foundation",
+        "quote": "Program contact: Maricelle Garcia research-practice-partnership@spencer.org",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "pais",
+        "value": "Estados Unidos",
+        "quote": "settings in locations outside of the United States",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "idiomas_postulacion",
+        "value": "English",
+        "quote": "All proposals must be submitted in English",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "area_disciplinar",
+        "value": "educación; investigación educativa; prácticas, políticas y cambio educativo",
+        "quote": "education research projects that engage in collaborative and participatory partnerships",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "objetivo",
+        "value": "apoyar proyectos de investigación educativa y actividades asociadas en alianzas colaborativas y participativas para generar conocimiento y mejorar la educación",
+        "quote": "intended to support education research projects that engage in collaborative and participatory partnerships",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "alcance",
+        "value": "alianzas de investigación-práctica sobre educación, incluyendo escuelas, universidades, centros comunitarios, museos y otros contextos de aprendizaje",
+        "quote": "the improvement of education, broadly construed",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "perfil_investigador_elegible",
+        "value": "investigadores académicos con doctorado o experiencia profesional demostrada; el PI debe estar afiliado a una organización sin fines de lucro o pública/gubernamental; se aceptan propuestas de EE. UU. e internacionalmente; el equipo puede incluir practicantes y formuladores de política; estudiantes de posgrado pueden participar pero no ser PI ni Co-PI",
+        "quote": "Principal Investigators (PIs) and Co-PIs applying for a Research-Practice Partnership Grant are expected to have an earned doctorate in an academic discipline or professional field, or demonstrated professional experience appropriate for this program.",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "etapa_carrera",
+        "value": "estudiantes de posgrado pueden participar, pero no pueden ser PI ni Co-PI",
+        "quote": "While graduate students may be part of the team, they may not be named the PI or Co-PI on the proposal.",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "tipo_investigacion",
+        "value": "investigación colaborativa y participativa; diseño basado en investigación; comunidades de mejora en red; alianzas de investigación situadas; estudios aleatorizados; estudios descriptivos; implementación; defensa de políticas",
+        "quote": "Research Activities Each proposal should describe new research that would be launched or existing research activities that would be expanded with the grant.",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "requisitos_contraparte",
+        "value": "al menos un Co-PI debe provenir de la otra organización miembro; la organización administradora debe ser sin fines de lucro o pública/gubernamental; se esperan colaboraciones de largo plazo entre investigadores y practicantes",
+        "quote": "At least one Co-PI should be from the other member organization(s).",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "rol_permitido_para_postulante",
+        "value": "PI o Co-PI perteneciente a la organización administradora; el PI puede ser el practicante o el investigador; el solicitante debe presentar preproposal y luego, por invitación, propuesta completa",
+        "quote": "The PI associated with the administering organization for this grant could be either the practitioner/policymaker or researcher of the partnership.",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "frecuencia_apertura_llamado",
+        "value": "once a year",
+        "quote": "We accept preproposals once a year in this program.",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "frecuencia_normalizada",
+        "value": "anual",
+        "quote": "We accept preproposals once a year in this program.",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      },
+      {
+        "field": "elegibilidad_uchile",
+        "value": "No",
+        "quote": "Proposals are accepted from the U.S. and internationally.",
+        "url": "https://www.spencer.org/grant_types/research-practice-partnerships"
+      }
+    ]
+  }
+}
